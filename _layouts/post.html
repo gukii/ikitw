@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<style>
+	
+	.postImage {
+		width: 100%;
+	}
+
+
+	ul {
+	   list-style:none;
+	   padding-left: 0;
+	   margin-left: 0;
+	}
+
+	li {
+		padding-bottom: 1em;
+	}
+
+	.fieldType {
+		opacity: 0.5;
+		/*margin-bottom: 0.2em;*/
+	}
+
+	.postContent {
+		font-size: 1.3em;
+		margin-bottom: 1.5em;
+	}
+
+
+</style>
+
+<div class="blogpost">
+    <span class="fieldType">Post date:</span> 
+		{{ page.date }}<br />
+    <br />
+
+
+{% comment %}
+    {% if page.story %}
+    	<div class="fieldType">Story:</div> 
+    	{{ page.story }} <br />
+    	<br />
+    {% endif %}
+
+    {% if page.message %}
+    	<div class="fieldType">Message: </div>
+    	{{ page.message }} <br />
+    	<br />
+    {% endif %}
+{% endcomment %}
+
+
+  
+
+
+
+    {% if page.media %}
+
+
+
+		{% comment %}
+this block is just a hack, because the content contains <a href ... <img .. blocks that i don t want to show.. 
+
+i m extracting all content before these image blocks and show it..
+		{% endcomment %}
+
+
+
+      {% if content.size > 0 %}
+		{% assign contentTxt = content | split: '<a href=' %}
+
+
+		<div class="postContent">
+			{{ contentTxt[0] }}
+		</div>
+
+	  {% endif %}
+
+
+
+      <ul>
+      {% for item in page.media %}
+        <li>
+        	<a href="{{ item.link }}">
+	        	<img class="postImage" src="https://i.imgur.com/{{item['id']}}h.jpg" />
+	        </a> 
+
+	        {% if item.description and item.description != 'null' %}
+	        	<br />
+	        	{{ item.description }}
+	        {% endif %}
+
+        </li>
+      {% endfor %}
+  	  </ul>
+
+    {% endif %}
+
+
+{% comment %}
+    Conent:<br />
+    {{ content }}
+{% endcomment %}
+
+</div>

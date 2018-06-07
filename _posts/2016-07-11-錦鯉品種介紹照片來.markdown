@@ -1,0 +1,56 @@
+---
+layout: post
+title: "錦鯉品種介紹照片來" 
+date: 2016-07-11T09:42:28+0000 
+categories: [Sakai,Koishow,News] 
+media:
+  - id: gSM5MzH
+    name: 5zX4NoALAKFlXoO4XMm7TxB649
+    description: "null"
+    height: 548
+    width: 676
+    type: image/jpeg
+    link: https://i.imgur.com/gSM5MzH.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L5O67Ojc6pmGRq5WnCoNpyxOwO9tDyRLryPZzI3R44RWGrJfN3OLK9mjnSrLmmo9r2DiBj5kREJKlCZnqE5mAAof9rv3ZXQoYUY0W9BLQBgfMyNVK1A6mf1oqr518pJfApDV49PjyClYqXV4V3kTqRrXA2pYATqPnV9DmlgTm835xyPgoT288my
+    parentId: 4yP3MnWLWGCxB1RW4L4wTV8yYq
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0mFNJZlYRzLOhyE4Bw99W9CW6
+    mInfo: O2LtbABTgNVlDnA
+  - id: vUWqQCF
+    name: Y9Nm3DV5Vqf9nzwgLQXGIM6yQr
+    description: "null"
+    height: 720
+    width: 417
+    type: image/jpeg
+    link: https://i.imgur.com/vUWqQCF.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyvnyrQQQCKlQlNpLgDHrXR7xJ0jWTXK54K8jG3C3Q82KVGY8uz2qB4RRmxsNmWO3jKPJfp6JRvPm8yCYXyz1kBJGhpg8X8Gy6Zf6pYjgnnzZfE19RnYKKZcDwOWRDKZKcyLnGN46Akip0NnARozEcE5OBvrDzotDqPWrjlQ3fVk84NW28KhKjPp79PBlixMyGWwxkv
+    parentId: 4yP3MnWLWGCxB1RW4L4wTV8yYq
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0mFNJZlYRzLOhyE4Bw99W9CW6
+    mInfo: Y0hO0vHyQu1x2vF
+  - id: iuN1d5D
+    name: VVKj3zJQJncZW7jPXQR5UQjvxO
+    description: "null"
+    height: 350
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/iuN1d5D.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZwwlVIPR1WplA2liW4BvBwoDlI8Vn2oK0ZAHoD22DznmnhLQkO0WKWqs9G9nBGoEmsYK8ODxVAVtNxm7xLqxghk0jRomNkRuxDMopnwPzH4pXY4VLv9s7RR1qvw4NH74PDrrwyohAknX2WkOqSnA2mz923niBopPpgLvnsAYL7Y9nBmuJ9pXzZNR3CY35xmZr05t4k10PvOA2s4Y
+    parentId: 4yP3MnWLWGCxB1RW4L4wTV8yYq
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0mFNJZlYRzLOhyE4Bw99W9CW6
+    mInfo: ILmR9jg9xp4I9va
+
+---
+
+錦鯉品種介紹
+照片來源：Mark Gardner
+樹狀圖鑑：Seishu Kataoka
+年代列表：全日本錦鯉振興會 JNPA
+
+
+<a href="https://i.imgur.com/gSM5MzH.jpg"><img src="https://i.imgur.com/gSM5MzH.jpg" height="243" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/vUWqQCF.jpg"><img src="https://i.imgur.com/vUWqQCF.jpg" height="300" width="173" /></a> 
+
+ 
+<a href="https://i.imgur.com/iuN1d5D.jpg"><img src="https://i.imgur.com/iuN1d5D.jpg" height="145" width="300" /></a> 
+ 

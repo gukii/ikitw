@@ -1,0 +1,71 @@
+---
+layout: post
+title: "丸阪養鯉場 Mar" 
+date: 2016-07-18T03:32:28+0000 
+categories: [Sakai,Koishow,News] 
+media:
+  - id: rVONxgr
+    name: pjljnwLvlOcwV7mBR3v2cJZODB
+    description: "null"
+    height: 720
+    width: 463
+    type: image/jpeg
+    link: https://i.imgur.com/rVONxgr.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8N049xz4lcPJEYRmOJKTv1kyA0v7KSmyJoLO8P4CpVVrKqwZ2fQ8rPPqGg6CDqwgZN6Z8IPQvKBZnnQcymq9E88zlf5KZA8E44qsVmAOJVBDxhyJlLnlVwYtjMNAwLmKrT1vQp97NywtX91Z0GgrotAEz2o53JGi1Z4MWE4QlUB1kK9v1g6
+    parentId: Z9N9gOprlxFYon808XGyixQlDZ
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXyktoJxNr5Nj0FGD7NVPXw9hWX
+    mInfo: TXj5MXwcf07zEGN
+  - id: vuT25gO
+    name: n9j9lQ6qjMCV7RP2g5Q6umo1D3
+    description: "null"
+    height: 294
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/vuT25gO.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kvvY1cJwovBq64qC014q47Bzxc3MDWjZA0LhwKAxQVA6MCmQZZ3rro8I1nDqxJVP9CM7AEOmBOmi36JJqgG63cqV6jRZw2RCMWnql1Dr9F7BqX725JNiYZZ5GmA7niXBAWNNvp9ID1ORKGZDvH5zrmW5oM0hjzYor57XMUJjqkmmjQVIMzVEXQkmEhomJ2A5Z3kHR9lWZw07NUpz
+    parentId: Z9N9gOprlxFYon808XGyixQlDZ
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXyktoJxNr5Nj0FGD7NVPXw9hWX
+    mInfo: votTNIhFekxHL9N
+  - id: X0vdyVd
+    name: g9N9yYMjNBCJY5WJlVg9SEAPRl
+    description: "null"
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/X0vdyVd.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy69yoD18F05RDmyMVOc31PvJ6KGnIvAqxj8mB8IGny4YwV9QI1RKAGqWELSEggmzL9VghNj0pwOl3Bs2RXwD8PvPuM1GV52xN1h76PNOgg2AfYlgkKGww3IXErgzXwg5uo8o6qD6o0f5qOol8YlxUrpxmq8MLPfj6DgD432WIDjvqNJL9Wtok8R7j8mYtR9RLQVKMM
+    parentId: Z9N9gOprlxFYon808XGyixQlDZ
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXyktoJxNr5Nj0FGD7NVPXw9hWX
+    mInfo: ps1mMyCEQfPFOy8
+  - id: ojriBX9
+    name: 2wQwX4DmQnIQEo4Zpv7wi96zDp
+    description: "null"
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ojriBX9.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1Jqj2x66BS4mgYjM2XESB5ArnqYYls5D2mW1B4BH8wowPRAXpT21ZmQWOGWcj5G8WKVm7FjZ9KzRXgrcrOG6xNNnjHx7YwNGVVOuYRNM7Y5PXcvJ3N3039yFgX38LYjZ0h4q8XNXOK4FvYkE19zpMFpkj9QKAl0UMvOPKyOYqSZkW0mqBDx
+    parentId: Z9N9gOprlxFYon808XGyixQlDZ
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXyktoJxNr5Nj0FGD7NVPXw9hWX
+    mInfo: YQzQmctWNYrTUXL
+
+---
+
+丸阪養鯉場 Marusaka Koi Farm
+變種鯉、金銀鱗、孔雀
+
+Marusaka Koi Farm
+Kawarimono, Kinginrin, Kujiaku.
+
+
+<a href="https://i.imgur.com/rVONxgr.jpg"><img src="https://i.imgur.com/rVONxgr.jpg" height="300" width="192" /></a> 
+
+ 
+<a href="https://i.imgur.com/vuT25gO.jpg"><img src="https://i.imgur.com/vuT25gO.jpg" height="122" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/X0vdyVd.jpg"><img src="https://i.imgur.com/X0vdyVd.jpg" height="225" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/ojriBX9.jpg"><img src="https://i.imgur.com/ojriBX9.jpg" height="300" width="225" /></a> 
+ 

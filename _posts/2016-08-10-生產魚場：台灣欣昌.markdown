@@ -1,0 +1,41 @@
+---
+layout: post
+title: "生產魚場：台灣欣昌" 
+date: 2016-08-10T12:44:27+0000 
+categories: [Sakai,Koishow,News] 
+media:
+  - id: PIngs0O
+    name: 2wQwzoGWPMhmX1O3k5LEH9576O
+    description: "生產魚場：台灣欣昌 Sing Chang Koi Farm
+生產年份：2014.6
+品種類別：紅輝黑龍 Beni Kikokuryu
+性別公母：不明 Unknow
+鑑賞等級：賽級 Show
+魚隻編號：160803C42
+展售地點：已售出"
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/PIngs0O.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR74z7Kvv2cmLEJv9K6mi9EXg2pO31tV2lQgMB5AuWlWR9OvoDsm1KkE0w5BFMPmY2PXRNuQk7KZmxklUpMmZRz747HVXJn7WBkZikZ6VBJJEjtMlQ4z3PPjTpKNmMp9YmFZ97z40E73fDAEKB30KxFB51VZK4V9ImDyBKvKkPI7Rq8GYm0WT6Xxl7AxLDc9B85g2vP0
+    parentId: 2wQwzoGWPMhmX1O3k5LEH9576O
+    postId: j9VvwlGQjVs0y1G4Qg5oSwq7o9XOMofYgN7G8KOOinYM3AjKpBhAJ
+    mInfo: aTPGR13TGQ8WhlC
+story: "華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan."
+---
+
+生產魚場：台灣欣昌 Sing Chang Koi Farm
+生產年份：2014.6
+品種類別：紅輝黑龍 Beni Kikokuryu
+性別公母：不明 Unknow
+鑑賞等級：賽級 Show
+魚隻編號：160803C42
+展售地點：已售出
+ 
+ 
+[//]: #story:
+華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan.
+
+
+<a href="https://i.imgur.com/PIngs0O.jpg"><img src="https://i.imgur.com/PIngs0O.jpg" height="300" width="200" /></a> 
+ 
