@@ -102,11 +102,11 @@ layout: simplehome
 
     .dateContainer {
       width: "300px";
-      opacity: 0.5;
+      color: grey;
     }
 
     .stats {
-      opacity: 0.5;
+      color: grey;
       font-size: small;
     }
 
