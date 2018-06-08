@@ -142,42 +142,42 @@ layout: home
 </style>
 
 <main class="outerContainerStyle">
-{% for post in site.posts %}
-  <article>
+	{% for post in site.posts %}
+	  <article>
 
-    <div class="dateContainer">
-      <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    </div>
+	    <div class="dateContainer">
+	      <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+	    </div>
 
-    <div class="postContainerStyle" />
+	    <div class="postContainerStyle">
 
-      <div class="thumbnailContainerStyle">
-        <a href="{{ post.url }}">
-          {% for myImg in post.media limit:4 %}
+	      <div class="thumbnailContainerStyle">
+	        <a href="{{ post.url }}">
+	          {% for myImg in post.media limit:4 %}
 
-            {% if post.media.size == 1 %}
-              <img class="imageStyle" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
-            {% elsif post.media.size == 2 %}
-              <img class="imageStyle" src="https://i.imgur.com/{{myImg['id']}}t.jpg" />
-            {% elsif post.media.size > 2 %}
-              <img class="imageStyle" src="https://i.imgur.com/{{myImg['id']}}t.jpg" />
-            {% endif %}
-
-
-          {% endfor %}
-        </a>
-      </div>
-
-      <div class="textContentStyle" />
-        {% assign outputStr = post.content | strip_html | truncate: 80 %}
-        {{ post.content | strip_html | truncate: 80 }}
-        <br />
-        <span class="stats">post size: {{ post.content.size }} characters, images: {{ post.media.size }}</span>
-      </div>
-
-    </div>
+	            {% if post.media.size == 1 %}
+	              <img class="imageStyle" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
+	            {% elsif post.media.size == 2 %}
+	              <img class="imageStyle" src="https://i.imgur.com/{{myImg['id']}}t.jpg" />
+	            {% elsif post.media.size > 2 %}
+	              <img class="imageStyle" src="https://i.imgur.com/{{myImg['id']}}t.jpg" />
+	            {% endif %}
 
 
-  </article>
-{% endfor %}
+	          {% endfor %}
+	        </a>
+	      </div>
+
+	      <div class="textContentStyle">
+	        {% assign outputStr = post.content | strip_html | truncate: 80 %}
+	        {{ post.content | strip_html | truncate: 80 }}
+	        <br />
+	        <span class="stats">post size: {{ post.content.size }} characters, images: {{ post.media.size }}</span>
+	      </div>
+
+	    </div>
+
+
+	  </article>
+	{% endfor %}
 </main>
