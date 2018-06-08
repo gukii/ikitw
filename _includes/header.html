@@ -1,4 +1,24 @@
-<header class="site-header" role="banner">
+  <style>
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+
+    }
+
+    .sticky + .page-content {
+      padding-top: 140px;
+    }
+
+    header {
+      background-color: snow;
+    }
+
+  </style>
+
+
+<header class="site-header" role="banner" id="stickymenu">  
+
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
@@ -35,4 +55,26 @@
       </nav>
     {%- endif -%}
   </div>
+
+
 </header>
+
+
+
+  <script>
+
+
+    var stickymenu = document.getElementById("stickymenu")
+    var stickymenuoffset = stickymenu.offsetTop
+
+    window.addEventListener("scroll", function(e){
+            if (window.pageYOffset > stickymenuoffset){
+                stickymenu.classList.add('sticky')
+            }
+            else{
+                stickymenu.classList.remove('sticky')
+            }
+    })
+
+
+  </script>  
