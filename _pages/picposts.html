@@ -146,7 +146,7 @@ permalink: /picposts/
       <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     </div>
 
-    <div class="postContainerStyle" />
+    <div class="postContainerStyle">
 
       <div class="thumbnailContainerStyle">
         <a href="{{ post.url }}">
@@ -165,7 +165,7 @@ permalink: /picposts/
         </a>
       </div>
 
-      <div class="textContentStyle" />
+      <div class="textContentStyle">
         {% assign outputStr = post.content | strip_html | truncate: 80 %}
         {{ post.content | strip_html | truncate: 80 }}
         <br />
