@@ -1,0 +1,227 @@
+---
+layout: post
+title: "恭喜 袁建棟 先生" 
+date: 2018-02-04T10:17:56+0000 
+categories: ["錦鯉品評會","Sakai","Omosako","面迫","IKI","華錦","Dainichi","大日","Marujyu","丸重","Koi ","錦鯉"] 
+media:
+  - id: Tecaty9
+    name: wwXpYxDpl2Tn2EyBLvR1tO7VJ20
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Tecaty9.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgr3ZkUqxL2y4EgXSW5W9LqADNHo7MRmP8qWTGx1oQABBAFKvmV9EQ95S41xz95vOAc1PBLgyNrWf8kp7kxO4ruGoyqlqj7YcAZQoAODWpfKEE8Q9ND0iL143yyZ7xuYEp9vADR8T98Bm99zwEIoNwp3NByxsyKBDYxrLxIRWPYokmG0UEyMj0Y0nXFgJz1DVm7lF9n
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    mInfo: rj3ujcMid9lXkd6
+  - id: QcCJ7ZJ
+    name: JxO6V1g6RzCoVWwj8Wm0TJW2Gmk
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/QcCJ7ZJ.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2EXwMph41W0N5ZGwcoro3JVDKZCj1Wrn6nWwtE3jVwYmp0Ur4DojWEw9IJGwQByY2pC84Z2AO6NPC0Dk76m28wHvmvY1m26pCNlMLNZgYmF7GGzZ0YvQH9Pp4DD2j2ULZL1WnxZAfvkvnEY6gYSVxJOqPLlZSAjzQvAnAyij6E17Yv5osBWWDN4YLGi2LQLzXpxyCMx
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    mInfo: kb4HSK64KBlehn6
+  - id: YIJXY6j
+    name: 6Nn8rMq8jGfJq60DnyzRHZnyJQx
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YIJXY6j.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZN3rEkuy3RLnGEXmtWAWorvOZwcGkMzQ4XxysrApO4PllgUXGWR2VwDDcn4AgloYL2CVrBWVOxYwHB1G30k4xqC1zWNB4342s0kOM0mAY4sv88W9NVMliEBmKyy1rrhwE7gxXO5vfN2KK0D4WYTwOvkxVgNgcrP5Monlx0tZzD8WOQ0Gf9oo4DY8xMiK8BEBwNmziGl
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    mInfo: oGW1o9x7grggMyu
+  - id: 6YAmr61
+    name: GrL6PAO6Ezi96NOKgJ6yH2nAv1Z
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6YAmr61.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXknJpFXkDLYQ9Gqf7w79WYrnZHk8mrPLj7MsDjpoKEyyviqWEwj8go5t0pyWvg7BpCLMyEm4p6Xuwxp77kP83i46lVNvjRXuzvV8zqw9YT0VVWEM4xpuAL2NDD7JJfnXAR2WBNLc9X6LDD6OjuNx55XKnpOhPAB1DOQKEHlKPOxX9XLINro62Z28YH8VzrAYWp1hmK
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    mInfo: zSpqkakp13IYHmb
+  - id: 8yfimw4
+    name: 3Xk1o3n1GEfvOg93Y609fZMgKlD
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/8yfimw4.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17Y4VymFYn9wNALBGfZMZoJGOM9Hn75P1zPlycY95PJ6qqgfMWJqk4gkrI6WXvLjqBDuPXPrw6ZkzhAPVqWYLY0hyRgo4kQkwcjZVWjAOBNuDxxO06kwEhzYqNvv0oVspRwz62p0XSAj0gjNJBEURW636NxxRIWJX8Ll52pHmQAXQPnm1sNl0D52XDMS3vwvPq8gPixB
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    mInfo: yCRFfpNuFPMCI5U
+story: "華錦顧問股份有限公司 is at 東京流通センター."
+message: "恭喜 袁建棟 先生 🎉🎉🎉
+愛鯉榮獲第49回全日本総合錦鯉品評會;
+部別椿賞x2項 ，優勝 x5項，優勝次席x2項，準優勝x12項，合計21獎項。
+
+50部 廣井德昭 椿賞
+65部 大塚丹頂 椿賞
+50部 廣井德昭 優勝
+55部 面迫白寫 優勝
+65部 廣井德昭 優勝
+65部 大塚丹頂 優勝
+80部 面迫白寫 優勝
+50部 廣井銀五 優勝次席
+85部 阪井紅白 優勝次席
+45部 廣井五色 準優勝
+50部 銀鱗紅白 準優勝
+55部 阪井紅白 準優勝 公魚
+60部 阪井紅白 準優勝 
+60部 阪井大正 準優勝 公魚
+60部 大日昭和 準優勝 公魚
+60部 廣井銀昭 準優勝
+65部 阪井紅白 準優勝
+65部 丸重藍衣 準優勝
+70部 大日紅白 準優勝
+75部 深沢落葉 準優勝
+80部 桃太郎 銀鱗紅白 準優勝
+
+代理;台灣華錦顧問股份有限公司 （IKI TAIWAN）
+
+感謝廣井養鯉場、大塚養鯉場、面迫養鯉場、阪井養魚場、大日養鯉場、丸重養鯉場、桃太郎養鯉場、深沢養鯉場、成田養魚園！
+以及辛苦的全體評審委員！
+
+Congratulations Mr.Yuan 🎉🎉🎉
+
+Tsubaki Prize;
+50bu Doitsu Showa - Hiroi Koi Farm
+65bu Tancho - Otsuka Koi Farm
+
+First prize in Variety and size;
+50bu Doitsu Showa - Hiroi Koi Farm
+55bu Shiro Utsuri - Omosako Koi Farm
+65bu Doitsu Showa- Hiroi Koi Farm
+65bu Tancho - Otsuka Koi Farm
+80bu Shiro Utsuri - Omosako Koi Farm
+
+2nd Prize in Variety and Size;
+50bu G-Goshiki - Hiroi Koi Farm
+85bu Kohaku - Sakai Koi Farm
+
+3rd Prize in Variety and Size;
+45bu Goshiki - Hiroi Koi Farm
+50bu G-Kohaku - Hiroi Koi Farm
+55bu Kohaku (M)- Sakai Fish Farm
+60bu Kohaku - Sakai Fish Farm
+60bu Sanke - Sakai Fish Farm
+60bu Showa (M) - Dainichi Koi Farm
+60bu G-Showa - Hiroi Koi Farm
+65bu Kohaku - Sakai Fish Farm
+65bu Goromo - Marujyu Koi Farm
+70bu Kohaku - Dainichi Koi Farm
+75bu Ochiba - Fukazawa Koi Farm
+80bu G-Kohaku - Momotaro Koi Faem
+
+Handle by;
+Narita Koi Farm、Sakai Fish Farm, Omosako Koi Farm, Momotaro Koi Farm, Dainichi Koi Farm, Marujyu Koi Farm.
+
+Dealer; Huajin Consulting Co., Ltd ( IKI TAIWAN)
+
+#第49回全日本総合錦鯉品評會
+#2018AJKS"
+---
+
+恭喜 袁建棟 先生 🎉🎉🎉
+愛鯉榮獲第49回全日本総合錦鯉品評會：
+部別椿賞x2項 ，優勝 x5項，優勝次席x2項，準優勝x12項，合計21獎項。
+
+50部 廣井德昭 椿賞
+65部 大塚丹頂 椿賞
+50部 廣井德昭 優勝
+55部 面迫白寫 優勝
+65部 廣井德昭 優勝
+65部 大塚丹頂 優勝
+80部 面迫白寫 優勝
+50部 廣井銀五 優勝次席
+85部 阪井紅白 優勝次席
+45部 廣井五色 準優勝
+50部 銀鱗紅白 準優勝
+55部 阪井紅白 準優勝 公魚
+60部 阪井紅白 準優勝 
+60部 阪井大正 準優勝 公魚
+60部 大日昭和 準優勝 公魚
+60部 廣井銀昭 準優勝
+65部 阪井紅白 準優勝
+65部 丸重藍衣 準優勝
+70部 大日紅白 準優勝
+75部 深沢落葉 準優勝
+80部 桃太郎 銀鱗紅白 準優勝
+
+代理：台灣華錦顧問股份有限公司 （IKI TAIWAN）
+
+感謝廣井養鯉場、大塚養鯉場、面迫養鯉場、阪井養魚場、大日養鯉場、丸重養鯉場、桃太郎養鯉場、深沢養鯉場、成田養魚園！
+以及辛苦的全體評審委員！
+
+Congratulations Mr.Yuan 🎉🎉🎉
+
+Tsubaki Prize:
+50bu Doitsu Showa - Hiroi Koi Farm
+65bu Tancho - Otsuka Koi Farm
+
+First prize in Variety and size:
+50bu Doitsu Showa - Hiroi Koi Farm
+55bu Shiro Utsuri - Omosako Koi Farm
+65bu Doitsu Showa- Hiroi Koi Farm
+65bu Tancho - Otsuka Koi Farm
+80bu Shiro Utsuri - Omosako Koi Farm
+
+2nd Prize in Variety and Size:
+50bu G-Goshiki - Hiroi Koi Farm
+85bu Kohaku - Sakai Koi Farm
+
+3rd Prize in Variety and Size:
+45bu Goshiki - Hiroi Koi Farm
+50bu G-Kohaku - Hiroi Koi Farm
+55bu Kohaku (M)- Sakai Fish Farm
+60bu Kohaku - Sakai Fish Farm
+60bu Sanke - Sakai Fish Farm
+60bu Showa (M) - Dainichi Koi Farm
+60bu G-Showa - Hiroi Koi Farm
+65bu Kohaku - Sakai Fish Farm
+65bu Goromo - Marujyu Koi Farm
+70bu Kohaku - Dainichi Koi Farm
+75bu Ochiba - Fukazawa Koi Farm
+80bu G-Kohaku - Momotaro Koi Faem
+
+Handle by:
+Narita Koi Farm、Sakai Fish Farm, Omosako Koi Farm, Momotaro Koi Farm, Dainichi Koi Farm, Marujyu Koi Farm.
+
+Dealer: Huajin Consulting Co., Ltd ( IKI TAIWAN)
+
+#第49回全日本総合錦鯉品評會
+#2018AJKS
+ 
+ 
+[//]: #story:
+華錦顧問股份有限公司 is at 東京流通センター.
+
+
+<a href="https://i.imgur.com/Tecaty9.jpg"><img src="https://i.imgur.com/Tecaty9.jpg" height="300" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/QcCJ7ZJ.jpg"><img src="https://i.imgur.com/QcCJ7ZJ.jpg" height="300" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/YIJXY6j.jpg"><img src="https://i.imgur.com/YIJXY6j.jpg" height="300" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/6YAmr61.jpg"><img src="https://i.imgur.com/6YAmr61.jpg" height="300" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/8yfimw4.jpg"><img src="https://i.imgur.com/8yfimw4.jpg" height="300" width="300" /></a> 
+ 

@@ -2,11 +2,11 @@
 layout: post
 title: "尾形養鯉場3月8日" 
 date: 2017-03-06T03:53:15+0000 
-categories: [Sakai,Koishow,News] 
+categories: ["Auction","Koi "] 
 media:
   - id: 5GVDWXQ
     name: vvWqjolywMhZBx0Jq4yvTO2xRV6
-    description: "null"
+    description: ""   
     height: 720
     width: 502
     type: image/jpeg
@@ -14,10 +14,11 @@ media:
     prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7Qx4NWA1wSX0GRk5BmXSQGr7q4gWzc0V29z9V36H0APgzRoZPtL5xxWrgGphwx8PrBNJzf4QgBVpRRxfzvV8zqw9YT0VVWEM4xpuAL2NDD7JGCzxWqlqBgxH9WlzXgnvkFBRyzvR5XgfPoPNRYD0oc0664Mp58zHp130JzNRXH8VyVwQ15Wfm2
     parentId: 70o8AL1mMxIYqyxpXwGWSp43lKE
     postId: EV7Zg5NOE7Uj6o085B94i12P7RG2BLCvp1rM7OVNhlypD0Am3juLyX
+    factor: 1.43
     mInfo: iBPY07mAcmj1Ibq
   - id: 0BlIccp
     name: olMROQVomBsmoEp39wVkTRX17L3
-    description: "null"
+    description: ""   
     height: 720
     width: 501
     type: image/jpeg
@@ -25,10 +26,11 @@ media:
     prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZXYOynqMQf817BJ7RYosAZoKMVlnxCrLr4ozEqoTo9Q4BYGWohL07xPWOvBfAQAGR8DzDhyRpvQoNxgTjZVWjAOBNuDxxO06kwEhzYqNvv0mofDOgNLMAgnF9WRLyyP90u32p8mWnpOIADAn79lMDiq6m9ElVX0tLY5kEnkOmf3v8oVAPyXUxZ
     parentId: 70o8AL1mMxIYqyxpXwGWSp43lKE
     postId: EV7Zg5NOE7Uj6o085B94i12P7RG2BLCvp1rM7OVNhlypD0Am3juLyX
+    factor: 1.44
     mInfo: CvHv38xgXQQpLt9
   - id: 77rMlFX
     name: PE0mYZ7kGwunDWDKNr2Xc3G5Np3
-    description: "null"
+    description: ""   
     height: 720
     width: 504
     type: image/jpeg
@@ -36,30 +38,17 @@ media:
     prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M0zDWKO4S5ZNrZQ6QRuA1YLWE6MnIVNymEmNjBToEy36G3nvcg7MR6DwmMsvx3ME3DWyujPPvY14AMUYW2zYRqEmFNPPDJXlz2FgYMWzz3KvUmqRLgyOJAUJ08N6OmzJIm3GkxDAxwfpn6QVzv1pI3EY3W60AjFxVY3QN7qYCzLq8gp3Bgi5q
     parentId: 70o8AL1mMxIYqyxpXwGWSp43lKE
     postId: EV7Zg5NOE7Uj6o085B94i12P7RG2BLCvp1rM7OVNhlypD0Am3juLyX
+    factor: 1.43
     mInfo: NcV08x0N22Hkxyz
-  - id: OPla8NK
-    name: jKEQnqZjBwT0686yNgwos6G92wO
-    description: "null"
-    height: 720
-    width: 502
-    type: image/jpeg
-    link: https://i.imgur.com/OPla8NK.jpg
-    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVoPwR30gGCR6WLoAOrjTqJWD403xKHojnYzqnW7tQXgJNALBPf3YWWyPGXESNPjokYqPjSPXZgwXOXNsO0jxOJ36XIj11A7QXqEhAQx1RRrNrc46v02ZywMfm8lGV1A5OSxm0K6Oj3jcJE3V5JZv1C9GVrk1vBQiV2Y6KGKW4UMAPq1M67ECN7
-    parentId: 70o8AL1mMxIYqyxpXwGWSp43lKE
-    postId: EV7Zg5NOE7Uj6o085B94i12P7RG2BLCvp1rM7OVNhlypD0Am3juLyX
-    mInfo: Im8iqqBTmAazyZp
-  - id: 94MNjrZ
-    name: olMROQVomBsmoEo4B8LncRX17AG
-    description: "null"
-    height: 720
-    width: 504
-    type: image/jpeg
-    link: https://i.imgur.com/94MNjrZ.jpg
-    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWNJZDXMkQTL35R7lgrOiB2KGNYnJOhXpX1kq3ENTVPqDg2kQ4fyZvgN30GwHDN8kVBWWjuYpYkYlvoqck4nYk7mZBHnKKZov3VEhnGKLrrm5VsAYyzAnK1AFYvrxL2v0DCWNMlM4Q0BF8lGGlMjgvfg1pl63yp3cW4jrk6qVwuP7l7R2LyyfGv
-    parentId: 70o8AL1mMxIYqyxpXwGWSp43lKE
-    postId: EV7Zg5NOE7Uj6o085B94i12P7RG2BLCvp1rM7OVNhlypD0Am3juLyX
-    mInfo: nFSpUj2TPCfxzZX
+message: "尾形養鯉場
+3月8日 春季拍賣會
+http;//www.ogatakoi.com/eng/
 
+OGATA KOI FARM
+3rd Ogata Spring Auction
+Wednesday March 8th, 2017
+
+PS. 如需代標請私訊，謝謝^_^"
 ---
 
 尾形養鯉場
@@ -73,17 +62,11 @@ Wednesday March 8th, 2017
 PS. 如需代標請私訊，謝謝^_^
 
 
-<a href="https://i.imgur.com/5GVDWXQh.jpg"><img src="https://i.imgur.com/5GVDWXQ.jpg" height="300" width="209" /></a> 
+<a href="https://i.imgur.com/5GVDWXQ.jpg"><img src="https://i.imgur.com/5GVDWXQ.jpg" height="300" width="209" /></a> 
 
  
-<a href="https://i.imgur.com/0BlIccph.jpg"><img src="https://i.imgur.com/0BlIccp.jpg" height="300" width="208" /></a> 
+<a href="https://i.imgur.com/0BlIccp.jpg"><img src="https://i.imgur.com/0BlIccp.jpg" height="300" width="208" /></a> 
 
  
-<a href="https://i.imgur.com/77rMlFXh.jpg"><img src="https://i.imgur.com/77rMlFX.jpg" height="300" width="210" /></a> 
-
- 
-<a href="https://i.imgur.com/OPla8NKh.jpg"><img src="https://i.imgur.com/OPla8NK.jpg" height="300" width="209" /></a> 
-
- 
-<a href="https://i.imgur.com/94MNjrZh.jpg"><img src="https://i.imgur.com/94MNjrZ.jpg" height="300" width="210" /></a> 
+<a href="https://i.imgur.com/77rMlFX.jpg"><img src="https://i.imgur.com/77rMlFX.jpg" height="300" width="210" /></a> 
  
