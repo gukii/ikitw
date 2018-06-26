@@ -1,36 +1,36 @@
 ---
 layout: post
 title: "生產魚場：日本川上" 
-date: 2016-10-09T09:19:59+0000 
+date: 2016-10-09T09:21:55+0000 
 categories: ["華錦","Koi "] 
 media:
-  - id: v3wlmHb
-    name: VVKq1kRPOKuZA2k56pYLuQjPEJ
+  - id: 4So7orO
+    name: qkmqJr1YxmSv9RJlyZWQUNjyyA
     description: "生產魚場;日本川上 Kawakami Koi Farm
 生產年份;2015.6
-品種類別;金輝黑龍 Kin Kikokuryu
-尺寸公母;25-30cm / 不明
+品種類別;玫瑰金輝黑龍 Rose Gold Kikokuryu
+尺寸公母;30-35cm / 不明
 鑑賞等級;AAA級 
-魚隻編號;Kawakami-20161009-006
+魚隻編號;Kawakami-20161009-005
 展售地點;屏東華錦
 銷售方式;現場交易或貨到付款
 銷售定價;已售出"   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/v3wlmHb.jpg
-    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcoNQrn8MVqu6vBK9VEgYu8k3g7zm9LHrq0KAOx37cQWWorJ4NoI833PJO4YxI08YRpxV1xiv2591N73BSNgMp4JjEYt7G5NxJ70Vs1KlrxVNp4HLZBB7LnxWhjxqw9EJ2oFYDW4ZxLLqcAgn5NAVg7cPB8JBqZv4TVOGrx96qoHxL1q9o8N
-    parentId: VVKq1kRPOKuZA2k56pYLuQjPEJ
-    postId: 4yDkr7pmjDux7A92Kr04CPKWm4AJ30S56v7WNNoNhykAAlQJvJu1J
+    link: https://i.imgur.com/4So7orO.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4l9rjMEAjfryPJRLEvJhBgwmQ6GqRUgJNmLXok9svwrQZ8g6oUG26qggy4whoYJvPw8yLIL7MLxj7KGCLv0oVpp6PCVgEALw22NFRrNWBRN7DUw0M2lXQ6oTPAqpRQvYEugJrLWgYV2iqZqLvj9XETrPMMz8xGXuzgW02mWRLhjZQMxpo4j
+    parentId: qkmqJr1YxmSv9RJlyZWQUNjyyA
+    postId: MVmEqpYDPmUY6Vky4jOBf0XWEM62OBfrR18G6nE7CXD66mG7p4i7O
     factor: 1.33
     portrait: 1
-    mInfo: j6b87Y5c6HKXapX
+    mInfo: 0n9nHZWXg8O5GW8
 message: "生產魚場;日本川上 Kawakami Koi Farm  
 生產年份;2015.6  
-品種類別;金輝黑龍 Kin Kikokuryu  
-尺寸公母;25-30cm / 不明  
+品種類別;玫瑰金輝黑龍 Rose Gold Kikokuryu  
+尺寸公母;30-35cm / 不明  
 鑑賞等級;AAA級   
-魚隻編號;Kawakami-20161009-006  
+魚隻編號;Kawakami-20161009-005  
 展售地點;屏東華錦  
 銷售方式;現場交易或貨到付款  
 銷售定價;已售出"
@@ -38,15 +38,15 @@ message: "生產魚場;日本川上 Kawakami Koi Farm
 
 生產魚場：日本川上 Kawakami Koi Farm  
 生產年份：2015.6  
-品種類別：金輝黑龍 Kin Kikokuryu  
-尺寸公母：25-30cm / 不明  
+品種類別：玫瑰金輝黑龍 Rose Gold Kikokuryu  
+尺寸公母：30-35cm / 不明  
 鑑賞等級：AAA級   
-魚隻編號：Kawakami-20161009-006  
+魚隻編號：Kawakami-20161009-005  
 展售地點：屏東華錦  
 銷售方式：現場交易或貨到付款  
 銷售定價：已售出
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/v3wlmHb.jpg"><img src="https://i.imgur.com/v3wlmHb.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/4So7orO.jpg"><img src="https://i.imgur.com/4So7orO.jpg" height="300" width="225" /></a> 
  
