@@ -1,0 +1,345 @@
+---
+layout: post
+title: "恭喜 袁建棟 先生" 
+date: 2018-02-04T10:17:56+0000 
+categories: ["錦鯉品評會","Sakai","Omosako","面迫","IKI","華錦","Dainichi","大日","Marujyu","丸重","Koi ","錦鯉"] 
+media:
+  - id: J9RfM5t
+    name: wwXpYxDpl2Tn2EyBLvR1tO7VJ20
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/J9RfM5t.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2EXwMph41W0N5ZGwcoro1QYwAjtjKBpRgn18TE3jVwYmmYFW26DBVpBPSJ6gP8xLM2F84Z21lJv0s0DkGDqKlzsQ9ml0lkRLcNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jjhv0poA6MjMfj8WqpGMZocVxGnWR6WkhROlE426r3CzRywMvWJqUVomBk5Jg7i2L4O387LmIM2
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: Cb5PLWlAk8ebo2x
+  - id: S6r1JyA
+    name: 6Nn8rMq8jGfJq60DnyzRHZnyJQx
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/S6r1JyA.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZN3rEkuy3RLnGEXmtWAWorvOZwcGkMzQ4XxysrApO4PllgUXGWR2VwDDcn4AgloYL2CVrBWVOxYwHB1G30k4xqC1zWNB4342s0kOM0mAY4sv88W9NVMliEBmKyy1rrhwE7gxXO5vfN2KK0D4WYTwOvkxVgNgcrP5Monlx0tZzD8WOQ0Gf9oo4DY8xMiK8BEBwNmziGl
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: mh5U3naQMfFK8cV
+  - id: esBJOEb
+    name: GrL6PAO6Ezi96NOKgJ6yH2nAv1Z
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/esBJOEb.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXknJpFXkDLYQ9Gqf7w79WYrnZHk8mrPLj7MsDjpoKEyyviqWEwj8go5t0pyWvg7BpCLMyEm4p6Xuwxp77kP83i46lVNvjRXuzvV8zqw9YT0VVWEM4xpuAL2NDD7JJfnXAR2WBNLc9X6LDD6OjuNx55XKnpOhPAB1DOQKEHlKPOxX9XLINro62Z28YH8VzrAYWp1hmK
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: dzGfcaWHs00tEGG
+  - id: AggUttD
+    name: 3Xk1o3n1GEfvOg93Y609fZMgKlD
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/AggUttD.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wYyNouvVJKgMyXRFJxJEK54xAU13oEWREJLh4lkXL3007igQEAZowZlIyk104Ex59FzGzWkw1qvtn3G1lYNYZS7n45wr0rOFRO0rRL1K3FOyy7Nkz4XtXl5K33YB2hmGQElDmQ4u21213YWWltBgmQ6kOxZirmVZDKY4qsmZgBlO7rNiYgXPw2kzGuA7NK8pVlAf72
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: vdNwfbOPXb53Z1H
+  - id: h8CBUsh
+    name: JxO6V1g6RzCoVWwj8Wm0TJW2Gmk
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/h8CBUsh.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RZ7k5UqAGMPVR6ES8E8XJkzqZTPJEYR1REksgMOqGQpkxSmwJn7RqxNu7vWpPyzmJuQWNXEZlpKIDP0w1Bnq6fVmVW5m9Njiy35RyzxW9C5QQJE2DXrSV10MLL23oFNv4W12xjrSj86GAqq3PiJ7kGA5KKNtXBVRkxOJMSAJEQZ8jZgc1QL8y2qrZU9Nr30x9AKHmJ
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: Rf4w0a6BwJzlquc
+  - id: 82YGyec
+    name: PE0N2GoN8ghnP1mQyRX0f2MzDnl
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/82YGyec.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NlngQFKRy83MAlLSkOk7DQ8JYfmG8V6nVNvFw5OPrXxVwcrozwKBYKXcxOwLBxWVoFxlBKkomwWHkGE0D22Wpho174wX03VImkrEmOp4zI7NNO50Q4BH9gEZllKVJSYEM3rE7RnhQ9N6Pln8AcAG97zq7vOtNLE1mwNjkHk932rpgZ5tpGyqq51GjC9BArKrADyt9n
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: mHbDCvTdJUhOtvQ
+  - id: QiKBtZm
+    name: gEAJByjJP8hJD1WEXnDJI98Qox2
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/QiKBtZm.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQzBDmflWJjwO26vtApA3rLPNWh3yxxnxympsy68AJ9BxrtEWY5go4vJFKXjwDD377H6gEvYENXvS1J83DpyZYhK1r54Q8XGToxA7oBYKguLXXD43m18t91zlQQOxxhQqVB3nOQ6IV7NM9DGmPFWK8GZ6q5jtgogMOjly1tLjpPVWNBzUgk5Wom375cMxLrK2kBECqD
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: wSzkeNRkSSOzITU
+  - id: xI0ZZYS
+    name: qnOxPo0x96CvVyrxoR49Uxg5XoZ
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/xI0ZZYS.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGJDrwcxAgzYovV9cl0l4XPR2KuvoGVWjvMRu8qy4mXPVXuK3g5qlz8rTOMzpNv440f5rNPo1XLMc3oMpp7nr1U3vvDPRpRWcpz5BpOyoNTXvvyNMJnOs7QY9553REh65nrxJzKysyBrMKNDjKIXGQxEVORqTZoVZM4ZQWFw6NW9pn4NCqzLrEvjKPiL1G0ZnJ9jHNR
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: yGrSgT6cTFClevP
+  - id: W1EmVGg
+    name: 8Np2wgv2lWfgEmJQ0qD0fPpnEmB
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/W1EmVGg.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dyo91Ux5wlOM1z9cJVJNklgYECDmVVQVmAjHyXNDvG9yvHNr24wl0PBFoR6zZK5z6HRMWJ60m3vFqk3PnM9XEfLNVQXv230I9NDm9Yj7lCOkk34QlLptZw0q33DmmtmJWRGJ4pNUqMgJJNV6WcNZRj55Vqpi1YVk4ZYEKIXP2RjN41RTvwwqXlRYBSqrMP9LPgrCyZ
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: 9dKrCwzebkbsAS5
+  - id: ffyxvNR
+    name: 6Nn8rMq8jGfJqR3OBXq2IPN46LQ
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ffyxvNR.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV0L24sOLNJz1K3GiPZPlNyrDEH9mRWg3lBzTlXQL8w4lyIY2kD9VLq6fK85OGz3yYCvRVvOO37mh6gjZGqxzrUNlP73vWOZuqgp8qm57xtX116r7VpBsBYqJyywEouWZQnVv6VVIO9XLK58rji2YYAJY65xFQjn9NKm5wSpAqB4rpwjCxklpnVokMtQwOpEyq5xt9V
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: L5Mc0a39diDBCLI
+  - id: gAxlOwW
+    name: lgJYK0oYPXHljW9WrA90Fn479YL
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/gAxlOwW.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6xkZzIxgZ8rYLE2cVWVLM4zMzSv9wYyWGBnfr0n4zDxrqhqoBRGln1MUzgq2zVrZmFVLQ0wzmgGcYqk3gYow7s5MwR3yVw3IYjXWYy89KFoPPXzAQjvtnXRxkk5AWI4n99xQ8Joc1rLkG7w1mIKGnYwn6knCQLPngZNYYhN0O2Grp7VhNDnnNmEBXt2zYx2Oxj5iLr
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: 2lfY8yVkK0ofhL8
+  - id: IqfeCGk
+    name: xxYkZyEkm8CjzpGlogmAup5Qlzr
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/IqfeCGk.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqOpjXsZO4KXAvJph4r4Pw5KWVI1MRm9023vcDwlzM3rDqTgMGLDJpjGilDOG1pyxpHAQg1wzPVOTow6Qk1oAKiX84W551MDSLKmyL65QosVQQqwj7mzURlZQPP4wvsGKVpvZY2OSY5PGK7j5XtAyokL36VrTA3mYvDkZACDg1xE5KGXuD7LzzBA7yUjZJAzxvwvtp0
+    parentId: EpJRNyM40Psq2jWE6n4mF8q1N9Z
+    postId: 0ry2n6lqNytzr0gXwjoNfgVWklXVLRtm6kyVD0A2uqn6OAWmMAu8kJ
+    factor: 1.00
+    portrait: 0
+    mInfo: kw836wUSWHvQoQw
+story: "華錦顧問股份有限公司 is at 東京流通センター."  
+message: "恭喜 袁建棟 先生 🎉🎉🎉  
+愛鯉榮獲第49回全日本総合錦鯉品評會;  
+部別椿賞x2項 ，優勝 x5項，優勝次席x2項，準優勝x12項，合計21獎項。  
+  
+50部 廣井德昭 椿賞  
+65部 大塚丹頂 椿賞  
+50部 廣井德昭 優勝  
+55部 面迫白寫 優勝  
+65部 廣井德昭 優勝  
+65部 大塚丹頂 優勝  
+80部 面迫白寫 優勝  
+50部 廣井銀五 優勝次席  
+85部 阪井紅白 優勝次席  
+45部 廣井五色 準優勝  
+50部 銀鱗紅白 準優勝  
+55部 阪井紅白 準優勝 公魚  
+60部 阪井紅白 準優勝   
+60部 阪井大正 準優勝 公魚  
+60部 大日昭和 準優勝 公魚  
+60部 廣井銀昭 準優勝  
+65部 阪井紅白 準優勝  
+65部 丸重藍衣 準優勝  
+70部 大日紅白 準優勝  
+75部 深沢落葉 準優勝  
+80部 桃太郎 銀鱗紅白 準優勝  
+  
+代理;台灣華錦顧問股份有限公司 （IKI TAIWAN）  
+  
+感謝廣井養鯉場、大塚養鯉場、面迫養鯉場、阪井養魚場、大日養鯉場、丸重養鯉場、桃太郎養鯉場、深沢養鯉場、成田養魚園！  
+以及辛苦的全體評審委員！  
+  
+Congratulations Mr.Yuan 🎉🎉🎉  
+  
+Tsubaki Prize;  
+50bu Doitsu Showa - Hiroi Koi Farm  
+65bu Tancho - Otsuka Koi Farm  
+  
+First prize in Variety and size;  
+50bu Doitsu Showa - Hiroi Koi Farm  
+55bu Shiro Utsuri - Omosako Koi Farm  
+65bu Doitsu Showa- Hiroi Koi Farm  
+65bu Tancho - Otsuka Koi Farm  
+80bu Shiro Utsuri - Omosako Koi Farm  
+  
+2nd Prize in Variety and Size;  
+50bu G-Goshiki - Hiroi Koi Farm  
+85bu Kohaku - Sakai Koi Farm  
+  
+3rd Prize in Variety and Size;  
+45bu Goshiki - Hiroi Koi Farm  
+50bu G-Kohaku - Hiroi Koi Farm  
+55bu Kohaku (M)- Sakai Fish Farm  
+60bu Kohaku - Sakai Fish Farm  
+60bu Sanke - Sakai Fish Farm  
+60bu Showa (M) - Dainichi Koi Farm  
+60bu G-Showa - Hiroi Koi Farm  
+65bu Kohaku - Sakai Fish Farm  
+65bu Goromo - Marujyu Koi Farm  
+70bu Kohaku - Dainichi Koi Farm  
+75bu Ochiba - Fukazawa Koi Farm  
+80bu G-Kohaku - Momotaro Koi Faem  
+  
+Handle by;  
+Narita Koi Farm、Sakai Fish Farm, Omosako Koi Farm, Momotaro Koi Farm, Dainichi Koi Farm, Marujyu Koi Farm.  
+  
+Dealer; Huajin Consulting Co., Ltd ( IKI TAIWAN)  
+  
+#第49回全日本総合錦鯉品評會  
+#2018AJKS"
+---
+
+恭喜 袁建棟 先生 🎉🎉🎉  
+愛鯉榮獲第49回全日本総合錦鯉品評會：  
+部別椿賞x2項 ，優勝 x5項，優勝次席x2項，準優勝x12項，合計21獎項。  
+  
+50部 廣井德昭 椿賞  
+65部 大塚丹頂 椿賞  
+50部 廣井德昭 優勝  
+55部 面迫白寫 優勝  
+65部 廣井德昭 優勝  
+65部 大塚丹頂 優勝  
+80部 面迫白寫 優勝  
+50部 廣井銀五 優勝次席  
+85部 阪井紅白 優勝次席  
+45部 廣井五色 準優勝  
+50部 銀鱗紅白 準優勝  
+55部 阪井紅白 準優勝 公魚  
+60部 阪井紅白 準優勝   
+60部 阪井大正 準優勝 公魚  
+60部 大日昭和 準優勝 公魚  
+60部 廣井銀昭 準優勝  
+65部 阪井紅白 準優勝  
+65部 丸重藍衣 準優勝  
+70部 大日紅白 準優勝  
+75部 深沢落葉 準優勝  
+80部 桃太郎 銀鱗紅白 準優勝  
+  
+代理：台灣華錦顧問股份有限公司 （IKI TAIWAN）  
+  
+感謝廣井養鯉場、大塚養鯉場、面迫養鯉場、阪井養魚場、大日養鯉場、丸重養鯉場、桃太郎養鯉場、深沢養鯉場、成田養魚園！  
+以及辛苦的全體評審委員！  
+  
+Congratulations Mr.Yuan 🎉🎉🎉  
+  
+Tsubaki Prize:  
+50bu Doitsu Showa - Hiroi Koi Farm  
+65bu Tancho - Otsuka Koi Farm  
+  
+First prize in Variety and size:  
+50bu Doitsu Showa - Hiroi Koi Farm  
+55bu Shiro Utsuri - Omosako Koi Farm  
+65bu Doitsu Showa- Hiroi Koi Farm  
+65bu Tancho - Otsuka Koi Farm  
+80bu Shiro Utsuri - Omosako Koi Farm  
+  
+2nd Prize in Variety and Size:  
+50bu G-Goshiki - Hiroi Koi Farm  
+85bu Kohaku - Sakai Koi Farm  
+  
+3rd Prize in Variety and Size:  
+45bu Goshiki - Hiroi Koi Farm  
+50bu G-Kohaku - Hiroi Koi Farm  
+55bu Kohaku (M)- Sakai Fish Farm  
+60bu Kohaku - Sakai Fish Farm  
+60bu Sanke - Sakai Fish Farm  
+60bu Showa (M) - Dainichi Koi Farm  
+60bu G-Showa - Hiroi Koi Farm  
+65bu Kohaku - Sakai Fish Farm  
+65bu Goromo - Marujyu Koi Farm  
+70bu Kohaku - Dainichi Koi Farm  
+75bu Ochiba - Fukazawa Koi Farm  
+80bu G-Kohaku - Momotaro Koi Faem  
+  
+Handle by:  
+Narita Koi Farm、Sakai Fish Farm, Omosako Koi Farm, Momotaro Koi Farm, Dainichi Koi Farm, Marujyu Koi Farm.  
+  
+Dealer: Huajin Consulting Co., Ltd ( IKI TAIWAN)  
+  
+#第49回全日本総合錦鯉品評會  
+#2018AJKS
+ 
+ 
+[//]: #story:
+華錦顧問股份有限公司 is at 東京流通センター.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/J9RfM5t.jpg"><img src="https://i.imgur.com/J9RfM5t.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/S6r1JyA.jpg"><img src="https://i.imgur.com/S6r1JyA.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/esBJOEb.jpg"><img src="https://i.imgur.com/esBJOEb.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/AggUttD.jpg"><img src="https://i.imgur.com/AggUttD.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/h8CBUsh.jpg"><img src="https://i.imgur.com/h8CBUsh.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/82YGyec.jpg"><img src="https://i.imgur.com/82YGyec.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/QiKBtZm.jpg"><img src="https://i.imgur.com/QiKBtZm.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/xI0ZZYS.jpg"><img src="https://i.imgur.com/xI0ZZYS.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/W1EmVGg.jpg"><img src="https://i.imgur.com/W1EmVGg.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ffyxvNR.jpg"><img src="https://i.imgur.com/ffyxvNR.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/gAxlOwW.jpg"><img src="https://i.imgur.com/gAxlOwW.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/IqfeCGk.jpg"><img src="https://i.imgur.com/IqfeCGk.jpg" height="300" width="300" /></a> 
+ 
