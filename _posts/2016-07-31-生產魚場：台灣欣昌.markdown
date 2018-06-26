@@ -1,0 +1,104 @@
+---
+layout: post
+title: "生產魚場：台灣欣昌" 
+date: 2016-07-31T07:42:02+0000 
+categories: ["欣昌","Koi "] 
+media:
+  - id: 6EWf6RB
+    name: l9N9KB8EkPtlLkkZLYMDs1v4qK
+    description: ""   
+    height: 615
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6EWf6RB.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWNyKJjylQHM5pE5jBQ2h8kvYYMq2mFXQOv87rKJiRBoGDrnBDC27rnVM2AXiZ69WRp28oSQZ9mzV4G2skozBX007QtnlN2Lorr5hnw2V7n2X5SrYAWjADZEF3KBKP26G8cW9Bow8gk9h81m7l6wrQCEV9v38LXztZ6xDolxgGuPwL7koLgo
+    parentId: LVwVXKAW1RS2oK6kQOpOHj4GRD
+    postId: xrNV0DZqANtjQqR5oZMEiVmwj9zPAjTo3B12wMvJT7LY2r9pojiq5
+    factor: 1.17
+    portrait: 0
+    mInfo: OYtEKiVkzVKlaP3
+  - id: lC0BSFj
+    name: 5zXzq2AKwgt1ARJYrOVxTxGKOj
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/lC0BSFj.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrgAr5kyluE398yPNKrCVo8vgJx2GHR6xGPmpKpuNzv002KVqIwgWg1NJOgtzMOYwV4A6i3qZp1jqkVTNwnRW5N2yC2nlpOnX1JHOQ7XPMMJ9sj58V47DDNcA4W9PAlrJcnxj166wqgsGAkQ1B0OQt4JMqkyQL7U81QlwQGRmt9Mq2vDqkqHrOjLgkj8AIMw8QymJ5X
+    parentId: LVwVXKAW1RS2oK6kQOpOHj4GRD
+    postId: xrNV0DZqANtjQqR5oZMEiVmwj9zPAjTo3B12wMvJT7LY2r9pojiq5
+    factor: 1.33
+    portrait: 0
+    mInfo: lmBXOpzg3ndFIuH
+  - id: HF3PyZL
+    name: Q8B83PAgKRCL7gEApXlzUrwZPG
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/HF3PyZL.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLW0zWp842u7oxWyz2NAiY58V16zKkUXwYLAg30EuqWQGGmAGgivL2LwM9l1Tq1LJ7GByzspMpWEQVMpU1RKB5L7ZwFz6O5VnM6VfOQW29jjyBsvgD4zQqqrF5VGOR5L0pU4VOKYx2Z5UrBEXM4ZE8uwMnpKZ09MuOK98QnJB7T5kmrnnwPWHPwLqk9LXrTgoyApzOYG
+    parentId: LVwVXKAW1RS2oK6kQOpOHj4GRD
+    postId: xrNV0DZqANtjQqR5oZMEiVmwj9zPAjTo3B12wMvJT7LY2r9pojiq5
+    factor: 1.33
+    portrait: 0
+    mInfo: FK5AXnVs8Lpjq4s
+  - id: u7pAaU1
+    name: 0rPrlWADoBtzM3GXM6oqsOJ6DB
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/u7pAaU1.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWXD0zZ7kXHGDMXG27N2hrApvvKEBPIvLrLl5KBmhAZg0LkDvYFvn7ONnv87SBnBJnVr6ofRy6zyZ9AoS0Vj4w33mqCvJGKr977RFEVAxkEAk6ipWxoWyQnltg3B7pBLBEiwgAOGyZZjury9yK7zBrSG9pl5MVn5Cr1XNV4XRKIKOY2vvvqY
+    parentId: LVwVXKAW1RS2oK6kQOpOHj4GRD
+    postId: xrNV0DZqANtjQqR5oZMEiVmwj9zPAjTo3B12wMvJT7LY2r9pojiq5
+    factor: 1.33
+    portrait: 1
+    mInfo: oOMInCotvFtYRYx
+  - id: kkZCIGx
+    name: 5zXzq2AKwgt1Aw4rgKRVSx3w6R
+    description: ""   
+    height: 675
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kkZCIGx.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP28V0pz9NUmqqqO4XO9hBA699mL2OcolypMQ1GgCg8XqZoX3zIwMj1mkO52HrJmmggXv4HoDVK2mrJ4h2B680OODASlnrAzLRREUo73rYoLG8HlpmXnz306f2EJmwlvEzUgjnpMzAlDtD2vr8W3QOHJvQqPONvPUNWmo7Amj5s3WlQvRwPj
+    parentId: LVwVXKAW1RS2oK6kQOpOHj4GRD
+    postId: xrNV0DZqANtjQqR5oZMEiVmwj9zPAjTo3B12wMvJT7LY2r9pojiq5
+    factor: 1.07
+    portrait: 0
+    mInfo: OVGrE3LKVYIK0I4
+message: "生產魚場;台灣欣昌 Sing Chang Koi Farm  
+生產年份;2015.6  
+品種類別;金輝黑龍 Kin Kikokuryu  
+性別公母;母魚 Female  
+鑑賞等級;AAA  
+魚隻編號;160731001  
+展售地點;雲林崙背欣昌"
+---
+
+生產魚場：台灣欣昌 Sing Chang Koi Farm  
+生產年份：2015.6  
+品種類別：金輝黑龍 Kin Kikokuryu  
+性別公母：母魚 Female  
+鑑賞等級：AAA  
+魚隻編號：160731001  
+展售地點：雲林崙背欣昌
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/6EWf6RB.jpg"><img src="https://i.imgur.com/6EWf6RB.jpg" height="256" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/lC0BSFj.jpg"><img src="https://i.imgur.com/lC0BSFj.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/HF3PyZL.jpg"><img src="https://i.imgur.com/HF3PyZL.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/u7pAaU1.jpg"><img src="https://i.imgur.com/u7pAaU1.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/kkZCIGx.jpg"><img src="https://i.imgur.com/kkZCIGx.jpg" height="281" width="300" /></a> 
+ 
