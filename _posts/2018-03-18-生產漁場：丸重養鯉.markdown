@@ -1,0 +1,90 @@
+---
+layout: post
+title: "生產漁場：丸重養鯉" 
+date: 2018-03-18T05:09:11+0000 
+categories: ["IKI","華錦","Marujyu","丸重","Koi "] 
+media:
+  - id: MmzQ249
+    name: BmDBK3YM86INlB86Lkm4CRZYgrJ
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/MmzQ249.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9NYxM7LqnFxGAxnRngwFvjYAWpRV2fq92O2L6EAfyNGPNrAWBUQKkk8ZR56cB8Wgq0OVRtJBKnmDmv7Fk12R53qZGiMRkygxMqoT1G8y204XNf53VpD46kQcXzAY091P1CB3Olvg69EIYM6B36MKgcPNBzrwBMNfRQP6NgDyGtKBBj4W60
+    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
+    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
+    factor: 1.33
+    portrait: 1
+    mInfo: b8CbxkOHCWjdEsX
+  - id: xCi2Ctc
+    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/xCi2Ctc.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf89BA3rOnkcK6zmQNlAlFpwrmLzvA2u96v3vlPKJtY6xVNNMmWHzVWDJqG49UkQzKAQOZOCYrngQ68WEh4pXY4VLv9s7RR1qvw4NH74PDrrwywfjME8x8EGpHQW6VxG7LLhVOmkOpyywu9l5wmp7kRC09RzvLB3XIYEXM2Jrwqt4k1WN2AKxh1B
+    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
+    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
+    factor: 1.33
+    portrait: 1
+    mInfo: QP1HbeerEzSWmUs
+  - id: EAUqr6F
+    name: AlBDJ3YLQ1S516MqDk1lHljvP9G
+    description: ""   
+    height: 508
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/EAUqr6F.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrj84kNg5nT6AVvAM7pBS3DvQWAnVniqwKDr1zoZInzGr9qKWJHrDEAVE1lliYn3j1loWlIpoLgJy27PI6AmD6zG1jFEVV6YyOlgCDzkXNNYB7UVZo2zBKgqiWn1LKxqEqIgjMq2595YsWOWRR5oywTPJOoxNY8zCXqq9R50AvUxM4VPnGB4c5R
+    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
+    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
+    factor: 1.42
+    portrait: 0
+    mInfo: AbZ2KetxPqNh264
+  - id: b0PHSyE
+    name: YmjEk39JQ5IX61R3Q35JSkz11nr
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/b0PHSyE.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZ72RtoPL7wkDWWcBD50jqPPJIAGAXzqKwEi621wlYZm4FGDx3Ozn1WCERo45g4kBhKMxqj7Y2Nf6YlzLnWEKI1xwvgjXgnHKzXRgVqQnfonk2wpGGZfLKzmqErB2hBOw7YE6YQFgmPM79M4ycVmMgm4kZxh3EyBwyYKLcXYyl1W382i2jOgm6Av6TJ2NkPMD0nCpP0o4rEnqUjA38W
+    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
+    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
+    factor: 1.78
+    portrait: 0
+    mInfo: xxcGxBQuTsuXEPn
+message: "生產漁場;丸重養鯉場 Marujyu Koi Farm  
+生產年份;2016.6  
+品種類別;昭和三色 Showa  
+尺寸公母;35cm / 不明  
+鑒賞等級;AAA級  
+魚隻編號;IKI170531MJ001  
+展售地點;屏東華錦  
+銷售方式;已售出"
+---
+
+生產漁場：丸重養鯉場 Marujyu Koi Farm  
+生產年份：2016.6  
+品種類別：昭和三色 Showa  
+尺寸公母：35cm / 不明  
+鑒賞等級：AAA級  
+魚隻編號：IKI170531MJ001  
+展售地點：屏東華錦  
+銷售方式：已售出
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/MmzQ249.jpg"><img src="https://i.imgur.com/MmzQ249.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/xCi2Ctc.jpg"><img src="https://i.imgur.com/xCi2Ctc.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/EAUqr6F.jpg"><img src="https://i.imgur.com/EAUqr6F.jpg" height="211" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/b0PHSyE.jpg"><img src="https://i.imgur.com/b0PHSyE.jpg" height="168" width="300" /></a> 
+ 
