@@ -1,40 +1,66 @@
 ---
 layout: post
 title: "成田養魚園  Na" 
-date: 2017-05-07T05:21:33+0000 
+date: 2017-05-07T05:22:46+0000 
 categories: ["Koi "] 
 media:
-  - id: vmjBRqf
-    name: pmNwzMKm86SZxEJzDBB5frzM4g1
+  - id: YbuJ1tE
+    name: qnOR2N5n7Xfv9nP6D9zmcxyV88W
+    description: ""   
+    height: 720
+    width: 499
+    type: image/jpeg
+    link: https://i.imgur.com/YbuJ1tE.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2Sl3KXE00NrhRr1DDXo4ys4GZpY64ZXU6O0Z89L9Quj7k2A9DKrT4pXz8gkNJFgnNXDkG1OIwBowmnNWnTnyg1nOA5DFXyy9vAG5rs5JngOOqBXIRZRDOq20mSQl1Ko8OmjT3znz59687UxwOXWLpo1hr0BkZPyMwiJKkrLQP9xtpl5VwQvP8SnP
+    parentId: mjKREJ6jOVtqv8yXQD2BsJ2Ayvm
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnqg7LH2oj7xgK1phBABvn6RAzuymL
+    factor: 1.44
+    portrait: 1
+    mInfo: IswM0VXGCq3luyZ
+  - id: dEvepY1
+    name: 6Nno0ZyNX7tJX7Al8pVKSPv2kVO
     description: ""   
     height: 720
     width: 501
     type: image/jpeg
-    link: https://i.imgur.com/vmjBRqf.jpg
-    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FkKVzYNloBCZxzyEX6vRF2D1QR7rgLiQ8RMpg7PlIpNBMrqyOkiPlo0MrmEYhWow8QOLpjF700Z1PVkmh54wp5nBLjUKkkpBPy9Vi3jZ5nnkoKCl7RPQzZ19CpGl4P4nP9sjzBD8mQ8gF5PA598n5wfLmRxVo8L4c06nBrZXBGSzmPzpQjZ1tq9
-    parentId: 43lm9Xw3QDHx7jj3BYrVIgpwlkD
-    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6YzHL23orXzvxsxGwy9MADMc78B
+    link: https://i.imgur.com/dEvepY1.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlVvDEWBwsKBNOGJ9WOtE8PGnLEPAsl2wGOK2wvSyA4qPjq5Eu4YykY8YNWfYJy760JBWh7O0p44pLruRO0rRL1K3FOyy7Nkz4XtXl5K33YR6TLE56xJ5nwh0x5J9Zz0VsRgQqoZwNXhxJvn0RLYNU7EZYNoV1EskVjJQ4Q9EiA75AKLNWMu7z
+    parentId: mjKREJ6jOVtqv8yXQD2BsJ2Ayvm
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnqg7LH2oj7xgK1phBABvn6RAzuymL
     factor: 1.44
     portrait: 1
-    mInfo: 9X58Ryrl2kEHrAn
-  - id: lt3Ooox
-    name: olMROLKlV9SmKp1XmQzjcRXZMqq
+    mInfo: 69ve1paggMjevP3
+  - id: ril1HOt
+    name: 075q9Qp7YyhzjQDoLOGQIKpr4zX
     description: ""   
     height: 720
-    width: 501
+    width: 498
     type: image/jpeg
-    link: https://i.imgur.com/lt3Ooox.jpg
-    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlVvDk0jZu18nAvm16BtE8PGnQMN4SlzjmxR9WgULZRj8qWKLS4v2zAxO6GcYAl7Q2WJDF7pqNzP0NxuRO0rRL1K3FOyy7Nkz4XtXl5K33YBRsLY2pm9DVwi0M6kZkyMLSwNX08Y6lzFrO4xK4NZ6Um4y621NO2Fk3pnGrqnDFA75A4xkgKH7x
-    parentId: 43lm9Xw3QDHx7jj3BYrVIgpwlkD
-    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6YzHL23orXzvxsxGwy9MADMc78B
-    factor: 1.44
+    link: https://i.imgur.com/ril1HOt.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4lRz8XmrBi1JK2gLZlotB0NmZMBNlFgR84zLR8Jtly5lqlADmFAJZLyVBNvFoK226OjrzIL7XArYvmJiLKmyL65QosVQQqwj7mzURlZQPP4vvhGpB2YrPEOfYzj2xN2l6cg7gjRzLm6TALr8LZAAwhrEQGgLyRGizWp4m3K0pfjZPEZyxq5IAz
+    parentId: mjKREJ6jOVtqv8yXQD2BsJ2Ayvm
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnqg7LH2oj7xgK1phBABvn6RAzuymL
+    factor: 1.45
     portrait: 1
-    mInfo: W0RubU7PFnZuhid
+    mInfo: 4STdEJQ3hHGJEbo
+  - id: cbWnWQ9
+    name: GrLn94xrv7i9wEp8o8z4h2n26Nv
+    description: ""   
+    height: 720
+    width: 502
+    type: image/jpeg
+    link: https://i.imgur.com/cbWnWQ9.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZXVyAlBBI9XMZXRKGZHwPVrRzwVosZrYWm04EQhEgOZgM3D7S9r0NzpxN7HRn9rKDP8gCk4Dl2BRXKuBrVpB748vI166o02pQWH0q8XnnV5oFWoZ7M4yygh4DA2JJLxXfLmgj7QlZJt7P38lj1MWCY39PG16myIApgrw1EoWTnGA7z0rOycjY
+    parentId: mjKREJ6jOVtqv8yXQD2BsJ2Ayvm
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnqg7LH2oj7xgK1phBABvn6RAzuymL
+    factor: 1.43
+    portrait: 1
+    mInfo: 1LbAVztnsU1yFu8
 message: "成田養魚園  
 Narita Koi Farm  
   
 活動日期;2017年5月14日  
-活動內容;近藤大當歲定價銷售會  
+活動內容;別府大當歲定價銷售會  
 活動地點;日本成田養魚園  
 活動官網;http;//www.narita-koi.com/pdf/navi/013/08.pdf  
 寄養服務;含2017年寄養費用，寄養期間死傷不退款。  
@@ -47,7 +73,7 @@ Narita Koi Farm
 Narita Koi Farm  
   
 活動日期：2017年5月14日  
-活動內容：近藤大當歲定價銷售會  
+活動內容：別府大當歲定價銷售會  
 活動地點：日本成田養魚園  
 活動官網：http://www.narita-koi.com/pdf/navi/013/08.pdf  
 寄養服務：含2017年寄養費用，寄養期間死傷不退款。  
@@ -57,8 +83,14 @@ Narita Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/vmjBRqf.jpg"><img src="https://i.imgur.com/vmjBRqf.jpg" height="300" width="208" /></a> 
+<a href="https://i.imgur.com/YbuJ1tE.jpg"><img src="https://i.imgur.com/YbuJ1tE.jpg" height="300" width="207" /></a> 
   
 
-<a href="https://i.imgur.com/lt3Ooox.jpg"><img src="https://i.imgur.com/lt3Ooox.jpg" height="300" width="208" /></a> 
+<a href="https://i.imgur.com/dEvepY1.jpg"><img src="https://i.imgur.com/dEvepY1.jpg" height="300" width="208" /></a> 
+  
+
+<a href="https://i.imgur.com/ril1HOt.jpg"><img src="https://i.imgur.com/ril1HOt.jpg" height="300" width="207" /></a> 
+  
+
+<a href="https://i.imgur.com/cbWnWQ9.jpg"><img src="https://i.imgur.com/cbWnWQ9.jpg" height="300" width="209" /></a> 
  
