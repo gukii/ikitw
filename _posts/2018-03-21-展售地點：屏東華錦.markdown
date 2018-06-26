@@ -1,0 +1,31 @@
+---
+layout: post
+title: "展售地點：屏東華錦" 
+date: 2018-03-21T08:42:36+0000 
+categories: ["華錦"] 
+media:
+  - id: mSgYb0H
+    name: AlBDJ3LB5EH5NWGgrVXLhlMpM2o
+    description: "展售地點;屏東華錦
+銷售方式;已售出"   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/mSgYb0H.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cVW3yrv8YnsvLR8jZm6oSLy7B2RwGgCln3z55NBOczgq2xvmp4hVj0WRpOmMikWz1onNK4IKN4ApV5PyuYQqKlAAy5fo4Gxnzww5unNpJ7nppwU9rZ8Wj1YRu1rL2qJn70ip3LJVMkDKTQLoRjKXorT9gM6mlYkyIqYJxw4JjVI2Jq0EMP8k
+    parentId: AlBDJ3LB5EH5NWGgrVXLhlMpM2o
+    postId: MVmEqpYDPmUY6Vky4jOBf0XWEM6XG7cryyQ9Pn44uXD66oBj1WtOnx
+    factor: 1.50
+    portrait: 0
+    mInfo: BDzSHRt5EvwNpCb
+message: "展售地點;屏東華錦  
+銷售方式;已售出"
+---
+
+展售地點：屏東華錦  
+銷售方式：已售出
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/mSgYb0H.jpg"><img src="https://i.imgur.com/mSgYb0H.jpg" height="200" width="300" /></a> 
+ 
