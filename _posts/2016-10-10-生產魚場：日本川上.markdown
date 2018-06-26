@@ -1,92 +1,52 @@
 ---
 layout: post
 title: "生產魚場：日本川上" 
-date: 2016-10-10T09:33:43+0000 
+date: 2016-10-10T09:26:06+0000 
 categories: ["IKI","華錦","Koi "] 
 media:
-  - id: ZxlrDWp
-    name: n9j0DWR3zWTV5mAG7XJ8umMGox
-    description: ""   
+  - id: O7rayv2
+    name: PVAkRqjxY8tnQZwl72w2U6J9Dq
+    description: "生產魚場;日本川上 Kawakami Koi Farm
+生產年份;2015.6
+品種類別;五色 Goshiki
+尺寸公母;30-35cm / 不明
+鑑賞等級;AAAA級 
+魚隻編號;Kawakami-20161010-003
+展售地點;屏東華錦
+銷售方式;現場交易或貨到付款
+銷售定價;已售出"   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/ZxlrDWp.jpg
-    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV71WzABrJTzlvrr8jpDHr7DKyoAlZuqjxVNnVDLFLG28A4QxntVM7gOXLBMTkgM5xAqMJH5OGKvZ2AzsY8XL164Q9ToPE79loANIzYqgK1X4YUXxAmzN3B2UJjnvZ5qAqINAm5rg7AqUq5z294WvRH9kV86OGNrcl5LqOmV0YtZ6OJXgjq
-    parentId: 5zXkjo7DKKTlDrPBnmrOIxQWMv
-    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0KfN7rxMymLZtyNym23AVAUW6
+    link: https://i.imgur.com/O7rayv2.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvg1rGQGAjSxR6n1q9JnC2BlBgZx4VtJxOXBJvWAhDV3BPkLvvTv6Y70JLvzSYmYG4pGQyfV0mrv015zhpNPyA55g0fXqQ58099vSY2nV4Yn45IDJpNWglRxIJvWm1v74ATyxO8GklQAulmny8rl27SQ0l8k388KuO1pDrRp9VSr7QNWwjKO
+    parentId: PVAkRqjxY8tnQZwl72w2U6J9Dq
+    postId: 7B7nx5v8m7tYWjVX1LpGfXGNZzLyAYHMgBZK2q9PC1J1MpZOEkT6o
     factor: 1.33
     portrait: 1
-    mInfo: O8FAdux8NoTbCNU
-  - id: bVVRgSE
-    name: k0NkzW23oWHvNXo1Wp2guJ3PzX
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/bVVRgSE.jpg
-    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyEjKFy3RL4PM9wtWXDA7jkGgSGXrNl7gW5UroPVYK8AgiXZXN0GpmZUAZGn1wy4NUVwXXY6QrDCBAGkN2XDAIR4jE3Vx52h0Vj4w33mqCvJGKr977RFEVAxkEA33hwRKo45AgyCBXqEO5EOkcAZOjJ2RZmuXKnzPPxMgtGQglm8kRrCr1XNV4XRKIK8onp6RRO
-    parentId: 5zXkjo7DKKTlDrPBnmrOIxQWMv
-    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0KfN7rxMymLZtyNym23AVAUW6
-    factor: 1.33
-    portrait: 0
-    mInfo: USUuaB96tUmnxqd
-  - id: 3l9AMsc
-    name: 0rPN4j8xD9sy5VZxP8yKFO8k0q
-    description: ""   
-    height: 720
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/3l9AMsc.jpg
-    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86IjyKoW2rwEuRyGXlvm9ZU78Vv6kAqni1JAymRJvVHlRYwvW0qqtVmVR9rQ63tLlNlg9YqOhnGoN607NrU30l6v3PVJto4ylVMQzPsD4r2RXXEqfqzN4Oo33WFRympWRv9ZI6p058EDm6tKJwqpQVnES1D4Zzlwr6FRG3PP572XU7yRw54Bp1IgM5NjJ5rpt5grmmj8no
-    parentId: 5zXkjo7DKKTlDrPBnmrOIxQWMv
-    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0KfN7rxMymLZtyNym23AVAUW6
-    factor: 1.00
-    portrait: 0
-    mInfo: EJWewj6wFWtwMUS
-  - id: 8KPd2ea
-    name: rlnrKW23VYhmv8orrQWQCjrQ14
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/8KPd2ea.jpg
-    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmE1NnTNJq2z97yySNp24nQKKxSW8WAv7kV1IMKA8N34woUBZlM0XqlZSXG85BJz4kuVWVBmN2PlUypvXz3ZQWTZV2DpkOqNIQ9xoLzKNpcj2V6N8ZMMtrg5WrjBJyf8DlOmrvAXtAqyXRZAPxSYyOJ1qg3AhWk2GQ4jB8UBJOvz73GviEWrNXqwBXsWzoGw3ry4sJ7x6gDNgXtN5A
-    parentId: 5zXkjo7DKKTlDrPBnmrOIxQWMv
-    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0KfN7rxMymLZtyNym23AVAUW6
-    factor: 1.78
-    portrait: 0
-    mInfo: eWVNUBSA3MQY5YG
+    mInfo: 6vFZGh20IMTP1Yw
 message: "生產魚場;日本川上 Kawakami Koi Farm  
 生產年份;2015.6  
 品種類別;五色 Goshiki  
-尺寸公母;25-35cm / 不明  
-  
-請到華錦的FB專頁;  
-https;//m.facebook.com/HuaJinKoi/  
-裡面有每隻魚的資料說明跟價錢，請在你喜歡的魚兒照片下面，按留言。  
-可以寫「我想預訂，請跟我聯繫」這樣就可以了。"
+尺寸公母;30-35cm / 不明  
+鑑賞等級;AAAA級   
+魚隻編號;Kawakami-20161010-003  
+展售地點;屏東華錦  
+銷售方式;現場交易或貨到付款  
+銷售定價;已售出"
 ---
 
 生產魚場：日本川上 Kawakami Koi Farm  
 生產年份：2015.6  
 品種類別：五色 Goshiki  
-尺寸公母：25-35cm / 不明  
-  
-請到華錦的FB專頁：  
-https://m.facebook.com/HuaJinKoi/  
-裡面有每隻魚的資料說明跟價錢，請在你喜歡的魚兒照片下面，按留言。  
-可以寫「我想預訂，請跟我聯繫」這樣就可以了。
+尺寸公母：30-35cm / 不明  
+鑑賞等級：AAAA級   
+魚隻編號：Kawakami-20161010-003  
+展售地點：屏東華錦  
+銷售方式：現場交易或貨到付款  
+銷售定價：已售出
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/ZxlrDWp.jpg"><img src="https://i.imgur.com/ZxlrDWp.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/bVVRgSE.jpg"><img src="https://i.imgur.com/bVVRgSE.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/3l9AMsc.jpg"><img src="https://i.imgur.com/3l9AMsc.jpg" height="300" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/8KPd2ea.jpg"><img src="https://i.imgur.com/8KPd2ea.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/O7rayv2.jpg"><img src="https://i.imgur.com/O7rayv2.jpg" height="300" width="225" /></a> 
  
