@@ -1,0 +1,104 @@
+---
+layout: post
+title: "活動內容：日本阪井" 
+date: 2016-09-28T16:28:43+0000 
+categories: ["Auction","Sakai"] 
+media:
+  - id: g0TIlp6
+    name: 4yPjK3v7Kwixmvojy5B9HVJ3M9
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/g0TIlp6.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpzNqRS4WrzJjQD1cVAjgE6NvRiXmrPRjq0MFmzDDzVNNZfYL989Y4Kzfj1Y3NkOylu4o636LAQOhWN20x5oo8SloWVoyArBfMZ2kGRROwf89DXJ100pS6RVXo6QmPCzpzZ5pLjjUvOrzgW9nzso95V34KopFXrkL7LwowfRJDjZvnEGs5ZBj8qB2Gc8vomVqLox
+    parentId: 1vPO7Np87qcXRE1vBzvRCYoO2L
+    postId: GV7YkjPnJ7U9LZON5wY3H6OQglzyrJsWVYm8jN4lI0DLJYpv2QUJ5
+    factor: 1.00
+    portrait: 0
+    mInfo: n7vMQKKsc9MScP0
+  - id: RhYTfLy
+    name: Y9NwXmYGXxiXN48LyXoNCMYLjp
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/RhYTfLy.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6xkZzIxgZ8rYLE2cV71W5k4WAUvAj5Lql7rhLwvvwWmmMHqjBNWMl57cLGDqlJpKpuVXQmmmmMATkWk40OqY4tKQPMjlp19hYQqKlAAy5fo4Gxnzww5unNpJ7n2P6U4n7KoXvLVt2oyvjoOEKHN3K1Qn9nqSqD19EJDWXHNxOxj1RJGsqYJxw4JjVI2zBvmAw2w
+    parentId: 1vPO7Np87qcXRE1vBzvRCYoO2L
+    postId: GV7YkjPnJ7U9LZON5wY3H6OQglzyrJsWVYm8jN4lI0DLJYpv2QUJ5
+    factor: 1.00
+    portrait: 0
+    mInfo: 4QiblV8Pdgcdhnn
+  - id: MP5cvYj
+    name: rlnr7oqw75IO1MMXOM1rSjrJW9
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MP5cvYj.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqOpjXsZO4KXAvJph4l9rMKq7QSr011Jv9MLtBQRRQL1WAsgmLOL012OsvwDkJqpNBcAD115xRmPsvr7R4Rxn8HXYO7Yp0rGCLv0oVpp6PCVgEALw22NFRrNWBRNzYCw8kJWrvOVtPJmrOlv6RHgNWkm922WSqZq5Q9pwzhDGxnJ0px4hzgW02mWRLhjpEn7qloX
+    parentId: 1vPO7Np87qcXRE1vBzvRCYoO2L
+    postId: GV7YkjPnJ7U9LZON5wY3H6OQglzyrJsWVYm8jN4lI0DLJYpv2QUJ5
+    factor: 1.00
+    portrait: 0
+    mInfo: H4nDFuwrYeGe96J
+  - id: 9MWnL5i
+    name: O0zj9DXr9kukPm2PW0lPiPKWqQ
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9MWnL5i.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBjEnOI6n7K5AJEOTP280DE65OCmPAjPXOroH7VggV6B3Qio1BRBo90Wfg8WOzoo5RSkN1lmPVEDTrGD5V2YW9UJzkMkQoQmS2B680OODASlnrAzLRREUo73rYoLZ0TNJWNwGzQYf2LYjGy7K7H9VEyOq64DtoYzZp01qVSAyDGV29JkuNWmo7Amj5s3NKZG28Pn
+    parentId: 1vPO7Np87qcXRE1vBzvRCYoO2L
+    postId: GV7YkjPnJ7U9LZON5wY3H6OQglzyrJsWVYm8jN4lI0DLJYpv2QUJ5
+    factor: 1.00
+    portrait: 0
+    mInfo: ms7gahNdtoKtkQU
+  - id: vYoGxSi
+    name: 9EPoXNA5XBsj8x02NOyXTPJG16
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/vYoGxSi.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqWyMzf3ARx6K9qMflAqZ8pn42IW5GrwQov1fklPPlv1ZlHJvLNLJWnKhO22YDY4ymuxE8vY9BpqUmGpWRMnk4hD3xZ68j57hQA8OnWWVjhozyQJN44muO5DqvOV5PSlBxjE2wg0fpWMxlqgRWHMvZwoGgDgf93VAj1E6ntz0JK1R7NWSkKYNAmYjMcZR7VQNBOQ
+    parentId: 1vPO7Np87qcXRE1vBzvRCYoO2L
+    postId: GV7YkjPnJ7U9LZON5wY3H6OQglzyrJsWVYm8jN4lI0DLJYpv2QUJ5
+    factor: 1.00
+    portrait: 0
+    mInfo: 561tGuTsv8tA9R7
+message: "活動內容;日本阪井拍賣會 Sakai Auction  
+活動日期;2016年10月4日  
+服務項目;代拍競標  
+  
+有興趣的魚友，請訊息聯繫。  
+更多拍賣魚資料請參考阪井官網;  
+http;//sff-koi.com/#tabslist1"
+---
+
+活動內容：日本阪井拍賣會 Sakai Auction  
+活動日期：2016年10月4日  
+服務項目：代拍競標  
+  
+有興趣的魚友，請訊息聯繫。  
+更多拍賣魚資料請參考阪井官網：  
+http://sff-koi.com/#tabslist1
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/g0TIlp6.jpg"><img src="https://i.imgur.com/g0TIlp6.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/RhYTfLy.jpg"><img src="https://i.imgur.com/RhYTfLy.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/MP5cvYj.jpg"><img src="https://i.imgur.com/MP5cvYj.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/9MWnL5i.jpg"><img src="https://i.imgur.com/9MWnL5i.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/vYoGxSi.jpg"><img src="https://i.imgur.com/vYoGxSi.jpg" height="300" width="300" /></a> 
+ 
