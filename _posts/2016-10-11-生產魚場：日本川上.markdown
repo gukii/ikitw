@@ -1,36 +1,36 @@
 ---
 layout: post
 title: "生產魚場：日本川上" 
-date: 2016-10-11T10:59:37+0000 
+date: 2016-10-11T10:58:05+0000 
 categories: ["IKI","華錦","Koi "] 
 media:
-  - id: RxdgtbH
-    name: 2wQP6l1j4gsmBjz1g2Xvc9OyyD
+  - id: 5WXrVTJ
+    name: 6A4lkpzno9fJG8GYmpP8Tx1xMQ
     description: "生產魚場;日本川上 Kawakami Koi Farm
 生產年份;2015.6
 品種類別;五色 Goshiki
 尺寸公母;25-30cm / 不明
-鑑賞等級;AAAA級 
-魚隻編號;Kawakami-20161010-010
+鑑賞等級;賽級  Show
+魚隻編號;Kawakami-20161010-008
 展售地點;屏東華錦
 銷售方式;現場交易或貨到付款
 銷售定價;已售出"   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/RxdgtbH.jpg
-    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy36X8Z0QATEvAXjORBBS6K1n88NxNSXzk44GXN1TrRRZ5x5Z6f3rRgwgNwouZ2lpXD7nOhAjmyO4jENh186PANNjrHNgD2Kk33jSvLk0XvkkpC7KWkZ640DhmL90Djv06Ir3P0D042wUB9q1xV8lQUo0XvWVk6XsmZPKpgPqMc5QkrgMw9P
-    parentId: 2wQP6l1j4gsmBjz1g2Xvc9OyyD
-    postId: vp7YMAXqy7fZy0LnzvNwslVApq7vwDS0PJy0y6yrho1pJlXGKQu3R
+    link: https://i.imgur.com/5WXrVTJ.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYoQpO9jRQHEoqNpqGRZU390KqKPgJIMg9mq58gqUDqmOg3PxoS7RjGVXLQRUKoqJL8XA1SpE8ZRxDoxuWvAgVrr0NtvW18jg006Fp6Y1Bpm54c6g8jy8ZDlhnK6olAwVEsXrk034vK0c0WM0vQ9W9cRx50N5z76iM672qB7xlSGBVKzXv29
+    parentId: 6A4lkpzno9fJG8GYmpP8Tx1xMQ
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7vwDS0PJy06Jx8u6gXQJ1mD8f35
     factor: 1.33
     portrait: 1
-    mInfo: 93Nx8Eo0eUAlDXv
+    mInfo: pRjPF93kJv1uudo
 message: "生產魚場;日本川上 Kawakami Koi Farm  
 生產年份;2015.6  
 品種類別;五色 Goshiki  
 尺寸公母;25-30cm / 不明  
-鑑賞等級;AAAA級   
-魚隻編號;Kawakami-20161010-010  
+鑑賞等級;賽級  Show  
+魚隻編號;Kawakami-20161010-008  
 展售地點;屏東華錦  
 銷售方式;現場交易或貨到付款  
 銷售定價;已售出"
@@ -40,13 +40,13 @@ message: "生產魚場;日本川上 Kawakami Koi Farm
 生產年份：2015.6  
 品種類別：五色 Goshiki  
 尺寸公母：25-30cm / 不明  
-鑑賞等級：AAAA級   
-魚隻編號：Kawakami-20161010-010  
+鑑賞等級：賽級  Show  
+魚隻編號：Kawakami-20161010-008  
 展售地點：屏東華錦  
 銷售方式：現場交易或貨到付款  
 銷售定價：已售出
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/RxdgtbH.jpg"><img src="https://i.imgur.com/RxdgtbH.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/5WXrVTJ.jpg"><img src="https://i.imgur.com/5WXrVTJ.jpg" height="300" width="225" /></a> 
  
