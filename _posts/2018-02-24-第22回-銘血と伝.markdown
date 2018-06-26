@@ -1,0 +1,140 @@
+---
+layout: post
+title: "第22回 銘血と伝" 
+date: 2018-02-23T17:42:22+0000 
+categories: ["Auction","Event","IKI","Niigata","新潟","錦鯉"] 
+media:
+  - id: K7U9cbK
+    name: kLGRJxWrgzfvOxOr9v8VhoqZ6N2
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/K7U9cbK.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcoroOzXRPWhjzEggzpgjIEJ8r7wPVYsrN19w1PKECGjQv2mP0YtnxX1GXj6LS0xXMqWOm8iQ1llqANjmsNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jWTL26mLDAn1TL7Lo968nrSYzVZ1vno5SAnANj512LtP8WGXM2kQCB86rrLY8Pi2L4OLooE5iM9
+    parentId: GrL6PkNMAGf91D0Q36kKcGA6y8Z
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VynI0DVw6Z5AGhoRzNoYvoBcmZE
+    factor: 1.33
+    portrait: 1
+    mInfo: RMOw0GCJ2e6m8ie
+  - id: Q2UKdmB
+    name: 9NqrxzvDjntjkGkRMWqjsrmDRZE
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/Q2UKdmB.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtW8Wz97YXZfDlWNgLYKoFgoQzNwP2ASMz6yX6WwBH9rDABVn1oc9GpKX3KwLhwxkxKDlKphqprwA5PxMsOBy8OrDjPIQPPR149pLS0oPD55ZkMs09LvBqrpGcV1KxZBGJYsq2lYJ8om4cL8LqqRLmJsvMo9p1r60UQPpLR6OXxcqy2LgpDYZCP9
+    parentId: GrL6PkNMAGf91D0Q36kKcGA6y8Z
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VynI0DVw6Z5AGhoRzNoYvoBcmZE
+    factor: 1.33
+    portrait: 1
+    mInfo: hXX0XWZCnGt137q
+  - id: ELAm9Jf
+    name: 6Nn8rwpBMktJr56W0Y6xTPkmQN1
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ELAm9Jf.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVgVyY9LB3HPkOQXpMWjUN1qkERBoGfwxwNrP485CQrw8oP7qQhZpmB7WrLmTNRkgG3WWEsP44VZXmZNhO0jxOJ36XIj11A7QXqEhAQx1RRrNqfnDKBjm1l8H9yxVXnP05SxoLOlzJNgI85lzmLEk6S9GVPqGR7VtVvBqpoQD1HMADyKlWMPcN5
+    parentId: GrL6PkNMAGf91D0Q36kKcGA6y8Z
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VynI0DVw6Z5AGhoRzNoYvoBcmZE
+    factor: 1.33
+    portrait: 1
+    mInfo: Z9kcwgxnHJgaKsk
+  - id: jmSbWZz
+    name: EpJRNgL0yDSj3E8xkZZXi8QYDnj
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/jmSbWZz.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY1YwjMpyBIRNwAEMXjEuqJvlOP95nFoGyN0klwXH5gQqz1pqKipzLz0GnVGU1g88l4z7Ahz4lw715lxSOXPoOyzJ2IvBBwQA9jOi5xnz33XkYil8ypVNyYjuxpDgB1nY2iwmwxYvJGkC03EPEQp7qU5k3YvVg87CVmQLznxqoSgZXP1rZ8vF6A
+    parentId: GrL6PkNMAGf91D0Q36kKcGA6y8Z
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VynI0DVw6Z5AGhoRzNoYvoBcmZE
+    factor: 1.33
+    portrait: 1
+    mInfo: EvNLVqjr6ItFVdt
+  - id: ypMyOhK
+    name: 075Rlnj0M4tzG1n0A014FK42Box
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ypMyOhK.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1V1mpYym6sOKG4KgjLmhX5vMLZ13LigkgnARWjwI1NxDpKooDTWvGjNmmWkFzGjqKRVEZSN5Q5KzX0BFxQqgx9wjosmVV3G9xy5S32JowwxnnHX3pp3wm7Diykw1zvyYOS36gDN0gKjtJr0qoQ9lBCwJBvxY3LVS6N29KLKBGCNZ3JXkg5yioZ
+    parentId: GrL6PkNMAGf91D0Q36kKcGA6y8Z
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VynI0DVw6Z5AGhoRzNoYvoBcmZE
+    factor: 1.33
+    portrait: 1
+    mInfo: qj3dOt8Tj3mP6Gv
+  - id: aKBUkop
+    name: 1NgwmokGM5tXMVrqqo3qI01Nn83
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/aKBUkop.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcoroOwV2OOUjzAKQwA1VHEJ8r7wQAoFrkgnA63xVFJRygQopX3f8yPZ7PnDkC081w4WgRqfQyD8YZZVzsNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jQcYgYVvk045sv0XAkzM5rtYxn5vo60PUlpGPz1GoEIP2Nk5Zj7DtJyE7vGwoWC2LZpWlNV3fMx
+    parentId: GrL6PkNMAGf91D0Q36kKcGA6y8Z
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VynI0DVw6Z5AGhoRzNoYvoBcmZE
+    factor: 1.33
+    portrait: 1
+    mInfo: SngRjRW8CzLLSnu
+  - id: cELMHkG
+    name: pmNYODWknGIZnVvGon96So2Qpy9
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/cELMHkG.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3O3lYD5pYI86j2rlpWRTvyABwPkGnuYmMX3kRxZSoEy3kmggziRzZr7wZ6OSv0pBDX5WLU8ljgykpE7IYW2zYRqEmFNPPDJXlz2FgYMWzz3KQtqpNYYAyv7FY1xgJnDYDsnwQPW2YjMcpmyYwqwDXCPy5BMxDgmCJ19Z86ZYNSzL8yR4NJEi5M
+    parentId: GrL6PkNMAGf91D0Q36kKcGA6y8Z
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VynI0DVw6Z5AGhoRzNoYvoBcmZE
+    factor: 1.33
+    portrait: 1
+    mInfo: Figmo2N66yuKzqe
+message: "第22回 銘血と伝統の祭典-新潟錦鯉競拍會  
+活動地點;長岡市山古志支所体育館  
+活動日期;2018年3月2日(星期五)  
+活動內容;競價拍賣會  
+入場資格;全日本錦鯉振興會會員  
+競賣產品;錦鯉 Nishikigoi  
+活動網址;http;//jnpa-niigata.com/event/niigataauction2018-22.html  
+  
+競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。"
+---
+
+第22回 銘血と伝統の祭典-新潟錦鯉競拍會  
+活動地點：長岡市山古志支所体育館  
+活動日期：2018年3月2日(星期五)  
+活動內容：競價拍賣會  
+入場資格：全日本錦鯉振興會會員  
+競賣產品：錦鯉 Nishikigoi  
+活動網址：http://jnpa-niigata.com/event/niigataauction2018-22.html  
+  
+競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/K7U9cbK.jpg"><img src="https://i.imgur.com/K7U9cbK.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/Q2UKdmB.jpg"><img src="https://i.imgur.com/Q2UKdmB.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/ELAm9Jf.jpg"><img src="https://i.imgur.com/ELAm9Jf.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/jmSbWZz.jpg"><img src="https://i.imgur.com/jmSbWZz.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/ypMyOhK.jpg"><img src="https://i.imgur.com/ypMyOhK.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/aKBUkop.jpg"><img src="https://i.imgur.com/aKBUkop.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/cELMHkG.jpg"><img src="https://i.imgur.com/cELMHkG.jpg" height="300" width="225" /></a> 
+ 
