@@ -1,0 +1,31 @@
+---
+layout: post
+title: "丸重養鯉場 Mar" 
+date: 2016-10-07T02:02:23+0000 
+categories: ["Marujyu","丸重","Koi "] 
+media:
+  - id: YTc7wfy
+    name: MVxP0536ogTJw7XBpk6niQ2BVP
+    description: "丸重養鯉場 Marujyu Koi Farm
+當歲土塘池揚 Tosai Harvest"   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YTc7wfy.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZPP4cry1MN4PArFAzgo7XEKWuJmKKWZyPEfyXXkAZlNZczVKOqwn7zCZQ8w7nRrZtk68q77p2yTKg9PE6MBJHkwZ0LvJNgI7pwJRPPlYfE4yRPkggOc6WvqA6rJKi12AKNgwEEc2YQDqLwyMSQzJVVm8PjsN15EqGg3WFqWqrLz0DJirAzn04z3OIR6lXgK2ox
+    parentId: MVxP0536ogTJw7XBpk6niQ2BVP
+    postId: yvO64E1lBOt3ym2P5YXOtBqRW57LxGCg9pGwWzkxhAEAOGMRQlfYz
+    factor: 1.50
+    portrait: 0
+    mInfo: BL8CXGWQtglJanp
+message: "丸重養鯉場 Marujyu Koi Farm  
+當歲土塘池揚 Tosai Harvest"
+---
+
+丸重養鯉場 Marujyu Koi Farm  
+當歲土塘池揚 Tosai Harvest
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/YTc7wfy.jpg"><img src="https://i.imgur.com/YTc7wfy.jpg" height="200" width="300" /></a> 
+ 
