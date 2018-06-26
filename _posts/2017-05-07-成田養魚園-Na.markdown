@@ -1,69 +1,42 @@
 ---
 layout: post
 title: "成田養魚園  Na" 
-date: 2017-05-07T11:38:16+0000 
-categories: ["華錦","大日","Koi "] 
+date: 2017-05-07T05:22:03+0000 
+categories: ["Koi "] 
 media:
-  - id: X5hFkrp
-    name: wwX9kW5wyrUnoo4yQLjMfOX99Wy
+  - id: 06R38u9
+    name: 70o8A4z017iYQ0JGXP8Ptp4330D
     description: ""   
     height: 720
-    width: 504
+    width: 505
     type: image/jpeg
-    link: https://i.imgur.com/X5hFkrp.jpg
-    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl5JrmVV7LUpxpkJyNJ8TvN0Mg1WnyIKR2GmEo9gFgvqB9nyNGI5rvn12qWBh3l3yRLpE3s3vvDl6zVrFpz5BpOyoNTXvvyNMJnOs7QY9553ppt6WWZOk28VSxKYxvgrO2IBM4oY8VXAfQvrK5vNWAu8Pz6jW7j5ujRrKDBXqgHL143Mkr0PHNV
-    parentId: lgJQpGLgk7hlLL3xzrnESnLyy6X
-    postId: N6nErqZDgnCpM5PqmolkHvWRnLQWz7SBWrpGpKwAtrxzGLOO3jFvk7
+    link: https://i.imgur.com/06R38u9.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtG65Z7wOqQcvR4OGwZpXCV9nM1WgnJiOxwW05XkNU192v2NAVgsypgmxYZGXTrQ0BpJwBQH50LkKO5XxFKMnrKXGzAFVkkNvjn4zU56KXQQzknHZg78jAr4pu4D1A0E5mjsnLZzkKMZ3IVqJwpR1DntD3xKDqODmTRZWQ0kYVACXYmXwVNvyTGm
+    parentId: PE0mY4lE7pSno2kLPNBRs2PAABn
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VyYC0Bp8g9JLGco1GERvkPmumgL
     factor: 1.43
     portrait: 1
-    mInfo: cGAy0alS2mXJXUg
-  - id: Q4pRgUV
-    name: qnOR2N5npZHv99xXwN5PtxOZ47Z
+    mInfo: ZjBkEgtUhbbL69w
+  - id: RRM4PwF
+    name: 70o8A4z017iYQ0JG47Agsp9YJZp
     description: ""   
     height: 720
-    width: 504
+    width: 501
     type: image/jpeg
-    link: https://i.imgur.com/Q4pRgUV.jpg
-    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy35zMYNXBF8QZRzyZXkc6K1nrYg8pIXpPgmE5NJcW0r4xPlljs2JZZzqRVVsxrznOXA6xcAw0M2jVQ3F1xB01jEOPINPP6kv97wFvYKDBBr7rHx80GoMLppcB7MnL02yRhrkQGBPP84iB8wRVoKLDso1ylOJOPjT8NWwXoL97H5O3l80PYqivX
-    parentId: lgJQpGLgk7hlLL3xzrnESnLyy6X
-    postId: N6nErqZDgnCpM5PqmolkHvWRnLQWz7SBWrpGpKwAtrxzGLOO3jFvk7
-    factor: 1.43
-    portrait: 1
-    mInfo: tWgauBuYSmvoJ6B
-  - id: BUQOT4A
-    name: RJZYL9nJK1iXNNpog7YAF3YYEMj
-    description: ""   
-    height: 720
-    width: 499
-    type: image/jpeg
-    link: https://i.imgur.com/BUQOT4A.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAz90ywwkJtKq5BjOl1xHyEVqz5QOQCN5Z118K6QikA1kDYGMJcy89BwQ8zkHrl19RWZEGCK5VKwrPy8u7qME7lB2JiEKKNk2GMZC6MEX33jBBS5vqN38ZxGFzGN3D60EqTQWED8MQODT5Avom52D0UNpyYXmO57cPoWkXAD87f405E2lKyzF9L
-    parentId: lgJQpGLgk7hlLL3xzrnESnLyy6X
-    postId: N6nErqZDgnCpM5PqmolkHvWRnLQWz7SBWrpGpKwAtrxzGLOO3jFvk7
+    link: https://i.imgur.com/RRM4PwF.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtA2z0MrrjYF3kjOEWMNVCGglRmn4l5HEKwn5mlY3FKvMBJ7PPMu6KDEO2qgMhj3Yv16jMzuKN8pJBmBRuoxA7oBYKguLXXD43m18t91zlQQOxyFg6PpOnZLyIV7Q8yVVY4uWj4YWD09WHzWxWzx9kDSq2NMGV3O2FZAwNVB09rUMxQ43MzpQsqO
+    parentId: PE0mY4lE7pSno2kLPNBRs2PAABn
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VyYC0Bp8g9JLGco1GERvkPmumgL
     factor: 1.44
     portrait: 1
-    mInfo: bawYI8rylfLSmm6
-  - id: T6b7Oyf
-    name: xxYqlX5xz1UjZZgDRNVrckj8m3M
-    description: ""   
-    height: 720
-    width: 498
-    type: image/jpeg
-    link: https://i.imgur.com/T6b7Oyf.jpg
-    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNXpO216Wi18RpMMpWpSQvXE0mYVYuMPkG3Bo2lf958lLODVKC9jNZx39LkhwyLLpQzRvUqLYwwVWkKsOBy8OrDjPIQPPR149pLS0oPD55Z9ZCrXyG44Q38IwNEn9055Vf9V7GxwRjRS4OVLX03vluQypx23pDBsE0kVw2JxyCqy2Ww7DVrCPJ
-    parentId: lgJQpGLgk7hlLL3xzrnESnLyy6X
-    postId: N6nErqZDgnCpM5PqmolkHvWRnLQWz7SBWrpGpKwAtrxzGLOO3jFvk7
-    factor: 1.45
-    portrait: 1
-    mInfo: 8hraX67xqSDwm3s
-story: "華錦顧問股份有限公司 is with Hiroshi Mano."  
+    mInfo: Br2Rx1IMw4dbyik
 message: "成田養魚園  
 Narita Koi Farm  
   
 活動日期;2017年5月14日  
-活動內容;大日豐田店大當歲定價銷售會  
+活動內容;上野大當歲定價銷售會  
 活動地點;日本成田養魚園  
-活動官網;http;//www.narita-koi.com/pdf/navi/013/09.pdf  
+活動官網;http;//www.narita-koi.com/pdf/navi/013/08.pdf  
 寄養服務;含2017年寄養費用，寄養期間死傷不退款。  
   
 定價銷售是抽籤決定得主。  
@@ -74,28 +47,18 @@ Narita Koi Farm
 Narita Koi Farm  
   
 活動日期：2017年5月14日  
-活動內容：大日豐田店大當歲定價銷售會  
+活動內容：上野大當歲定價銷售會  
 活動地點：日本成田養魚園  
-活動官網：http://www.narita-koi.com/pdf/navi/013/09.pdf  
+活動官網：http://www.narita-koi.com/pdf/navi/013/08.pdf  
 寄養服務：含2017年寄養費用，寄養期間死傷不退款。  
   
 定價銷售是抽籤決定得主。  
 有興趣的魚友請私訊聯繫，謝謝！
- 
- 
-[//]: #story:
-華錦顧問股份有限公司 is with Hiroshi Mano.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/X5hFkrp.jpg"><img src="https://i.imgur.com/X5hFkrp.jpg" height="300" width="210" /></a> 
+<a href="https://i.imgur.com/06R38u9.jpg"><img src="https://i.imgur.com/06R38u9.jpg" height="300" width="210" /></a> 
   
 
-<a href="https://i.imgur.com/Q4pRgUV.jpg"><img src="https://i.imgur.com/Q4pRgUV.jpg" height="300" width="210" /></a> 
-  
-
-<a href="https://i.imgur.com/BUQOT4A.jpg"><img src="https://i.imgur.com/BUQOT4A.jpg" height="300" width="207" /></a> 
-  
-
-<a href="https://i.imgur.com/T6b7Oyf.jpg"><img src="https://i.imgur.com/T6b7Oyf.jpg" height="300" width="207" /></a> 
+<a href="https://i.imgur.com/RRM4PwF.jpg"><img src="https://i.imgur.com/RRM4PwF.jpg" height="300" width="208" /></a> 
  
