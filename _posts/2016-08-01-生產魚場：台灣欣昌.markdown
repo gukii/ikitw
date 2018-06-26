@@ -1,0 +1,51 @@
+---
+layout: post
+title: "生產魚場：台灣欣昌" 
+date: 2016-08-01T13:48:51+0000 
+categories: ["欣昌","華錦","Koi ","錦鯉"] 
+media:
+  - id: Q7teCMY
+    name: 9EPExkAyN9SjklM4RZBVHPplW8
+    description: "生產魚場;台灣欣昌 Sing Chang Koi Farm
+生產年份;2015.6
+品種類別;銀輝黑龍 Gin Kikokuryu
+性別公母;母魚 Female
+鑑賞等級;AAA
+魚隻編號;160802001
+展售地點;雲林崙背欣昌"   
+    height: 720
+    width: 519
+    type: image/jpeg
+    link: https://i.imgur.com/Q7teCMY.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3MEQppoxLS5J88OyA93TA1YrzXRNZHY0rkQjG28sAzLNGPx69fRP5GpgZnNSY90lZoVQwSjnRQoANg3TYVJm8ggRxfNMrx6J00wSgv7pGg7kzS1GGG3vM47sXEn66klRkFln4QvgE00c5LgwVvg34s5G5MAPmNlhxpVqPQV1AFzmYgZJBvq
+    parentId: 9EPExkAyN9SjklM4RZBVHPplW8
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0BI8RPqEgOElCL4BQyDOMphWx
+    factor: 1.39
+    portrait: 1
+    mInfo: pm0Tze3sqMCTHiu
+story: "華錦顧問股份有限公司 is at 崙背鄉欣昌錦鯉魚養殖場."  
+message: "生產魚場;台灣欣昌 Sing Chang Koi Farm  
+生產年份;2015.6  
+品種類別;銀輝黑龍 Gin Kikokuryu  
+性別公母;母魚 Female  
+鑑賞等級;AAA  
+魚隻編號;160802001  
+展售地點;雲林崙背欣昌"
+---
+
+生產魚場：台灣欣昌 Sing Chang Koi Farm  
+生產年份：2015.6  
+品種類別：銀輝黑龍 Gin Kikokuryu  
+性別公母：母魚 Female  
+鑑賞等級：AAA  
+魚隻編號：160802001  
+展售地點：雲林崙背欣昌
+ 
+ 
+[//]: #story:
+華錦顧問股份有限公司 is at 崙背鄉欣昌錦鯉魚養殖場.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Q7teCMY.jpg"><img src="https://i.imgur.com/Q7teCMY.jpg" height="300" width="216" /></a> 
+ 
