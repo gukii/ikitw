@@ -1,46 +1,46 @@
 ---
 layout: post
 title: "生產魚場：日本面迫" 
-date: 2016-08-07T09:14:37+0000 
+date: 2016-08-07T09:10:26+0000 
 categories: ["Omosako","面迫","Koi "] 
 media:
-  - id: Mn5Q0zF
-    name: J9r9G7EBV1coxlmmGvLzfv3Nz3
+  - id: eSWl9KD
+    name: j9N97OA1GgU0y51kBD29F1zGQl
     description: "生產魚場;日本面迫 Omosako Koi Farm
 生產年份;2014.6
 品種類別;白寫 Shiro Utsuri
-性別公母;不明 Unknow
+性別公母;母魚 Female
 鑑賞等級;賽級 Show
-魚隻編號;016-160725
+魚隻編號;008-160725
 展售地點;已售出"   
     height: 720
     width: 478
     type: image/jpeg
-    link: https://i.imgur.com/Mn5Q0zF.jpg
-    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDl43yn4GgsLGJqxxGLpiyBWMq8g3YUO6Lg734Pghlo4VxE76AUPRgl0q5EDiL4n03613jHkgNKVvRz7TOKmg8ppRVsR2W8pOooVuklP5NkPL0FVn9qZxokGUoKv0Bo5kBT8gM1Kwqpyu1zpJBRD6BU9n5n5v7MYFJ0DWQoDEzcnDYm05wwD
-    parentId: J9r9G7EBV1coxlmmGvLzfv3Nz3
-    postId: KVkYonWXNkUkrxMy5LE7CZ8A9lzO29INPE3vmjwruPgOqRv5LpToz
+    link: https://i.imgur.com/eSWl9KD.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflAqDZ2NGPtZPPDW8QN9ckYWQn062zcJ7p8OYlmDCO22YDPJl1F8XEkjKgzAFvP2D72YZgUD3oRywO7OcQA8OnWWVjhozyQJN44muO5DqvOV54TWXZnEOgXwfqjgy1AvryUM54Vkkw11H9L69AjKpPUlywY2NO9JUkKYNAmYjMcZ0Y9YyjVj
+    parentId: j9N97OA1GgU0y51kBD29F1zGQl
+    postId: J9jYnmVDMjsoQLAWExr9S29L6oR3k6uBZgwGKZvmcQ3890RRxACEQ
     factor: 1.51
     portrait: 1
-    mInfo: HEKIm3PJ716qzY7
+    mInfo: fSUgH06ytLjChkQ
 message: "生產魚場;日本面迫 Omosako Koi Farm  
 生產年份;2014.6  
 品種類別;白寫 Shiro Utsuri  
-性別公母;不明 Unknow  
+性別公母;母魚 Female  
 鑑賞等級;賽級 Show  
-魚隻編號;016-160725  
+魚隻編號;008-160725  
 展售地點;已售出"
 ---
 
 生產魚場：日本面迫 Omosako Koi Farm  
 生產年份：2014.6  
 品種類別：白寫 Shiro Utsuri  
-性別公母：不明 Unknow  
+性別公母：母魚 Female  
 鑑賞等級：賽級 Show  
-魚隻編號：016-160725  
+魚隻編號：008-160725  
 展售地點：已售出
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Mn5Q0zF.jpg"><img src="https://i.imgur.com/Mn5Q0zF.jpg" height="300" width="199" /></a> 
+<a href="https://i.imgur.com/eSWl9KD.jpg"><img src="https://i.imgur.com/eSWl9KD.jpg" height="300" width="199" /></a> 
  
