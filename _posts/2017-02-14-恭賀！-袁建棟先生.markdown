@@ -1,31 +1,158 @@
 ---
 layout: post
 title: "恭賀！ 袁建棟先生" 
-date: 2017-02-14T03:53:30+0000 
+date: 2017-02-14T03:50:02+0000 
 categories: [] 
 media:
-  - id: hANNV00
-    name: EpYrgDXkRAFqDlpBQ6ABh53A5G8
-    description: "恭賀！ 袁建棟先生、陳寧先生，愛鯉獲獎！
-Congratulation To Mr. Yuan, Jian Dong and Mr. Chen Ning."   
-    height: 538
+  - id: Y0W38KK
+    name: ol3pBEnz2MimQ22lDoXNFlyGEZ1
+    description: ""   
+    height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/hANNV00.jpg
-    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2Sl3Wy3YAZ3HPy8oLjDoNC4qBmkR2E4sqM9M4vKVGIxwrOJRkO2u4O45AL0Z3sgm3G7jxgkS7qlmZjP2pFnyg1nOA5DFXyy9vAG5rs5JngOOqBBiGNKOQEWzrC0nzWzmKNxi3jPYpl7m4h0Gk2kLPxYSr1MA3vLPPt23ZVVoL3DCploXR41mDFkM
-    parentId: EpYrgDXkRAFqDlpBQ6ABh53A5G8
-    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6Y9FLO9LJgolxuxGAQ4GYqMsg3r
-    factor: 1.34
+    link: https://i.imgur.com/Y0W38KK.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczkpvkDgGAcKRy8BZEO1ikwvZwGVBptmA350nlZoi46jXL1YXmhr686mx0O9hxLQo3m21YUxlPz81vRPinQkzJnkV4CoXoYoAkWvImkrEmOp4zI7NNO50Q4BH9gEZllKV0UJjGGAAMKyC1LQELWEY9CAXWvRZZEPcNjXyJ2pDjFlrBDMklZJupo77pD1Lkt9BD3B7DovT9p
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
     portrait: 0
-    mInfo: Bm5DAFt1ip5Eyu6
-message: "恭賀！ 袁建棟先生、陳寧先生，愛鯉獲獎！  
-Congratulation To Mr. Yuan, Jian Dong and Mr. Chen Ning."
+    mInfo: 1VyYD8RSH9qsefb
+  - id: Csj1OCm
+    name: kLY9xzjvRGCvP2vJy15vFARvyEV
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Csj1OCm.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrgAr5kyluE398yPNKrCVoPm160G3CPvyxkjYKGIq5pVJw4V8cwgWg6Ln8vf8J3gxkkW5h3YRXnPXL3cNPpEj6VqJHP4Am5KkVJiO0jxOJ36XIj11A7QXqEhAQx1RRrJrT32YYm5ZN3TGAn8AnEgOsxYrkRVNQ4T86KwoPm2ESolmMWrzZ8fVZoPE1QPpSMAjXYyoqxhNg
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 0
+    mInfo: X4j1gRFTEbJFLfY
+  - id: kcZbAoS
+    name: PEnXwRKyN0UnPznLWlBEf2QrBWV
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kcZbAoS.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyEjKFy3RL4PM9wtWXzmVrWJOuGkE59EjWkSqGXP6ZwP5cXG7yrXm8ZSJxKqjzxXwSvnDpwRz8MTBNEEkA9XOTRVXkJ035BT0kOM0mAY4sv88W9NVMliEBmKyy1r1UvN7EQ88K6HNwlpvAQRkFw4mZEMQgpfrOrGlMrR7uJ8791kBg0fBxEz61yLPfK8BD0A3yjc45
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 0
+    mInfo: g4pU7o13udC03Y9
+  - id: sx8FP4N
+    name: PEnXwRKyN0UnPznLEmz1F2go9GR
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/sx8FP4N.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR74z7KGnZImLEJDQxj4S9E2wvR9RLCVzmMl9ORmsWZ0yl7NyRIq907952nWSy2wQ5gDNvFQk6ZG2J4DTpWVEpM8GPuJ6opN3r35FkN2KkE1GVHMRR13qv9BtpVJ300RWRCVoK9wz2ZzFw6WvP2DlGTYZOJQQw62Tmj9YXGWyPF7JLwy97r7h2JxK5PwXMfGw8Gr9G0gfwR
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 0
+    mInfo: BkDdb6QEhSvbQz1
+  - id: 0dK2Se1
+    name: 54BJvjwZymH12kkVr69qI7EY95Q
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/0dK2Se1.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSW17z14P4VfkvLKMgkMBUE8zAg6ZAgcKkBk3yxROu4AWwG6NQWc1nO2pkxLMf8mBgGyj7XUG7qwrVnjRFAZQoAODWpfKEE8Q9ND0iL143yyZ72iYR0AXDlW7TRAnWZl2okIoENDpADQWU7X7xZQJpQiRyVn4y6j5HEMP2AXVNJCgJPX46vJZC9r
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 1
+    mInfo: JgbDKZkMr6ndvsJ
+  - id: 7LanTfj
+    name: kLY9xzjvRGCvP22Pn44wIoy8kDN
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/7LanTfj.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOmrLmj9wJsx5wlnLG64uJ3QM4nQNgHrL5yoDoWXh78PGYZzGYFjRDO3jLvKIo5vRqvx61cRzjgJ7rz9Hqkn7OjxP5uLGM2Ekyr4i9NDm9Yj7lCOkk34QlLptZw0q33DmmtROjMwppM3h714AlM7wpFXowwRyOvYuJLP1NJPmrfX5RyP80kpSgW9DNEXGkIqr7lKqN8gFrA
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 0
+    mInfo: D2eZ61jIxBhwGag
+  - id: y0MkpRu
+    name: kLY9xzjvRGCvP22PYwXWIoZpzRk
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/y0MkpRu.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNEPNwQ1nu4EMy67QpLF1DKQDWDPYUw9Aq45JvrfvqozpQgzpT6VK3VRDZvH18yGqYJ1AtWPZOk1B9MuzrWGrKy0VhNLNjw34k1TxQqgx9wjosmVV3G9xy5S32JowwxVxhVl6LyZNARty0Y7VyME1hxErEN8Lp3Fw1vVM3408i4OkxowP9yu3ODzpGzo0sNZ3JXz69Lc5V
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 0
+    mInfo: CpxC4i2YUstcFJo
+  - id: W2UiYQc
+    name: zzrV804Op1Uz7WWZrJl7cLvmW0K
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/W2UiYQc.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzMWkMLyRAcYn9w12E7zfZXY0zxY4lc8rR3gJyQQSAxj6ZDM6MsrRmDRW3o7Fopz9B36KyHLAZN2mzvpSYzmA2B4VkSyNPxQDLnosjZVWjAOBNuDxxO06kwEhzYqNvv0oBfDEGNvV6Bxi9nx4pXq6zt3B7qVMg5ZSWyVyvGLMNHqNEqk3PyxiNPLqM0X72t3vVOK73rmcx5
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 0
+    mInfo: tHoygccnhn0h3Tq
+  - id: ckhoTcH
+    name: VjwgD12GO4H8YnkyApA4cpxkk3Y
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ckhoTcH.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyvnyr4X0c7VRoKOJ2rirXZPXVwo3f6PNOkkOYYFW8jVYGLE2IqL36yqgXMunzGvv6qYMhpEqYqNk8qcVgVAYxlEBTpOLOOJLooS6AmD6zG1jFEVV6YyOlgCDzkXNNYBYfx54W09rQzTpBJkrA9yYHgjv0143RVSWpx4yP5RNcP4vXG9vRniXRVVXn0WmHxM4L5v3DQh5X
+    parentId: vvnKMOx02WtZRngvDXORFklNZ4L
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7PxkGuN9jNDXE2OSyBVpM6YrkU6Kn
+    factor: 1.33
+    portrait: 0
+    mInfo: zljMKaTjuCgc26a
+message: "恭賀！ 袁建棟先生 愛鯉榮獲大獎  
+Congratulation To Mr. Yuan, Jian Dong"
 ---
 
-恭賀！ 袁建棟先生、陳寧先生，愛鯉獲獎！  
-Congratulation To Mr. Yuan, Jian Dong and Mr. Chen Ning.
+恭賀！ 袁建棟先生 愛鯉榮獲大獎  
+Congratulation To Mr. Yuan, Jian Dong
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/hANNV00.jpg"><img src="https://i.imgur.com/hANNV00.jpg" height="224" width="300" /></a> 
+<a href="https://i.imgur.com/Y0W38KK.jpg"><img src="https://i.imgur.com/Y0W38KK.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Csj1OCm.jpg"><img src="https://i.imgur.com/Csj1OCm.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/kcZbAoS.jpg"><img src="https://i.imgur.com/kcZbAoS.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/sx8FP4N.jpg"><img src="https://i.imgur.com/sx8FP4N.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/0dK2Se1.jpg"><img src="https://i.imgur.com/0dK2Se1.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/7LanTfj.jpg"><img src="https://i.imgur.com/7LanTfj.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/y0MkpRu.jpg"><img src="https://i.imgur.com/y0MkpRu.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/W2UiYQc.jpg"><img src="https://i.imgur.com/W2UiYQc.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ckhoTcH.jpg"><img src="https://i.imgur.com/ckhoTcH.jpg" height="225" width="300" /></a> 
  
