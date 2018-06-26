@@ -1,0 +1,120 @@
+---
+layout: post
+title: "活動名稱：阪井拍賣" 
+date: 2017-02-01T23:00:07+0000 
+categories: ["Auction","Sakai"] 
+media:
+  - id: NMkU5nQ
+    name: mj1lzr1L49TMgZGNEPxEFJwBgj1
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/NMkU5nQ.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOjPG5v9w1UwqmLqv8k6ck79NRY8VjSPKlnV8n8xtKomwqQrRGtDNpzD8oXBIolJ1RQr59hQ8lE9vwlLFgzJAg028qfWjjANYgO0tJW1Evvq8khqVOg52LNqf5DWJzYyzycg0Y34VDzxsyZL2OM4Dgf8Dpw4xv13CRpJ197ExwClwgPo375zUxy
+    parentId: vvnKMEnX4phlYG6g4jWVtkpXwzm
+    postId: VVy5DB8pqyU8PjknoMwqF2oJX1noWNFl5kqVRqBptB2p1QVZZoigYP
+    factor: 1.43
+    portrait: 1
+    mInfo: LMdC9ZnTpqNbhwH
+  - id: JZYBJnD
+    name: qngwEygP4kh2EDG3B7NNcxYQ6Gy
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/JZYBJnD.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGJDrwcxAgzYovV9cl5oNjEnnGhvo7wOOK7zc8DrqXglGOIKYgnQxnx3UOwEM8vr19HLXyVRxJYxupRvNPr11yu3x3N27kJxFpz5BpOyoNTXvvyNMJnOs7QY9553RXu6L7z2Lnm4UxAzYznml6ikZp88WrDESZlnZA6z9rT898r0BZvRIjRrKDBXqgHL1Gnjv3GxSN8
+    parentId: vvnKMEnX4phlYG6g4jWVtkpXwzm
+    postId: VVy5DB8pqyU8PjknoMwqF2oJX1noWNFl5kqVRqBptB2p1QVZZoigYP
+    factor: 1.00
+    portrait: 0
+    mInfo: EH7SCcmgdkqo6za
+  - id: 3l2xBJo
+    name: jKX7woXG49SOB2kLDnj1c6oRMM3
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3l2xBJo.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31OpGWsmLEJk7qBPi9E2wJGVNvTV2lQg3l9BhvjYAyOgzAUm5jrY4mrDfy1VgMJowoTQM0qVxVBntB8BRBnAJZtJBxGl8vXqtkN2KkE1GVHMRR13qv9BtpVJ300RWRCVpmX9wWLQUwDgznVV87hB3OlD5kEQTLRLnPXXPwfP9o520xlMs2JxK5PwXMfGw8vRrmONTDQ
+    parentId: vvnKMEnX4phlYG6g4jWVtkpXwzm
+    postId: VVy5DB8pqyU8PjknoMwqF2oJX1noWNFl5kqVRqBptB2p1QVZZoigYP
+    factor: 1.00
+    portrait: 0
+    mInfo: MnJVrMJBbtdsCA6
+  - id: H2T4nxp
+    name: ODmVvAm1B0IO7JojKGQDCGM3Emo
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/H2T4nxp.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9qMB8DI7oxWXlGBMSY59vlBA11HRpoYrgmVxuqzVWL8JgEFoYNBOJ6nJh5GOKMMLxgSpjG6j4XrGTmqo51KXQKfzgy1wOAYJSOQW29jjyBsvgD4zQqqrF5VGOR5L79FXEkQmJg36ijpwLPr35LFwMo155E7DU030wg6GBpS5onjgz8ngHPwLqk9LXrTgqEpLM3r6
+    parentId: vvnKMEnX4phlYG6g4jWVtkpXwzm
+    postId: VVy5DB8pqyU8PjknoMwqF2oJX1noWNFl5kqVRqBptB2p1QVZZoigYP
+    factor: 1.00
+    portrait: 0
+    mInfo: 3ho3OXOWAOgjqrz
+  - id: eL4QetU
+    name: XlymGNyjO9c981YkY34VINxDJYA
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/eL4QetU.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NlngQFKRy83MAlLSkwvZ1QN57tD5OlEqX8ZtwJv5X3or4cXDw09Q0QvSEZ6X0OQ0OHxyoQq7nrOSkAZnjvVBocryLNM35ophmw0zZ88ODH72RVY5119T9xjM79gL3hJ2MMZrXEgUz15P4QXZnuD0Yv3KDPpIQY4vG6ZjLhl36Mmxw4QsqWBRmwB2yI9R36zxL10
+    parentId: vvnKMEnX4phlYG6g4jWVtkpXwzm
+    postId: VVy5DB8pqyU8PjknoMwqF2oJX1noWNFl5kqVRqBptB2p1QVZZoigYP
+    factor: 1.00
+    portrait: 0
+    mInfo: C7CPYrl3i86ldkj
+  - id: f5RztC6
+    name: LzjMpxjXyVF3GA1o5m4lIVlq11N
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/f5RztC6.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6EvjBcZgG0KDzO4hOjPGYmNR1SwWqDgP2xwck79NRY8zlfwDOEBqwE6HKp7DGnBZ6UDm9OOXMW1UM1oE5j2VLFQzA4MxY9BcgzJAg028qfWjjANYgO0tJW1Evvq80H0pqMKMBVQH93Jm4qK5wFZ9g1GRZ00iyXv1LpgrWS8jPWpJr3qCpBWRzPrxMHlw3QwGBlLux5
+    parentId: vvnKMEnX4phlYG6g4jWVtkpXwzm
+    postId: VVy5DB8pqyU8PjknoMwqF2oJX1noWNFl5kqVRqBptB2p1QVZZoigYP
+    factor: 1.00
+    portrait: 0
+    mInfo: RRTMFks1SVa7cKT
+message: "活動名稱;阪井拍賣會 Sakai Auction  
+產地魚場;阪井養魚場 Sakai fish farm  
+拍賣日期;2017.02.08  
+競標魚隻;http;//sff-koi.com/carp/。  
+魚齡性別;2歲魚如無特別標示，都是母魚。當歲魚公母未明。  
+  
+如需委託代標，請私訊聯繫，謝謝！"
+---
+
+活動名稱：阪井拍賣會 Sakai Auction  
+產地魚場：阪井養魚場 Sakai fish farm  
+拍賣日期：2017.02.08  
+競標魚隻：http://sff-koi.com/carp/。  
+魚齡性別：2歲魚如無特別標示，都是母魚。當歲魚公母未明。  
+  
+如需委託代標，請私訊聯繫，謝謝！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/NMkU5nQ.jpg"><img src="https://i.imgur.com/NMkU5nQ.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/JZYBJnD.jpg"><img src="https://i.imgur.com/JZYBJnD.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/3l2xBJo.jpg"><img src="https://i.imgur.com/3l2xBJo.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/H2T4nxp.jpg"><img src="https://i.imgur.com/H2T4nxp.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/eL4QetU.jpg"><img src="https://i.imgur.com/eL4QetU.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/f5RztC6.jpg"><img src="https://i.imgur.com/f5RztC6.jpg" height="300" width="300" /></a> 
+ 
