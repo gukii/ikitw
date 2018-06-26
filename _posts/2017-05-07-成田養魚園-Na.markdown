@@ -1,40 +1,53 @@
 ---
 layout: post
 title: "成田養魚園  Na" 
-date: 2017-05-07T05:22:03+0000 
+date: 2017-05-07T05:20:41+0000 
 categories: ["Koi "] 
 media:
-  - id: 06R38u9
-    name: 70o8A4z017iYQ0JGXP8Ptp4330D
-    description: ""   
-    height: 720
-    width: 505
-    type: image/jpeg
-    link: https://i.imgur.com/06R38u9.jpg
-    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtG65Z7wOqQcvR4OGwZpXCV9nM1WgnJiOxwW05XkNU192v2NAVgsypgmxYZGXTrQ0BpJwBQH50LkKO5XxFKMnrKXGzAFVkkNvjn4zU56KXQQzknHZg78jAr4pu4D1A0E5mjsnLZzkKMZ3IVqJwpR1DntD3xKDqODmTRZWQ0kYVACXYmXwVNvyTGm
-    parentId: PE0mY4lE7pSno2kLPNBRs2PAABn
-    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VyYC0Bp8g9JLGco1GERvkPmumgL
-    factor: 1.43
-    portrait: 1
-    mInfo: ZjBkEgtUhbbL69w
-  - id: RRM4PwF
-    name: 70o8A4z017iYQ0JG47Agsp9YJZp
+  - id: Qozq5cn
+    name: XlgxM4wlLASZXwXqoMZyUNY6rLj
     description: ""   
     height: 720
     width: 501
     type: image/jpeg
-    link: https://i.imgur.com/RRM4PwF.jpg
-    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtA2z0MrrjYF3kjOEWMNVCGglRmn4l5HEKwn5mlY3FKvMBJ7PPMu6KDEO2qgMhj3Yv16jMzuKN8pJBmBRuoxA7oBYKguLXXD43m18t91zlQQOxyFg6PpOnZLyIV7Q8yVVY4uWj4YWD09WHzWxWzx9kDSq2NMGV3O2FZAwNVB09rUMxQ43MzpQsqO
-    parentId: PE0mY4lE7pSno2kLPNBRs2PAABn
-    postId: vp7YMAXqy7fZy0LnzvNwslVApq7VyYC0Bp8g9JLGco1GERvkPmumgL
+    link: https://i.imgur.com/Qozq5cn.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDlQo1pZmAto89gNDqxyCypVEZzZQyuLBD0yqny8fV6A03ywX7upqPEwKR2BsLXVONJ9X9ckqkMG9GgEFOlwBORjZgIR11jOr67PHknOwMMoDQIVJx4ZQ9RBSoAMnzAlPRID2LVwkrgASKOvm0GwY2TA0Ol9JzWBtkxgVvKB25UnronvXlzkcl3
+    parentId: XlgxM4wlLASZXwPKMPNvsl5OJNz
+    postId: Z9DwKJlOxDsYon8q9z4Kfl6ygwB6XVCEnvjyxrYGiZvm5gn6LRIn3n
     factor: 1.44
     portrait: 1
-    mInfo: Br2Rx1IMw4dbyik
+    mInfo: PXOd5b3lN25Ggbg
+  - id: mmAdcFs
+    name: NBVD84jBLnCp0Bwnq2zmsGpv4NX
+    description: ""   
+    height: 720
+    width: 499
+    type: image/jpeg
+    link: https://i.imgur.com/mmAdcFs.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtG65Z7wOXXTM74MQB3Q7fV9nM151ZxiOxwW05X7wu192vmKQ8BiyqyVBB2vkHrQ4PvmvpnF54oR0D1PghKMnrKXGzAFVkkNvjn4zU56KXQQzkvTJQoJ799KWirKLkqqjRRh5l5zBqAKmCgpR3wv5zBIzAkQl1BZnIOoPMDXpmZuXY5489pR4I7W
+    parentId: XlgxM4wlLASZXwPKMPNvsl5OJNz
+    postId: Z9DwKJlOxDsYon8q9z4Kfl6ygwB6XVCEnvjyxrYGiZvm5gn6LRIn3n
+    factor: 1.44
+    portrait: 1
+    mInfo: YPMBbDxIIgTl04J
+  - id: QajaE9P
+    name: ODWlZ4kDMofkpWpoNGG9FVg7xxA
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/QajaE9P.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJ3ZAgmmqxcDmXKL6vwDf7EBx5652zsNoJWGVlgViBQOAQD34gSDj2yJm7V3UqB8NmQqXliLYK5oM3qqI9NDm9Yj7lCOkk34QlLptZw0q33DkYcROkj33gZYI7531xk9jGHXzZpW4Nn4UJXn6ZZ07mfXQm1GZzz3tokQvEy75Jtqr78D0mvmfrM
+    parentId: XlgxM4wlLASZXwPKMPNvsl5OJNz
+    postId: Z9DwKJlOxDsYon8q9z4Kfl6ygwB6XVCEnvjyxrYGiZvm5gn6LRIn3n
+    factor: 1.43
+    portrait: 1
+    mInfo: 4jgEw91lIDDBSej
 message: "成田養魚園  
 Narita Koi Farm  
   
 活動日期;2017年5月14日  
-活動內容;上野大當歲定價銷售會  
+活動內容;松江大當歲定價銷售會  
 活動地點;日本成田養魚園  
 活動官網;http;//www.narita-koi.com/pdf/navi/013/08.pdf  
 寄養服務;含2017年寄養費用，寄養期間死傷不退款。  
@@ -47,7 +60,7 @@ Narita Koi Farm
 Narita Koi Farm  
   
 活動日期：2017年5月14日  
-活動內容：上野大當歲定價銷售會  
+活動內容：松江大當歲定價銷售會  
 活動地點：日本成田養魚園  
 活動官網：http://www.narita-koi.com/pdf/navi/013/08.pdf  
 寄養服務：含2017年寄養費用，寄養期間死傷不退款。  
@@ -57,8 +70,11 @@ Narita Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/06R38u9.jpg"><img src="https://i.imgur.com/06R38u9.jpg" height="300" width="210" /></a> 
+<a href="https://i.imgur.com/Qozq5cn.jpg"><img src="https://i.imgur.com/Qozq5cn.jpg" height="300" width="208" /></a> 
   
 
-<a href="https://i.imgur.com/RRM4PwF.jpg"><img src="https://i.imgur.com/RRM4PwF.jpg" height="300" width="208" /></a> 
+<a href="https://i.imgur.com/mmAdcFs.jpg"><img src="https://i.imgur.com/mmAdcFs.jpg" height="300" width="207" /></a> 
+  
+
+<a href="https://i.imgur.com/QajaE9P.jpg"><img src="https://i.imgur.com/QajaE9P.jpg" height="300" width="210" /></a> 
  
