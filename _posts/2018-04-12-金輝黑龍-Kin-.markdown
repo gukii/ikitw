@@ -1,0 +1,46 @@
+---
+layout: post
+title: "金輝黑龍 Kin " 
+date: 2018-04-12T05:17:45+0000 
+categories: ["錦鯉養殖場","欣昌","錦鯉"] 
+media:
+  - id: eBou6KP
+    name: 1Ngwx1kkEXiZorMqAwnmU0PPAjA
+    description: ""   
+    height: 720
+    width: 432
+    type: image/jpeg
+    link: https://i.imgur.com/eBou6KP.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqfrq20369YmF8xD71G8v4UBLVAMBjjQt9QYL39kMZu9gBP1p7v0SnlKPwV4Z8Fp9jnDjk9EHjMw6JyyoQfrpBVrnoR6Ix44LGME3qFYoX0ggEvEsDx04YyDNPUjYgy72Z2lf5BQD1BpyphjMZB9pL0vcno9k0ZOj7H4kVBzRloXiNWRKWkERoImo
+    parentId: 8Np2P8rrWjik0mm5vZmxiPLAW2Y
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pxk4INJXozrEjmuynQywPlmoS5ED
+    factor: 1.67
+    portrait: 1
+    mInfo: 2y21ZCf5SJ46AU5
+  - id: wv334pQ
+    name: GrL6ynNNzBU8Rr1nQkg7tGX7L4W
+    description: ""   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/wv334pQ.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrlMK0hq0kz8gPjjSyzgYk8mmGFwKwQLXEl4cRxOO4yOWWskomM83K5BSprK68GXLmclE09o19RoSo2vEVzgjZSM3DlQEV7EsKNWmk3qO6tkLGwRzQQ1SEpDQZ0PwqCgBK4mMDm9tMpNvP8DlLHmGWOZ1RMqI9AOBqzlOECmpKB4q94JuE1BrK40PmTyAqgLkYWpUq7xYnzOWPc6GoGm
+    parentId: 8Np2P8rrWjik0mm5vZmxiPLAW2Y
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pxk4INJXozrEjmuynQywPlmoS5ED
+    factor: 1.78
+    portrait: 1
+    mInfo: cVZjY29Jdqd541Z
+message: "金輝黑龍 Kin Kikokuryu  
+展售地點;欣昌錦鯉養殖場"
+---
+
+金輝黑龍 Kin Kikokuryu  
+展售地點：欣昌錦鯉養殖場
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/eBou6KP.jpg"><img src="https://i.imgur.com/eBou6KP.jpg" height="300" width="180" /></a> 
+  
+
+<a href="https://i.imgur.com/wv334pQ.jpg"><img src="https://i.imgur.com/wv334pQ.jpg" height="300" width="168" /></a> 
+ 
