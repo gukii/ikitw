@@ -1,0 +1,80 @@
+---
+layout: post
+title: "丸博養鯉場 小2歲" 
+date: 2018-05-17T07:32:49+0000 
+categories: ["Koi "] 
+media:
+  - id: 6woFrHp
+    name: W05n9B8BLKs4B6YNowBQI5AjQVl
+    description: "生產魚場;日本丸博養鯉場 Maruhiro Koi Farm
+生產年份;2016.5
+品種類別;銀松葉 Gin Matsuba
+尺寸公母;39cm / 公魚 
+魚隻編號;IKI180509MH006
+展售地點;屏東華錦
+銷售方式;現場交易或出貨前匯款"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/6woFrHp.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvSEP1k111OmiwOy8l03xQCGXJyQ41mnulwD7vO92liMmBPrW3D0h3rxPNzr1ZFqj2RlOQJpTxYlM6KD08F7BqX725JNiYZZ5GmA7niXBAWNNvRguZy74QBAkmI4oArzwK41FjV1BYJ9E5c8qlvAL547hDOyY6A0mrh0vVNLkr2JCR97VNlQJjhpG
+    parentId: AlBnYOmONXuRwY1yw8w5hVLlnM1
+    postId: j9VvwlGQjVs0y1G4Qg5oSwq7o9XqjEU70DQEv7wDTnZgLyq1r1FmA5
+    factor: 1.33
+    portrait: 1
+    mInfo: t0cxE6jHhjGlHSZ
+  - id: KtqdLc0
+    name: LzQgVBPB71I31kOR9vkPFVW39Z2
+    description: "生產魚場;日本丸博養鯉場 Maruhiro Koi Farm
+生產年份;2016.5
+品種類別;茶鯉 Cha Goi
+尺寸公母;40cm / 公魚 
+魚隻編號;IKI180509MH005
+展售地點;屏東華錦
+銷售方式;現場交易或出貨前匯款"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/KtqdLc0.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMfrqAGOQZDrsZlRYlnpmntkz0no21wvSJv9YxXYK7UGYOx8DZo9TxrZBv5kNntvoJALm04ZCDjxzXVB12sQZwXQVDvOioKK0NxRWOtOzM9KKYAjhlOAV09AnKHqN2R2wEMMHO1P8kMAYyTyRW13nQGxh28Oox82zAhx3wZ2KOXDCZ6gBB8Y9zTwQ
+    parentId: AlBnYOmONXuRwY1yw8w5hVLlnM1
+    postId: j9VvwlGQjVs0y1G4Qg5oSwq7o9XqjEU70DQEv7wDTnZgLyq1r1FmA5
+    factor: 1.33
+    portrait: 1
+    mInfo: jDS6wOSUE3iMcfY
+  - id: ZV5g2RA
+    name: qnOjk8287ph25L6mGKpysxyn0Bj
+    description: "生產魚場;日本丸博養鯉場 Maruhiro Koi Farm
+生產年份;2016.5
+品種類別;落葉 Ochiba
+尺寸公母;38cm / 公魚 
+魚隻編號;IKI180509MH003
+展售地點;屏東華錦
+銷售方式;現場交易或出貨前匯款"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ZV5g2RA.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7SL63RqAOPRH8YOK4nJJjT6Kzl04rkruXWzY1v2kXfqnG5E3m04I2JZ0nKQ2LhxOQQ1OA7kS8384ZJWyNF1xB01jEOPINPP6kv97wFvYKDBBr1rfxKxwZJGELUKJjqPAJgPirEnzqow54HrYj8XZlvjSwVD1woj2qHGEoXk7QXOs5O32NqGXQsvX
+    parentId: AlBnYOmONXuRwY1yw8w5hVLlnM1
+    postId: j9VvwlGQjVs0y1G4Qg5oSwq7o9XqjEU70DQEv7wDTnZgLyq1r1FmA5
+    factor: 1.33
+    portrait: 1
+    mInfo: mIYQHQrT0DnLMtz
+message: "丸博養鯉場 小2歲  
+Maruhiro Koi Farm  Small 2y"
+---
+
+丸博養鯉場 小2歲  
+Maruhiro Koi Farm  Small 2y
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/6woFrHp.jpg"><img src="https://i.imgur.com/6woFrHp.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/KtqdLc0.jpg"><img src="https://i.imgur.com/KtqdLc0.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/ZV5g2RA.jpg"><img src="https://i.imgur.com/ZV5g2RA.jpg" height="300" width="225" /></a> 
+ 
