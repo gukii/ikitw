@@ -1,0 +1,43 @@
+---
+layout: post
+title: "第49回全日本総合" 
+date: 2018-01-31T09:22:35+0000 
+categories: ["錦鯉品評會","錦鯉"] 
+media:
+  - id: U5ZztwX
+    name: 6Nn8rG273LiJqJ4JRx3lCPLPXvz
+    description: "第49回全日本総合錦鯉品評會
+主辦單位;全日本錦鯉振興會
+開展日期;2018年2月3-4日
+活動地點;東京流通中心
+參觀時間;3日9;00-17;00，4日9;00-14;00
+入場門票;現場購買，每人1,000日幣/2天卷"   
+    height: 720
+    width: 523
+    type: image/jpeg
+    link: https://i.imgur.com/U5ZztwX.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjDG4XgxvuoAzx05nK2SypoWylLyLILnBQKVvEESWVAlOkY0JfP7xjJMGJvTLp3OAW9WxikBAjgzX8oIOlwBORjZgIR11jOr67PHknOwMMovri3Kl19owODhy6wQl5ML6u8JRPD6qzVu1g5B1ByWlt05MZLPBY9cg283RKOV5FnrVPrPGZnhlz
+    parentId: 6Nn8rG273LiJqJ4JRx3lCPLPXvz
+    postId: j9VvwlGQjVs0y1G4Qg5oSwq7o9XqjzT70DNVNEVGunZwAwL8r2ImGD
+    factor: 1.38
+    portrait: 1
+    mInfo: NQONLoeJxeLgij1
+message: "第49回全日本総合錦鯉品評會  
+主辦單位;全日本錦鯉振興會  
+開展日期;2018年2月3-4日  
+活動地點;東京流通中心  
+參觀時間;3日9;00-17;00，4日9;00-14;00  
+入場門票;現場購買，每人1,000日幣/2天卷"
+---
+
+第49回全日本総合錦鯉品評會  
+主辦單位：全日本錦鯉振興會  
+開展日期：2018年2月3-4日  
+活動地點：東京流通中心  
+參觀時間：3日9:00-17:00，4日9:00-14:00  
+入場門票：現場購買，每人1,000日幣/2天卷
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/U5ZztwX.jpg"><img src="https://i.imgur.com/U5ZztwX.jpg" height="300" width="217" /></a> 
+ 
