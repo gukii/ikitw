@@ -1,90 +1,52 @@
 ---
 layout: post
 title: "生產魚場：日本川上" 
-date: 2016-10-09T09:41:04+0000 
+date: 2016-10-09T09:27:06+0000 
 categories: ["華錦","Koi "] 
 media:
-  - id: 6YlxsdN
-    name: 7B2mlwGxEAFYqZ46jQVzHqy0m1
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/6YlxsdN.jpg
-    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrJ8XFDlQ2WgnLLCDRZ1Kopp7sPOPzZo0NACvgQ1LQlq8F7rZLkzzmkso16NWm2R0sWYxV2KmGDfkgO3xKAk0SrXw9lmp5JcJxZZBE4YmUnv13ylRKKURBE8R1pN2IKLqwGEmlWiNmB8kw0QjT2ryYYR6J0sKZZXMAjVPtDMqOzy3GNIJvWRpZO0ZHNmzl3jnB8i9nVm6QyPOSYrA
-    parentId: MVxP02GQ8zUY6W64834XiQ4K8Y
-    postId: PVpMwv2mkpUn5AN1EQGzugpj4xLkmETjo8g5XnN6s8ov4xY8XJiMl
-    factor: 1.78
-    portrait: 0
-    mInfo: ajc2gpbJQrMkdn2
-  - id: IloEH02
-    name: l9NlAm15Y4HMVML2L47gh1JOOP
-    description: ""   
-    height: 720
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/IloEH02.jpg
-    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L58AK0Vs68m7KOYxnTp4r3vK4O6swX6z06BoxI3QJX6m28jCJVNvL1DjNtD2n2m8GNgtZr3rWoLNETE4VVJ4KNXix7yx6g70vFXqLyB22oxt3jkqKEBBnIlo4y3lnz6Hyp2GrJw77upynx1pZ3OfzvpGjDYwlCq4MP4rvQvCvMzXPGV43IGlqgKYqOZIPy9BLyV9X
-    parentId: MVxP02GQ8zUY6W64834XiQ4K8Y
-    postId: PVpMwv2mkpUn5AN1EQGzugpj4xLkmETjo8g5XnN6s8ov4xY8XJiMl
-    factor: 1.00
-    portrait: 0
-    mInfo: fBwj5CcxIfxTsRA
-  - id: 5PhPPtH
-    name: W9Xr2lV76NH4M4Z1AVKvfmoW6j
-    description: ""   
+  - id: LOkwRr2
+    name: X92v30WoD9sZJq5DNxPwSmg80W
+    description: "生產魚場;日本川上 Kawakami Koi Farm
+生產年份;2015.6
+品種類別;紅輝黑龍 Beni Kikokuryu
+尺寸公母;25-30cm / 不明
+鑑賞等級;AAA級 
+魚隻編號;Kawakami-20161009-001
+展售地點;屏東華錦
+銷售方式;現場交易或貨到付款
+銷售定價;已售出"   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/5PhPPtH.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAzgowL9K5fKoXjoL59BIyJv7V4ZP9izW10BDZQMTZQW5r7DKEckW5G7wAQ3hr6nP1EvMBcKxl3Nj7rnc7BM8V0Qp2IEKX9zxE2qcN1GOQYLogT1Jp4jKV8vS2PEEl2o3Xcy6D25xZKLC5W2z81VPoiqV4J38W0EhlvjrEBOWoHNOow7lj9
-    parentId: MVxP02GQ8zUY6W64834XiQ4K8Y
-    postId: PVpMwv2mkpUn5AN1EQGzugpj4xLkmETjo8g5XnN6s8ov4xY8XJiMl
+    link: https://i.imgur.com/LOkwRr2.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWNyk8ErOvFMQMV2QY6ghByk4M18YgsXM4Q8k4nQiRB05QAjkntyrxxrVJGBtZVjk2GEDLHQj3MqzN6oskozBX007QtnlN2Lorr5hnw2V7nDpLuVrEp55WpjTYP6vXmk3BhWl4BmmB8oS6Jv5PmpRpFEvDnJL2BqUZ6xDolxgGuP7RzZGyPR
+    parentId: X92v30WoD9sZJq5DNxPwSmg80W
+    postId: wq8ENBY9z8cnRZVE3o8luEgK6k0yRNCJ01VljxMzcZW7BJok2gtJr
     factor: 1.33
     portrait: 1
-    mInfo: qljlQgeZUf3kPb3
-  - id: WNTCFoE
-    name: 0rPN4mKVRzHzG3x35jGMcOJzlw
-    description: ""   
-    height: 720
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/WNTCFoE.jpg
-    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9qMB8DI7oxWXlGBMSY5813YRzmSR3gYQnDrlcvrWkjX3YPTvLojgkBDZSq1LDGzRz6CpzLkAqwQRT1lDQDnx75Fz4XzzMwDrtOQW29jjyBsvgD4zQqqrF5VGOR5LJ2sl8y8OP7JAurkGEjprK7Cw4ENxkzkzI06AzDJWXlFz1gg3WXrEtPwLqk9LXrTgoy2E2pJm
-    parentId: MVxP02GQ8zUY6W64834XiQ4K8Y
-    postId: PVpMwv2mkpUn5AN1EQGzugpj4xLkmETjo8g5XnN6s8ov4xY8XJiMl
-    factor: 1.00
-    portrait: 0
-    mInfo: WieLgYXi03K6nIp
-message: "生產魚場;日本川上養鯉場 Kawakami Koi Farm  
+    mInfo: seefePaHzeH5wXn
+message: "生產魚場;日本川上 Kawakami Koi Farm  
 生產年份;2015.6  
-品種類別;輝黑龍系列 Kikokuryu  
-  
-有興趣的魚友，請到華錦的FB專頁;  
-https;//m.facebook.com/HuaJinKoi/  
-裡面有每隻魚的資料說明跟價錢，請在你喜歡的魚兒照片下面，按留言。  
-可以寫「我想預訂，請跟我聯繫」這樣就可以了。"
+品種類別;紅輝黑龍 Beni Kikokuryu  
+尺寸公母;25-30cm / 不明  
+鑑賞等級;AAA級   
+魚隻編號;Kawakami-20161009-001  
+展售地點;屏東華錦  
+銷售方式;現場交易或貨到付款  
+銷售定價;已售出"
 ---
 
-生產魚場：日本川上養鯉場 Kawakami Koi Farm  
+生產魚場：日本川上 Kawakami Koi Farm  
 生產年份：2015.6  
-品種類別：輝黑龍系列 Kikokuryu  
-  
-有興趣的魚友，請到華錦的FB專頁：  
-https://m.facebook.com/HuaJinKoi/  
-裡面有每隻魚的資料說明跟價錢，請在你喜歡的魚兒照片下面，按留言。  
-可以寫「我想預訂，請跟我聯繫」這樣就可以了。
+品種類別：紅輝黑龍 Beni Kikokuryu  
+尺寸公母：25-30cm / 不明  
+鑑賞等級：AAA級   
+魚隻編號：Kawakami-20161009-001  
+展售地點：屏東華錦  
+銷售方式：現場交易或貨到付款  
+銷售定價：已售出
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/6YlxsdN.jpg"><img src="https://i.imgur.com/6YlxsdN.jpg" height="168" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/IloEH02.jpg"><img src="https://i.imgur.com/IloEH02.jpg" height="300" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/5PhPPtH.jpg"><img src="https://i.imgur.com/5PhPPtH.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/WNTCFoE.jpg"><img src="https://i.imgur.com/WNTCFoE.jpg" height="300" width="300" /></a> 
+<a href="https://i.imgur.com/LOkwRr2.jpg"><img src="https://i.imgur.com/LOkwRr2.jpg" height="300" width="225" /></a> 
  
