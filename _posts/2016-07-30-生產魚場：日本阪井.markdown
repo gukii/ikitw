@@ -1,35 +1,35 @@
 ---
 layout: post
 title: "生產魚場：日本阪井" 
-date: 2016-07-30T00:39:13+0000 
+date: 2016-07-30T00:38:29+0000 
 categories: ["Sakai","IKI","華錦"] 
 media:
-  - id: 1ctpO54
-    name: LVwVGEy0DWu2vXpWvlBYfjylQo
+  - id: EGLY64H
+    name: RVDVXNGknjuXgB5POD6lUqLAyn
     description: "生產魚場;日本阪井 Sakai
 生產年份;2015.6
 品種類別;大正 Sanke
 性別公母;未明
-鑑賞等級;AAA
-魚隻編號;160530314
+鑑賞等級;賽級 Show
+魚隻編號;160530301
 銷售定價;已售出"   
     height: 720
     width: 480
     type: image/jpeg
-    link: https://i.imgur.com/1ctpO54.jpg
-    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnL887tlWJjMA4LluA29Opro2XC6xW5woVvMHGDkkEEgqVCo92ANG9MguOGqzEGpE8f6gEk4g9QVijMo8KWYA0sKAOYPDZZAcoQJgprrB5FLKZOV4xxJC95op79o30tGpL2V86vOiVAK4KmB3of3vm0D4nXjHr6kXmxrJLFLy2vGWX39Hgvk72okzxtMY8Zg4j64
-    parentId: LVwVGEy0DWu2vXpWvlBYfjylQo
-    postId: g9VxqgBYOVsJY5w1Z80EUQ43OGlByWTZA1BlXV6rSO2PMQJJ9puo2
+    link: https://i.imgur.com/EGLY64H.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7XnrXEGGJhxgZ8j9OkxcV719WByQmHvGBZgQzwwtLNjjmEj08hlxKEkVPk1TLGYNDq6OGHVXvyZmBXkcYpRAMDXqDFKQ6wAolNJFYQqKlAAy5fo4Gxnzww5unNpJ7np6mUXY1lP3q7xUJEp6W33AXI1nqXm9MXOsQymE5r2m0U9NGLPVx47UqYJxw4JjVINjw8QpRmQ
+    parentId: RVDVXNGknjuXgB5POD6lUqLAyn
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7vwRt0L5wXOM8kUoJ4pLllNQi35
     factor: 1.50
     portrait: 1
-    mInfo: EdZHtpfpTg11iUf
+    mInfo: 50sGKFugBcMz5sR
 story: "華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan."  
 message: "生產魚場;日本阪井 Sakai  
 生產年份;2015.6  
 品種類別;大正 Sanke  
 性別公母;未明  
-鑑賞等級;AAA  
-魚隻編號;160530314  
+鑑賞等級;賽級 Show  
+魚隻編號;160530301  
 銷售定價;已售出"
 ---
 
@@ -37,8 +37,8 @@ message: "生產魚場;日本阪井 Sakai
 生產年份：2015.6  
 品種類別：大正 Sanke  
 性別公母：未明  
-鑑賞等級：AAA  
-魚隻編號：160530314  
+鑑賞等級：賽級 Show  
+魚隻編號：160530301  
 銷售定價：已售出
  
  
@@ -47,5 +47,5 @@ message: "生產魚場;日本阪井 Sakai
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/1ctpO54.jpg"><img src="https://i.imgur.com/1ctpO54.jpg" height="300" width="200" /></a> 
+<a href="https://i.imgur.com/EGLY64H.jpg"><img src="https://i.imgur.com/EGLY64H.jpg" height="300" width="200" /></a> 
  
