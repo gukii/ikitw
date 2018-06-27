@@ -1,0 +1,66 @@
+---
+layout: post
+title: "錦鯉品種介紹  照" 
+date: 2016-07-11T09:42:28+0000 
+categories: ["錦鯉"] 
+media:
+  - id: 4Qcl5Dr
+    name: VVKj3zJQJncZW7jPXQR5UQjvxO
+    description: ""   
+    height: 350
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4Qcl5Dr.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZwwlVIPR1WplA2liW4BvBwoDlI8Vn2oK0ZAHoD22DznmnhLQkO0WKWqs9G9nBGoEmsYK8ODxVAVtNxm7xLqxghk0jRomNkRuxDMopnwPzH4pXY4VLv9s7RR1qvw4NH74PDrrwyohAknX2WkOqSnA2mz923niBopPpgLvnsAYL7Y9nBmuJ9pXzZNR3CY35xmZr05t4k10PvOA2s4Y
+    parentId: 4yP3MnWLWGCxB1RW4L4wTV8yYq
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0mFNJZlYRzLOhyE4Bw99W9CW6
+    factor: 2.06
+    portrait: 0
+    mInfo: MiOY3aDXaHqiU75
+  - id: kSYsNF8
+    name: 5zX4NoALAKFlXoO4XMm7TxB649
+    description: ""   
+    height: 548
+    width: 676
+    type: image/jpeg
+    link: https://i.imgur.com/kSYsNF8.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpP4xn4EslZJ57nQ4vS4NAGVKqK0s3kR14k5GZHGNKKNXnV6hERpWwQ9nVuKM11kEKGOcn8VRA1qZLcEvMjP255VCjApKLn8BEinYV0pJwplFm5YWXK64mTZrKKrQmxrcQRkQ65V1zIlpGLJDq5rH3EWN70oy7FgWRM3oML2ULEMknQJDDFrPmmk
+    parentId: 4yP3MnWLWGCxB1RW4L4wTV8yYq
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0mFNJZlYRzLOhyE4Bw99W9CW6
+    factor: 1.23
+    portrait: 0
+    mInfo: NCeO5SImePtiN4T
+  - id: RyG0CFs
+    name: Y9Nm3DV5Vqf9nzwgLQXGIM6yQr
+    description: ""   
+    height: 720
+    width: 417
+    type: image/jpeg
+    link: https://i.imgur.com/RyG0CFs.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczkpvkD555CBJMJ5Nv2phkwDQ5o1OPFD4qK4x62NCw562pX1L6HrpXO277VziQPozy7rXphxMYZWrGpjukYLAx49qJFr5NnN1483Fmw0zZ88ODH72RVY5119T9xjM79RYwsyX6PJMj7ztzqy6qwolXIBWoJx6yRGfQLgwQnz11fXWkDgvglXSqWBRmwB2yI9RZ6gwkNR
+    parentId: 4yP3MnWLWGCxB1RW4L4wTV8yYq
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj0mFNJZlYRzLOhyE4Bw99W9CW6
+    factor: 1.73
+    portrait: 1
+    mInfo: sn7dF5uDEDBgZBL
+message: "錦鯉品種介紹  
+照片來源;Mark Gardner  
+樹狀圖鑑;Seishu Kataoka  
+年代列表;全日本錦鯉振興會 JNPA"
+---
+
+錦鯉品種介紹  
+照片來源：Mark Gardner  
+樹狀圖鑑：Seishu Kataoka  
+年代列表：全日本錦鯉振興會 JNPA
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/4Qcl5Dr.jpg"><img src="https://i.imgur.com/4Qcl5Dr.jpg" height="145" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/kSYsNF8.jpg"><img src="https://i.imgur.com/kSYsNF8.jpg" height="243" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/RyG0CFs.jpg"><img src="https://i.imgur.com/RyG0CFs.jpg" height="300" width="173" /></a> 
+ 
