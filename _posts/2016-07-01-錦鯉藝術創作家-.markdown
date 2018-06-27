@@ -1,0 +1,112 @@
+---
+layout: post
+title: "錦鯉藝術創作家  " 
+date: 2016-07-01T13:45:16+0000 
+categories: ["錦鯉"] 
+media:
+  - id: 6HnQvyu
+    name: qkmnNPrDWJH251NgQgZnHN2ZK6
+    description: ""   
+    height: 342
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6HnQvyu.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy36AZ4BBKuEGLEok2yAu6w112xGA7HKG82JLg8gtrR49p207BH3kzKBo1JrHxq6NOl3GXtAjMQjE5LGs186PANNjrHNgD2Kk33jSvLk0XvY2nfx22pLyBvQhBJq56pKQXuDmYGjRm3JI8GyP33OEnswqYNX8Bm5fmZPKpgPqMc5Q8DzkrvX
+    parentId: 3xPXWopOmosvpyxXO6PvhQ5XWM
+    postId: DV7YO5MND7UZOrJLlXvYsm0ZVo198PU4X0mpgPlOt4XXBEX1rJt1y
+    factor: 2.11
+    portrait: 0
+    mInfo: 7nAvnnwYz55nHGL
+  - id: 6UITZQR
+    name: EVmp4N2GLDfqD1oLxYYAHZJN6l
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6UITZQR.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LYGk2G2HyNY0K5EYQS5G8A3PkDXizlBkZx33mfA4Q7r7mnOf2zzjplLVRCOVVrPoq3NSRWrOj58xYspG0J5ZyynUJ7jRL1xoBHXgOWozZo1TmZoER6qVZFBkEXy8gzKImwEkZW3jzckL2vzLYZpHRJ2jxMwnxh0Eq80xVZ8UM259lGDRgt4KGoY
+    parentId: 3xPXWopOmosvpyxXO6PvhQ5XWM
+    postId: DV7YO5MND7UZOrJLlXvYsm0ZVo198PU4X0mpgPlOt4XXBEX1rJt1y
+    factor: 1.00
+    portrait: 0
+    mInfo: wHb0il6eqzSUbMi
+  - id: 6v6m39G
+    name: n9jkKMo8WDiWol8p4JOgSmj2ZB
+    description: ""   
+    height: 720
+    width: 711
+    type: image/jpeg
+    link: https://i.imgur.com/6v6m39G.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DvNmo80Mfor7KKzKYluLD33gZoOvH9rKWKQQ3LtQooVN5oPDhN6AoN0DJvukN7NZMvq3CxwXBGZP55U4Pr9BKKV1S7gxm2q55JT75pBN7G21TjMX3DGQ8GIQWZ8PWKx0cj2WBrxMGmSml9GmoJEzs0XL22OggPhYq30Gm3E6C4Xr8NrP98
+    parentId: 3xPXWopOmosvpyxXO6PvhQ5XWM
+    postId: DV7YO5MND7UZOrJLlXvYsm0ZVo198PU4X0mpgPlOt4XXBEX1rJt1y
+    factor: 1.01
+    portrait: 1
+    mInfo: TckzlnExd706td4
+  - id: AkcT6Oy
+    name: AYgl4J2AEySRwY16RY5WcQnG0O
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/AkcT6Oy.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NlngQFKRy83MAlLSkwDQYZEMQsm94oJ06PQI4ENN8R0wDSroQ1kW8pzUQPozy7p2jtR293Bm8qGSkAYM6vPRjIoX9nWY0x3cmw0zZ88ODH72RVY5119T9xjM791JQCJjzXvDDR8H1jKyzwQqoTAwMnGKk5Ah1gr2zKVJnfkWBByOz3wHqWBRmwB2yIwOpn0mpzr
+    parentId: 3xPXWopOmosvpyxXO6PvhQ5XWM
+    postId: DV7YO5MND7UZOrJLlXvYsm0ZVo198PU4X0mpgPlOt4XXBEX1rJt1y
+    factor: 1.00
+    portrait: 0
+    mInfo: DrkrVkvGutJrjZF
+  - id: juqKCVA
+    name: m9gjJLnGWBiMgZG9068pHQMGZD
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/juqKCVA.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV0L24sOLNJz1K3GiPnqm2R99oFp14Rv6YE1S71ooDZn3DTVQKZv40G9HQwr3AywJDcpxQYEjXj4u6po7xvkW0cpgXP6g1W5Tq6QxOGGmyuXzKRwrZZGSBW5pnB1jWtWpokRBJRRhPKZmjW23OCygGomOA1EtQMv9oZlvBiWmDzOMjpPTmk5Wj35p2cQJxZy1gDR
+    parentId: 3xPXWopOmosvpyxXO6PvhQ5XWM
+    postId: DV7YO5MND7UZOrJLlXvYsm0ZVo198PU4X0mpgPlOt4XXBEX1rJt1y
+    factor: 1.00
+    portrait: 0
+    mInfo: 29nFduap3bDLXe5
+  - id: EHQkcb6
+    name: zwyzZ2E9g0irk32zE88wUoW4vo
+    description: ""   
+    height: 720
+    width: 678
+    type: image/jpeg
+    link: https://i.imgur.com/EHQkcb6.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvg1Mj9Z3gCxRmyn8rn0HrXVVYk9GBUJY7wL9jAAfDVVy4nlRvIvyjZ21m2zhYRNX3VzPocJBq8jkG6LspM4Q68qN9SX2j6JxX4NTLKjW1mgXxu53Bq1jKRwHJvNNY503Qs8oK2qMLgjC2Vl6Z19Amhjl8Om4x92hygQOvxVK1i5npXgnzn
+    parentId: 3xPXWopOmosvpyxXO6PvhQ5XWM
+    postId: DV7YO5MND7UZOrJLlXvYsm0ZVo198PU4X0mpgPlOt4XXBEX1rJt1y
+    factor: 1.06
+    portrait: 1
+    mInfo: MXIm86vcmwCFC89
+message: "錦鯉藝術創作家  
+陳曉寧 - 中國  
+Seveny Chen - China"
+---
+
+錦鯉藝術創作家  
+陳曉寧 - 中國  
+Seveny Chen - China
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/6HnQvyu.jpg"><img src="https://i.imgur.com/6HnQvyu.jpg" height="142" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/6UITZQR.jpg"><img src="https://i.imgur.com/6UITZQR.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/6v6m39G.jpg"><img src="https://i.imgur.com/6v6m39G.jpg" height="300" width="296" /></a> 
+  
+
+<a href="https://i.imgur.com/AkcT6Oy.jpg"><img src="https://i.imgur.com/AkcT6Oy.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/juqKCVA.jpg"><img src="https://i.imgur.com/juqKCVA.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/EHQkcb6.jpg"><img src="https://i.imgur.com/EHQkcb6.jpg" height="300" width="282" /></a> 
+ 
