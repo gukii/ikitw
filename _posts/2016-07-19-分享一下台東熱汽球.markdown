@@ -1,0 +1,33 @@
+---
+layout: post
+title: "分享一下台東熱汽球" 
+date: 2016-07-18T23:57:21+0000 
+categories: ["華錦","錦鯉"] 
+media:
+  - id: XHcL3jB
+    name: 9Nq624jKRjijYoj9NKPBCr5op2W
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/XHcL3jB.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtA29Ojz298I3y5Pm83XNHGk3DBxoAnSEVMJgJXg6fJkXWyA95jc6PmAqqnQJhjMK49oJ3AHKny7ZMNBRIoxA7oBYKguLXXD43m18t91zlQQOxOUgzLGGzolMHlLKqrYymmfyZEvL1Ay2UXlERM9oAVTqKkD0Bq2viJGMNDyD6nHMxQ40zAR6HqN
+    parentId: 9Nq624jKRjijYoj9NKPBCr5op2W
+    postId: 1vzYo8m1OztXEwBAN8zJuPEXjM2EyKFEKv2LD6EXhYOmyyx289IXmG
+    factor: 1.78
+    portrait: 0
+    mInfo: cNt8hcFLlmdYw6H
+story: "紀冠宇 shared a photo to 華錦顧問股份有限公司's timeline."  
+message: "分享一下台東熱汽球活動有日本來的錦鯉熱氣球;https;//www.facebook.com/taitung.tourism/photos/pcb.1177454622306466/1177454495639812/?type=3&theater"
+---
+
+分享一下台東熱汽球活動有日本來的錦鯉熱氣球：https://www.facebook.com/taitung.tourism/photos/pcb.1177454622306466/1177454495639812/?type=3&theater
+ 
+ 
+[//]: #story:
+紀冠宇 shared a photo to 華錦顧問股份有限公司's timeline.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/XHcL3jB.jpg"><img src="https://i.imgur.com/XHcL3jB.jpg" height="168" width="300" /></a> 
+ 
