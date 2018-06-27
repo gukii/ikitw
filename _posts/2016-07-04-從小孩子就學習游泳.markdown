@@ -1,0 +1,78 @@
+---
+layout: post
+title: "從小孩子就學習游泳" 
+date: 2016-07-04T09:33:33+0000 
+categories: ["愛好家","錦鯉"] 
+media:
+  - id: eihP2q8
+    name: X92l85pVKGSZ62wmXEJgTm84oL
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/eihP2q8.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2Sl3g298BRQhPy8o8Gg8GtNJqM29k1YT6JABJBqMEtkm3jo06VmC4KjEnJ9ZNTX54jAnJMySwr0NzEKG8hn2EDN33ORfXBgEovllwS5XRwo5ZpPTR7E1XX8vAh0WWmQrPDxUB2w25rMVKT03XWZzVrBh93OpZqZmpUVNr9p6rqZTp8WQopkQJ
+    parentId: W9X03qoBJrT4KRKBDBB9HmPqMl
+    postId: Z9DwKJlOxDsYon8q9z4Kfl6ygwBZM5sEO6vvVq1muZwoNQ15QRhB2
+    factor: 1.33
+    portrait: 1
+    mInfo: 6m44WMjqbflUw5g
+  - id: 9ckDM3f
+    name: j9NKp86JrwS06mkJRgOyI1OAG7
+    description: ""   
+    height: 489
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9ckDM3f.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DvNmo8R2FoELDQmLymupmywvP7X5H90X1m16rZhQoLgn37G7HzVWDl3pGxCkG12P07wYFxw62PQXmQC4Pr9BKKV1S7gxm2q55JT75pBN7zQmfj3jmMQR94fRlkgN3wGZHVP78NwqL1SA0y8GBRNpfJ92A78KGzHYq30Gm3E6C4nQN92kJ5
+    parentId: W9X03qoBJrT4KRKBDBB9HmPqMl
+    postId: Z9DwKJlOxDsYon8q9z4Kfl6ygwBZM5sEO6vvVq1muZwoNQ15QRhB2
+    factor: 1.47
+    portrait: 0
+    mInfo: LyBtgu7u2QvXKKL
+  - id: CbsYJmC
+    name: KVvy3Q9EqNS1NyJ5131qsp7zOl
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/CbsYJmC.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31PvrzmN4hwVx3WMEr7Im3BQWNJ39hlV5pVBg8ZTEgQk7mZyQcNo3rqJPlVC2RMrGRZ8gcxpR1GNY09f76PNOgg2AfYlgkKGww3IXErgzXBrmIZ0g4wVKOBin32O7xOQntrwzRl7BlMIj6zz6ZqWlfqgZ9n6Xzlfok8R7j8mYtRzOpExlVv
+    parentId: W9X03qoBJrT4KRKBDBB9HmPqMl
+    postId: Z9DwKJlOxDsYon8q9z4Kfl6ygwBZM5sEO6vvVq1muZwoNQ15QRhB2
+    factor: 1.33
+    portrait: 1
+    mInfo: xi6UwM3kOsjr3hb
+  - id: qjdwnKc
+    name: X92l85pVKvT9RlXNJjpOhmoq20
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/qjdwnKc.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy69yoD18F05RDmyMVOc31PvO5WlnfvAGmQvyn4cm3BQWNxo7ulV5pVBg8OSEggDjZDLOTNovvvOW7xtqJzkGXx27CxGnBAD22Gc76PNOgg2AfYlgkKGww3IXErgzXrDWTo8Nmm1R60Sn3n9POoKWCxEqRjVkvPsN8BM7BAXjsDP2AJXwzZFok8R7j8mYtRz0240xko
+    parentId: W9X03qoBJrT4KRKBDBB9HmPqMl
+    postId: Z9DwKJlOxDsYon8q9z4Kfl6ygwBZM5sEO6vvVq1muZwoNQ15QRhB2
+    factor: 1.33
+    portrait: 0
+    mInfo: hY1y3xCZgOqcNjj
+message: "從小孩子就學習游泳，然後錦鯉愛好家的池塘就不需要加裝欄杆，孩子也可以跟魚兒一起玩耍喔！  
+Swimming with Koi!"
+---
+
+從小孩子就學習游泳，然後錦鯉愛好家的池塘就不需要加裝欄杆，孩子也可以跟魚兒一起玩耍喔！  
+Swimming with Koi!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/eihP2q8.jpg"><img src="https://i.imgur.com/eihP2q8.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/9ckDM3f.jpg"><img src="https://i.imgur.com/9ckDM3f.jpg" height="203" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/CbsYJmC.jpg"><img src="https://i.imgur.com/CbsYJmC.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/qjdwnKc.jpg"><img src="https://i.imgur.com/qjdwnKc.jpg" height="225" width="300" /></a> 
+ 
