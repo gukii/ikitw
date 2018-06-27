@@ -1,0 +1,82 @@
+---
+layout: post
+title: "錦鯉池規劃案  拭" 
+date: 2016-07-06T08:57:58+0000 
+categories: ["Koi ","錦鯉"] 
+media:
+  - id: cek4OtU
+    name: rlnoAMzLYmTmkO9lNQDnfjr84O
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cek4OtU.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvO0oOz1QEs769yMDgzoiDl4Xzv0jVioyO65KYqNSyvnm4QAMwiLAOPy9LVRFlokXq05gNuPNPxJP2rEfLprw6GgWVCkBAKE4j37sOKmg8ppRVsR2W8pOooVuklP5NkPLqhXn7BL7LQNHoYGg4wgB0c6BQEKmMkEtKVWNOrpy7I988L43N9BfJ0DWQoDEzcnDzGkLo6p
+    parentId: N6yB35zM8Ycp0gO8XpKRSrXZZ6
+    postId: RVrMyx4YmrUXgP0DqNm4uYjOlMARXDTg5LzlzRM6i8VE2xO1JvUwW
+    factor: 1.33
+    portrait: 0
+    mInfo: qSj0o9DgujoCA7W
+  - id: R5CrY05
+    name: k0NLqOpAoruwKv7WDrnvTJ3PXr
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/R5CrY05.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgNY9Nn4ELu23mkxDPBZuBJmnjxYV2iZKGD9DxV3C28v1MXq9YCkvxEqgElMCmBv6QPrw4Hz89Ym0v6yIJ5xrgA6gBSDxgYv0vmktQZ2Xo88GwhPEJ41kXXmUWX4RBWVKkSKB3VM2YjwTZJq90BARjf4LYxDo8jruyl5ALm9nzsvlLDX9Q76TovVjEYV1ktoYEzyLXXp
+    parentId: N6yB35zM8Ycp0gO8XpKRSrXZZ6
+    postId: RVrMyx4YmrUXgP0DqNm4uYjOlMARXDTg5LzlzRM6i8VE2xO1JvUwW
+    factor: 1.33
+    portrait: 0
+    mInfo: LVbDBlGB058y96a
+  - id: QO39cA3
+    name: N6yB35zM8Ycp0Kl6OJLBcrX1jP
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/QO39cA3.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR74z7KGnZImLEJDQxj4S9EXLqo8VVFV04lm7KRrFWZ6P23YL1Iqpm1JYqr4HMPmYL31g5tQM8n4y5KwTB6pgPwmwgHVqJJR81BOFkZ6VBJJEjtMlQ4z3PPjTpKNmMpnAGSZWjJwR8BZU7GwowWV9xTYZ30O7nmpcm8RVJXE8MSPX0VB5M05s6Xxl7AxLDcGOQ6VlQK9
+    parentId: N6yB35zM8Ycp0gO8XpKRSrXZZ6
+    postId: RVrMyx4YmrUXgP0DqNm4uYjOlMARXDTg5LzlzRM6i8VE2xO1JvUwW
+    factor: 1.33
+    portrait: 0
+    mInfo: HDdCLeIuloQQr8n
+  - id: Wv6aVAz
+    name: l9NgrMqBp2Hl2Q5RvX4Ys1mzyv
+    description: ""   
+    height: 703
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Wv6aVAz.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSW1LqNp7WDHo34rLXmGnUE874oVLozSrWKk2Mrn3hDPYB9YLAVfl9m4X52B1u8R3M2qzyWsGDDDPQ8MyTA1wp5xxOMhKl17LQ44xFL2gVKL6BrFDy91yykY7I9mBVZ5MzYH8zWyXgmJBf7j665vjljTRnD9ZQwXAImNPoW4PROcg2XAk37JD
+    parentId: N6yB35zM8Ycp0gO8XpKRSrXZZ6
+    postId: RVrMyx4YmrUXgP0DqNm4uYjOlMARXDTg5LzlzRM6i8VE2xO1JvUwW
+    factor: 1.02
+    portrait: 0
+    mInfo: ahEK8loAwcF2wVy
+message: "錦鯉池規劃案  
+拭目以待^_^  
+  
+Koi pond design ;-)"
+---
+
+錦鯉池規劃案  
+拭目以待^_^  
+  
+Koi pond design ;-)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/cek4OtU.jpg"><img src="https://i.imgur.com/cek4OtU.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/R5CrY05.jpg"><img src="https://i.imgur.com/R5CrY05.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/QO39cA3.jpg"><img src="https://i.imgur.com/QO39cA3.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Wv6aVAz.jpg"><img src="https://i.imgur.com/Wv6aVAz.jpg" height="292" width="300" /></a> 
+ 
