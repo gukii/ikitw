@@ -1,0 +1,130 @@
+---
+layout: post
+title: "錦鋰池規劃案分享 " 
+date: 2016-06-28T03:50:21+0000 
+categories: [] 
+media:
+  - id: cZcA8zW
+    name: BYjm45jvQYsNZK4gpVBwSWMzp9
+    description: ""   
+    height: 543
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cZcA8zW.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWXD9Om3vBCGXrNl7XzpsqDl8MV4VXHXMry93A0EiAZn5V0Gv0sv8yA02ZlJi5k3zglr9nhRKKBRg103F0Vj4w33mqCvJGKr977RFEVAxkEA9Giw7qwNwkRXTN2PkGDRL0cAKVxBgnxDFrOLPAOnVKTZzD8vlNK6Tr1XNV4XRKIKWWJV42mV
+    parentId: DVlo45ADjVIZPJz2zoPjhl7GXz
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnq2rjTx5mLjvnXRcBPNW05K54C52
+    factor: 1.33
+    portrait: 0
+    mInfo: z8zZT32wGK5G9vN
+  - id: sB9PFai
+    name: PVAE4vAGrVTnDXxo33NVF6vMVN
+    description: ""   
+    height: 543
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/sB9PFai.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP28VQMx7BcmywVO8Myqu7OkDJMWMXioJEDyvr4Zig8q8GyB4ZHkzQjgO1kWs9kr7XWLrQtoO4NqBMZms2B680OODASlnrAzLRREUo73rYoLX6uNZp1GxGoKT2pyK758XGugqYpEB2w4SD0qEvAA51sJvyp83YEoINWmo7Amj5s9wQQKgDPO
+    parentId: DVlo45ADjVIZPJz2zoPjhl7GXz
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnq2rjTx5mLjvnXRcBPNW05K54C52
+    factor: 1.33
+    portrait: 0
+    mInfo: lmfFWSVQsxkn7se
+  - id: 9rWpOSl
+    name: 3xPXW5P3Oxhv8PXDBk72CQ8g9o
+    description: ""   
+    height: 543
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9rWpOSl.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUw5j9nXw8ocR81Y9ln32skL8JVnOKzUpXP2vgDz9FgRLWGjOx5ForyNW8l3xTM9vN0PYwEhKNWAy8pvOTkxo7zqqZVtEpl7Xm22McZWOG4ZRyyCRqJ1rg90LU5En1qww7wS9AqZBoXYoS7kKzlGnwltGOzkqzxkxC4EAGxDAZmIjV1NKGj6W
+    parentId: DVlo45ADjVIZPJz2zoPjhl7GXz
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnq2rjTx5mLjvnXRcBPNW05K54C52
+    factor: 1.33
+    portrait: 0
+    mInfo: O6rryNyjOtuFI0o
+  - id: uCdfyOX
+    name: wqvwWBvxZqinp0kKO4gQS1LBlA
+    description: ""   
+    height: 720
+    width: 543
+    type: image/jpeg
+    link: https://i.imgur.com/uCdfyOX.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOj1KAEDV9iwYjVL6qxPuxXPB9jgy9hwL02BMxqofmvvNwZ2rAFDAOJ56pQAUoK7BgBrn8hKlEJM9pjjIgvRqlmm0KFWnrpKN55PuJY79NJ3rRuzMJGyBx6lu6Q5nEELrRuZ6B1kJzLDT87ppx6Qxkt8gQ630Q2YTOB630L65jSlwvR7wB72
+    parentId: DVlo45ADjVIZPJz2zoPjhl7GXz
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnq2rjTx5mLjvnXRcBPNW05K54C52
+    factor: 1.33
+    portrait: 1
+    mInfo: 0e9evjegmHWttq1
+  - id: WwlHusI
+    name: xrwxXDwy9rsjOxnxy2ONCRq6gw
+    description: ""   
+    height: 537
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WwlHusI.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWXD9Om3vDFGKRZZZ1zPsqDl8MBpDouXVg6xvZ4rhAZgNq6YR2cVPX73nmNXuB8YNxXJ2PhR40jpkvr5s0Vj4w33mqCvJGKr977RFEVAxkE35YtvnV60qog0fpxgkA5pPnIwGyPV7xPMIXzxQQBN3mcJgryD0N1BHr1XNV4XRKIK8o32ozm9
+    parentId: DVlo45ADjVIZPJz2zoPjhl7GXz
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnq2rjTx5mLjvnXRcBPNW05K54C52
+    factor: 1.34
+    portrait: 0
+    mInfo: nizBgtVDIsnT0oX
+  - id: QW1DSgy
+    name: LVwz4owGnVT2vQPjP7WZUjGBgp
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/QW1DSgy.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflAqDw5GDMsWx9DxgABZukJMKVrEARcJBNw1D5J1UO2x5DQgloIxrjy33zpjFv6Egz2pQ5fDWpBK8QG2hQA8OnWWVjhozyQJN44muO5DqvODD8S2O5qj8k3LTRgWQ3om85CO4qKAl5D0U96BLQl0r8UyR2LAMLGnhkKYNAmYjMc9Nj6Woq32
+    parentId: DVlo45ADjVIZPJz2zoPjhl7GXz
+    postId: X9A7GEjxvAsZM7DPom5EsRgkPnq2rjTx5mLjvnXRcBPNW05K54C52
+    factor: 1.33
+    portrait: 1
+    mInfo: n5tGNmtzaQ7cQE1
+message: "錦鋰池規劃案分享  
+委託單位;私人公司  
+施工地點;江西吉安  
+施工類型;空地新建  
+水量水深;500噸/ 1-2.5米  
+過濾系統;毛刷、棉毯、細菌屋、殺菌燈  
+過濾體積;25%總水量  
+循環水量;2小時  
+飼養密度;168尾，70-80公分  
+  
+雖然旁邊沒有種樹遮陰，但水深夠所以不怕曬^_^   
+另外25%的過濾系統有加蓋，這就好比1/4的水面有遮陰的效果，所以整體水溫維持的很好喔^_^"
+---
+
+錦鋰池規劃案分享  
+委託單位：私人公司  
+施工地點：江西吉安  
+施工類型：空地新建  
+水量水深：500噸/ 1-2.5米  
+過濾系統：毛刷、棉毯、細菌屋、殺菌燈  
+過濾體積：25%總水量  
+循環水量：2小時  
+飼養密度：168尾，70-80公分  
+  
+雖然旁邊沒有種樹遮陰，但水深夠所以不怕曬^_^   
+另外25%的過濾系統有加蓋，這就好比1/4的水面有遮陰的效果，所以整體水溫維持的很好喔^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/cZcA8zW.jpg"><img src="https://i.imgur.com/cZcA8zW.jpg" height="226" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/sB9PFai.jpg"><img src="https://i.imgur.com/sB9PFai.jpg" height="226" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/9rWpOSl.jpg"><img src="https://i.imgur.com/9rWpOSl.jpg" height="226" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/uCdfyOX.jpg"><img src="https://i.imgur.com/uCdfyOX.jpg" height="300" width="226" /></a> 
+  
+
+<a href="https://i.imgur.com/WwlHusI.jpg"><img src="https://i.imgur.com/WwlHusI.jpg" height="223" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/QW1DSgy.jpg"><img src="https://i.imgur.com/QW1DSgy.jpg" height="300" width="225" /></a> 
+ 
