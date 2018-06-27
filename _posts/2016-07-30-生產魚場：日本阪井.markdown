@@ -1,35 +1,35 @@
 ---
 layout: post
 title: "生產魚場：日本阪井" 
-date: 2016-07-30T00:38:29+0000 
+date: 2016-07-30T00:36:08+0000 
 categories: ["Sakai","IKI","華錦"] 
 media:
-  - id: EGLY64H
-    name: RVDVXNGknjuXgB5POD6lUqLAyn
+  - id: C8yjvOo
+    name: 5zXzMPGVx3I1W4LEp6RRfxwrx5
     description: "生產魚場;日本阪井 Sakai
 生產年份;2015.6
 品種類別;大正 Sanke
 性別公母;未明
-鑑賞等級;賽級 Show
-魚隻編號;160530301
+鑑賞等級;AAA
+魚隻編號;160530285
 銷售定價;已售出"   
     height: 720
     width: 480
     type: image/jpeg
-    link: https://i.imgur.com/EGLY64H.jpg
-    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7XnrXEGGJhxgZ8j9OkxcV719WByQmHvGBZgQzwwtLNjjmEj08hlxKEkVPk1TLGYNDq6OGHVXvyZmBXkcYpRAMDXqDFKQ6wAolNJFYQqKlAAy5fo4Gxnzww5unNpJ7np6mUXY1lP3q7xUJEp6W33AXI1nqXm9MXOsQymE5r2m0U9NGLPVx47UqYJxw4JjVINjw8QpRmQ
-    parentId: RVDVXNGknjuXgB5POD6lUqLAyn
-    postId: vp7YMAXqy7fZy0LnzvNwslVApq7vwRt0L5wXOM8kUoJ4pLllNQi35
+    link: https://i.imgur.com/C8yjvOo.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpNWpYLLDuMNRWAwVGMCrYoOpwzolfzkBBAlP7AIwJQQYozjmIzgvDkN3V1H96LDRLvQkSn22K8gNKzhMPnPJRvr8sBXlxQkJDVur8A1VNNmDHk1L8EZ77wskjowMknE9UM8AO8OzxWcPQNomjjGlU6OmJLzXz7iKDOZ4XDK9HO2A1mZnNkuOXWVgkW13SE4xVr7v5Z
+    parentId: 5zXzMPGVx3I1W4LEp6RRfxwrx5
+    postId: rlNEGwQZrNCOD3nRlxVQHB2yZP1rLEfQxyz9OL8ks0zBRnBk97HjL
     factor: 1.50
     portrait: 1
-    mInfo: 50sGKFugBcMz5sR
+    mInfo: mqX00NnEW2qGqSZ
 story: "華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan."  
 message: "生產魚場;日本阪井 Sakai  
 生產年份;2015.6  
 品種類別;大正 Sanke  
 性別公母;未明  
-鑑賞等級;賽級 Show  
-魚隻編號;160530301  
+鑑賞等級;AAA  
+魚隻編號;160530285  
 銷售定價;已售出"
 ---
 
@@ -37,8 +37,8 @@ message: "生產魚場;日本阪井 Sakai
 生產年份：2015.6  
 品種類別：大正 Sanke  
 性別公母：未明  
-鑑賞等級：賽級 Show  
-魚隻編號：160530301  
+鑑賞等級：AAA  
+魚隻編號：160530285  
 銷售定價：已售出
  
  
@@ -47,5 +47,5 @@ message: "生產魚場;日本阪井 Sakai
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/EGLY64H.jpg"><img src="https://i.imgur.com/EGLY64H.jpg" height="300" width="200" /></a> 
+<a href="https://i.imgur.com/C8yjvOo.jpg"><img src="https://i.imgur.com/C8yjvOo.jpg" height="300" width="200" /></a> 
  
