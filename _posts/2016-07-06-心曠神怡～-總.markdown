@@ -1,0 +1,94 @@
+---
+layout: post
+title: "心曠神怡～   總" 
+date: 2016-07-06T03:58:00+0000 
+categories: ["Hobby","Koi "] 
+media:
+  - id: e1Fh7Fb
+    name: 6A4NOzPRwmsWvLk7NXLBTx1x9R
+    description: ""   
+    height: 271
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/e1Fh7Fb.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGAAVDFpjwgqRzxRtvOQ0QLkyKHk3Opv52m4sZlXRVKZQDh2g0MvDw2XCQ8jPp9K9GtpNBMwgW96sPlo0MgQWjIWA2P6wyylT7mgrWLR5Rc5OMjyDDnWhK80gMBXXzF36LB73xDVHWqyBWXMjBuPJKojWWO8TJZP2gPX1Pi5kXojq2qLIjQGnp0vwMt93ARvVAlLHzRgYrr4pr
+    parentId: 3xPXLKM2qjUvB2mzB3l3FQ8gMN
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0x4cVr0kxlJpzhonvLBpLMoT0G
+    factor: 2.66
+    portrait: 0
+    mInfo: OMZErvtHJUzIaVX
+  - id: LeOtoSy
+    name: KVvy35wZoYi1N7KOy5pOfp88oO
+    description: ""   
+    height: 720
+    width: 639
+    type: image/jpeg
+    link: https://i.imgur.com/LeOtoSy.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPnqmvzJokF9XNM6YD7Vflgmn6QB7rTV9mmL6orYhQwROMnzL5uvg30xNpg6i69EywwP2AupY6mKD0vvFq6QxOGGmyuXzKRwrZZGSBW5pnB512CyN7BRp9J3TOL88XklLjH2vzA879VESovQ4XYEw1cDNRMnWPGEsmk5Wj35p2cQEjO7rrNQ
+    parentId: 3xPXLKM2qjUvB2mzB3l3FQ8gMN
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0x4cVr0kxlJpzhonvLBpLMoT0G
+    factor: 1.13
+    portrait: 1
+    mInfo: td9rcnvzYjh7Olg
+  - id: 8rCrep1
+    name: RVDJ35EoyMiO1wvKjrNrsqLqXM
+    description: ""   
+    height: 720
+    width: 651
+    type: image/jpeg
+    link: https://i.imgur.com/8rCrep1.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy36AZERARHEvlw6YP1BSX0JVKpOmyuXVXomv4ojTrRR0839JAu3NvDplvJOFxRPBRr2K4IAwAZ06yx7s186PANNjrHNgD2Kk33jSvLk0Xvk8DcxmvKNzl37Hmk1VYBQ5RtDGQ4og4lgi8xERoKOl2Fw79MKNr8qtmZPKpgPqMc5Q8VzMrRk
+    parentId: 3xPXLKM2qjUvB2mzB3l3FQ8gMN
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0x4cVr0kxlJpzhonvLBpLMoT0G
+    factor: 1.11
+    portrait: 1
+    mInfo: plYq8Qv7q25Wnrh
+  - id: FzHBBcg
+    name: zwyzM4QpJAtrZQnDn0nzTorrBn
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/FzHBBcg.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgq7yOFm7xnNY3RZSWNy9Q7669fMQGk1vkEzh8R269XrE7sy8G0VvXM5IRBkWG2KXWIyQPwJErWOSZK4Dx9kZRuQqEg3EGJmIkozBX007QtnlN2Lorr5hnw2V7nDkkCrYMqO3GVvtYyOXL8VwoCWXwVV51LXf6JME4DoWVFnLwALQWKzcZ6xDolxgGuP7Po84mgz
+    parentId: 3xPXLKM2qjUvB2mzB3l3FQ8gMN
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0x4cVr0kxlJpzhonvLBpLMoT0G
+    factor: 1.33
+    portrait: 0
+    mInfo: MKDKqueKFCLtWul
+message: "心曠神怡～   
+總體水量;100頓  
+池塘尺寸;長10m寬5m深度1.6-2m  
+循環速率;1.5h( 1.5小時循環一次）  
+過濾材料;強制+傳統  
+飼養密度;20尾  
+  
+Taiwan koi hobby pond  
+Pond size; 10mLx5mWx1.6~2mD  
+20pcs koi in 100t water."
+---
+
+心曠神怡～   
+總體水量：100頓  
+池塘尺寸：長10m寬5m深度1.6-2m  
+循環速率：1.5h( 1.5小時循環一次）  
+過濾材料：強制+傳統  
+飼養密度：20尾  
+  
+Taiwan koi hobby pond  
+Pond size: 10mLx5mWx1.6~2mD  
+20pcs koi in 100t water.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/e1Fh7Fb.jpg"><img src="https://i.imgur.com/e1Fh7Fb.jpg" height="112" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/LeOtoSy.jpg"><img src="https://i.imgur.com/LeOtoSy.jpg" height="300" width="266" /></a> 
+  
+
+<a href="https://i.imgur.com/8rCrep1.jpg"><img src="https://i.imgur.com/8rCrep1.jpg" height="300" width="271" /></a> 
+  
+
+<a href="https://i.imgur.com/FzHBBcg.jpg"><img src="https://i.imgur.com/FzHBBcg.jpg" height="225" width="300" /></a> 
+ 
