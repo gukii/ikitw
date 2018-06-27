@@ -1,0 +1,84 @@
+---
+layout: post
+title: "五十嵐養鯉場 Ik" 
+date: 2016-07-18T03:13:50+0000 
+categories: ["Koi "] 
+media:
+  - id: hg1o454
+    name: J9r91DlWv4SnvoZAYKBPfv3N3R
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/hg1o454.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzBZoBKJRNcXkDLr8z7Nh7QEkYNXp4iXlYKG5jJQSDjLQO3oPmT0Voxx05VZtWr4rvBPjKtLzRW9zY5Lcwxp77y940f40pvKwqrPHzwVDNWMn9i0VzyZG0MPUmYOMqDWDqSnl3MrpmZ2u9ADKXrgA6sBEZ4qlJgmiPwGNQYvGqhKO3w9770mFp2YKnO9Q1t4xV4wX7W
+    parentId: j9N9BQL6oXS0VKOzy9qPC1p0xq
+    postId: AY7QL5Jqz7h51JlKAj6pC0PYr4E5BzHDOMvkoKgzfRxVEQD7o4SB0
+    factor: 1.33
+    portrait: 0
+    mInfo: HV75M5evlg75c5j
+  - id: rxnoTmZ
+    name: GVoVAngWp1h8RNgoNPN3IkyJy9
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rxnoTmZ.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmL4qLOZyPHqxL2lKr16SW1LqrZO84ikv3AqQ7QWhGxrEP4oyRuKwO77KRw3FDP9V8XX0Pf18xyMn8LzU8REZEVgN4uGDlLXJ2gRcA1wp5xxOMhKl17LQ44xFL2gVKL6DQFDZ3vB6pG5fRmv0YKYBMfvVnBGEANwimlAvolB81TqOA00wPmLUmNPoW4PROcgRQEW4R7o
+    parentId: j9N9BQL6oXS0VKOzy9qPC1p0xq
+    postId: AY7QL5Jqz7h51JlKAj6pC0PYr4E5BzHDOMvkoKgzfRxVEQD7o4SB0
+    factor: 1.33
+    portrait: 0
+    mInfo: OHfAn6SqaPfUDO4
+  - id: TNBFDvR
+    name: 1vPvM1Q3K0uZoX30g778UYVDw8
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/TNBFDvR.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNEPNwQ1nu4EMy67QpLF1D4vxgQgmHOYwwkv3OohX7Ev9nR3Ou6jZo4g2yBc67Gpw66NwfOGMV8Lq04ClON9mlln1iNGZK2lEXZUxLKo2669JHmwZBMGooJs3r91B3994SVEZY0rgk6CyBRrMDqxkFxkXkno58nfvoBrj1l95I46kGjoBmBcwR5QVj5OWsNYjqgWQzm
+    parentId: j9N9BQL6oXS0VKOzy9qPC1p0xq
+    postId: AY7QL5Jqz7h51JlKAj6pC0PYr4E5BzHDOMvkoKgzfRxVEQD7o4SB0
+    factor: 1.33
+    portrait: 0
+    mInfo: CXFIsCpwv9GSmjO
+  - id: ijeBBhE
+    name: k0N0gQDXpYFwjyNDkKZ2UJYgwk
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ijeBBhE.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYoQZNPgZNiE72zko405uOmx3kNln0UMgRDA38B3CDqVoBKKAoS7zoNO5Y8Niq6YkqKgLDC7DRpBwR8LhWvAgVrr0NtvW18jg006Fp6Y1BpvlZT6J3WQwZlzI7DzKog2oLTGBQgYLVz7i06kz7PG17umnEjgK7VgiM672qB7xlSGyron21Lz
+    parentId: j9N9BQL6oXS0VKOzy9qPC1p0xq
+    postId: AY7QL5Jqz7h51JlKAj6pC0PYr4E5BzHDOMvkoKgzfRxVEQD7o4SB0
+    factor: 1.33
+    portrait: 1
+    mInfo: ufB9fuM9ZtPoQmY
+message: "五十嵐養鯉場 Ikarashi Yorijo  
+德國鯉、變種鯉、金銀鱗。  
+  
+Ikarashi Koi Farm  
+Doitsu, Kawarimono, Kinginrin."
+---
+
+五十嵐養鯉場 Ikarashi Yorijo  
+德國鯉、變種鯉、金銀鱗。  
+  
+Ikarashi Koi Farm  
+Doitsu, Kawarimono, Kinginrin.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/hg1o454.jpg"><img src="https://i.imgur.com/hg1o454.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/rxnoTmZ.jpg"><img src="https://i.imgur.com/rxnoTmZ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/TNBFDvR.jpg"><img src="https://i.imgur.com/TNBFDvR.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ijeBBhE.jpg"><img src="https://i.imgur.com/ijeBBhE.jpg" height="300" width="225" /></a> 
+ 
