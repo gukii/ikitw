@@ -1,35 +1,35 @@
 ---
 layout: post
 title: "生產魚場：日本阪井" 
-date: 2016-07-30T00:40:58+0000 
+date: 2016-07-30T00:40:13+0000 
 categories: ["Sakai","IKI","華錦"] 
 media:
-  - id: UjBjOlt
-    name: 8D0DgVLWAzhg6KDmPMNDFognBX
+  - id: BQAMIYH
+    name: xrwryg485jCjZPWoX2ZySRmm4A
     description: "生產魚場;日本阪井 Sakai
 生產年份;2015.6
 品種類別;大正 Sanke
 性別公母;未明
 鑑賞等級;AAA
-魚隻編號;160530370
+魚隻編號;160530341
 銷售定價;已售出"   
     height: 720
     width: 480
     type: image/jpeg
-    link: https://i.imgur.com/UjBjOlt.jpg
-    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLW0zWpKK1F7oxWO4Z97HY58V16zpnfXw3mvklzvivAnKgkOjvIoYEDorN6Etq1KN47K8NupXVP65Z70t1EzX37PBrSz8VG1WDPOtOQW29jjyBsvgD4zQqqrF5VGOR5L0PSlqVgNxQ2kujprrnojXMS78765vjO9iOPLYOArY6UA4rJOGMkksPwLqk9LXrTKz39zQoVD
-    parentId: 8D0DgVLWAzhg6KDmPMNDFognBX
-    postId: W9zwEDgOrzs8ywXLm09rFXlnDvqMOYi31RmJD5Z3u9vg3QwJV8T05
+    link: https://i.imgur.com/BQAMIYH.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwK00rFZgG021xlZIOj1KXYqD6CJoY9rmyEAsxr0Gq3jvJUPgmROxNz5umvqBAVLwEIDmLmG9goJcoGPG7LmL5hKMW9pQ6NjugvRqlmm0KFWnrpKN55PuJY79NJ73LujMq3yogOzC93WoP140OsyK4Yl2Y2ySpRWP0BO7wS7oXkq7pR1IOB630L65jSlw81QYE7M
+    parentId: xrwryg485jCjZPWoX2ZySRmm4A
+    postId: AY7QL5Jqz7h51JlKAj6pC0PYr4E5BzH83jXw0jj6F2W09Q0kxwCjG
     factor: 1.50
     portrait: 1
-    mInfo: EkR172QyON2ze2s
+    mInfo: H2GHAgnNRveDdX8
 story: "華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan."  
 message: "生產魚場;日本阪井 Sakai  
 生產年份;2015.6  
 品種類別;大正 Sanke  
 性別公母;未明  
 鑑賞等級;AAA  
-魚隻編號;160530370  
+魚隻編號;160530341  
 銷售定價;已售出"
 ---
 
@@ -38,7 +38,7 @@ message: "生產魚場;日本阪井 Sakai
 品種類別：大正 Sanke  
 性別公母：未明  
 鑑賞等級：AAA  
-魚隻編號：160530370  
+魚隻編號：160530341  
 銷售定價：已售出
  
  
@@ -47,5 +47,5 @@ message: "生產魚場;日本阪井 Sakai
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/UjBjOlt.jpg"><img src="https://i.imgur.com/UjBjOlt.jpg" height="300" width="200" /></a> 
+<a href="https://i.imgur.com/BQAMIYH.jpg"><img src="https://i.imgur.com/BQAMIYH.jpg" height="300" width="200" /></a> 
  
