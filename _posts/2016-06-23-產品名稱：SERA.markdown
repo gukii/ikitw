@@ -1,0 +1,66 @@
+---
+layout: post
+title: "產品名稱：SERA" 
+date: 2016-06-23T03:59:38+0000 
+categories: ["錦鯉"] 
+media:
+  - id: Avg3dU0
+    name: AY7QL5J5yGs516WLvlJKcQq1gx
+    description: ""   
+    height: 367
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Avg3dU0.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4l9VK1659i1lxLqywNWSBYvY0lkx5IgJNVqK44BHvwwPZ9qXDiAD1xMjPp7cvrlzJJGZ1fXDlB1zJYEHLv0oVpp6PCVgEALw22NFRrNWBREMGiw6PnQnjBltkAkE99jjjUgw0NroWGytqjgzQgJwjtDJ6n713qxfzgW02mWRLhjZjD0pxKW
+    parentId: EV7Zg5N49GhjA551RLr6tZoZAn
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXRySBWG58kwN2cr1D6yxw44snR
+    factor: 1.96
+    portrait: 0
+    mInfo: xpiPazhtH9vTXs1
+  - id: 3sRoHdm
+    name: xrNV0DZDQEFjQM6DOzvEfRN86z
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3sRoHdm.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGAAVDFpjwgqR4VqfvOQ0QLkyKHk3OpvnZN1H9rozBo5kOH2xWMvJwglIj1ojVJLmXipJMjpNjQvFPp62zmG7pHwRq9NYyR1TVxrXrRonJU5OMjyDDnWhK80gMBXXzF36LB73L79SW693pm6ONfGBJQ3j8ZZFjY7YvG7yBuxZXGnJ5wlUkXEk3xAA2U93ARvVAlLHzRg58gNA2
+    parentId: EV7Zg5N49GhjA551RLr6tZoZAn
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXRySBWG58kwN2cr1D6yxw44snR
+    factor: 1.00
+    portrait: 0
+    mInfo: TDBHDT8kOwoioca
+  - id: HuNRVdZ
+    name: 5zElv5q5jph1WvVN40pNTx3Qp0
+    description: ""   
+    height: 720
+    width: 570
+    type: image/jpeg
+    link: https://i.imgur.com/HuNRVdZ.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8N04n3RBBSPW0nyQv61TvV2VWODPNumOvDRg447upVAqonnp5sj9pNrxmVxCDPzoQ7KD1HP555QxZpmTymq9E88zlf5KZA8E44qsVmAOJVBw3cNLK4VRZ9Xh2k0ZXYVBvFB0QxkR6AAIXBVmQYJQvhAx4PXX1Wju1Z4MWE4QlU9N8X330Nw
+    parentId: EV7Zg5N49GhjA551RLr6tZoZAn
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXRySBWG58kwN2cr1D6yxw44snR
+    factor: 1.26
+    portrait: 1
+    mInfo: UbsH7rFUG47Yy3l
+message: "產品名稱;SERA 水質檢測滴劑組-錦鯉專用  
+廠商產地;SERA 德國  
+產品規格;PH, GH, KH, NH4/NH3, NO2. NO3, PO4, Fe, Cu.  
+銷售定價;NTD3,500- (含運費，稅額)"
+---
+
+產品名稱：SERA 水質檢測滴劑組-錦鯉專用  
+廠商產地：SERA 德國  
+產品規格：PH, GH, KH, NH4/NH3, NO2. NO3, PO4, Fe, Cu.  
+銷售定價：NTD3,500- (含運費，稅額)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Avg3dU0.jpg"><img src="https://i.imgur.com/Avg3dU0.jpg" height="152" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/3sRoHdm.jpg"><img src="https://i.imgur.com/3sRoHdm.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/HuNRVdZ.jpg"><img src="https://i.imgur.com/HuNRVdZ.jpg" height="300" width="237" /></a> 
+ 
