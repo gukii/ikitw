@@ -1,46 +1,46 @@
 ---
 layout: post
 title: "生產魚場：日本阪井" 
-date: 2016-06-23T03:05:50+0000 
+date: 2016-06-23T03:01:34+0000 
 categories: ["Sakai"] 
 media:
-  - id: dKGmPwW
-    name: Q8qNxw3w9zuLxoMoYKyDHrVLW5
+  - id: tCN8H4z
+    name: pj6RD0O0y5fZvBDDW70ZfJ6ZWV
     description: "生產魚場;日本阪井 Sakai
 生產年份;2015.6
 品種類別;紅白Kohaku
-公母尺寸;未明 / 17cm
+公母尺寸;未明 / 30cm
 鑑賞等級;AAA
-魚隻編號;160530244
-銷售定價;已售出"   
+魚隻編號;160530026
+銷售定價;已售"   
     height: 720
     width: 480
     type: image/jpeg
-    link: https://i.imgur.com/dKGmPwW.jpg
-    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyooDuy3RLZKW1ytWXD9Op4g5IGK3jMYyK4CqWPn35B7rHX116DjKMqHAZqkm0mr1IVwwko83YQI5k3Px8GgZh10mwAgz32c0Vj4w33mqCvJGKr977RFEVAxkE36RFw4pjqPkxwup4mQEg3DxUYEAAEWV20trVP49Zm1VhJg0KoY3o3Cr1XNV4XRKIK8RABVvxo
-    parentId: Q8qNxw3w9zuLxoMoYKyDHrVLW5
-    postId: l9VvynKQlVslzqPwNLnRs7QqoW3mqjCkQvggDZ3JFv3Xlzv8RAfxl
+    link: https://i.imgur.com/tCN8H4z.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkrrzURwGkAnOERfw5j9n8Em3snmq59NJXgukOBApjJL4TGlpY8ZvE6SgRLW42k2juoQ3oAgQK0FMrOWlP5y5IK7zpxPrvkhkxo7zqqZVtEpl7Xm22McZWOG4ZRoqFMGGpZq5nQFmNxRZym7jHxBERxBRx5hQk4yZgo57UEpjAYEEMQT4EAGxDAZmIjrmkDYP1g
+    parentId: pj6RD0O0y5fZvBDDW70ZfJ6ZWV
+    postId: og9vBqNRo9UmKpPV3kq2SvM6Y8Qj62SDmM119MwyFNy0268wPOfZG
     factor: 1.50
     portrait: 1
-    mInfo: ORL3qNv2VZH7Rlo
+    mInfo: h7QXXUqDR2IBZhv
 message: "生產魚場;日本阪井 Sakai  
 生產年份;2015.6  
 品種類別;紅白Kohaku  
-公母尺寸;未明 / 17cm  
+公母尺寸;未明 / 30cm  
 鑑賞等級;AAA  
-魚隻編號;160530244  
-銷售定價;已售出"
+魚隻編號;160530026  
+銷售定價;已售"
 ---
 
 生產魚場：日本阪井 Sakai  
 生產年份：2015.6  
 品種類別：紅白Kohaku  
-公母尺寸：未明 / 17cm  
+公母尺寸：未明 / 30cm  
 鑑賞等級：AAA  
-魚隻編號：160530244  
-銷售定價：已售出
+魚隻編號：160530026  
+銷售定價：已售
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/dKGmPwW.jpg"><img src="https://i.imgur.com/dKGmPwW.jpg" height="300" width="200" /></a> 
+<a href="https://i.imgur.com/tCN8H4z.jpg"><img src="https://i.imgur.com/tCN8H4z.jpg" height="300" width="200" /></a> 
  
