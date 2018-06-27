@@ -4,19 +4,6 @@ title: "作為寵物：  不會"
 date: 2016-07-04T02:09:33+0000 
 categories: [] 
 media:
-  - id: sdAG6aD
-    name: MVxA3jOnZNCYo444DzgPCQ4K7n
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/sdAG6aD.jpg
-    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK3P9hpjwYLk388H2Vr6NjDD1ik0kmG9vYKtZlZ2gx52qiLXAzvoEM2cQq5rpk6rWFpMwYwrVLXS5qqXQm930UnykLxOkOnt76lxkKkqPUm7l6DqY71CXnov1L1q4F3Ew1ApNXWHW69PZJqmDUP6jR9EJnmsJgzNnAzOkFxYJJDjgnqUjmgYEExB0sNlRxgG
-    parentId: MVxA3jOnZNCYo444DzgPCQ4K7n
-    postId: W9zwEDgOrzs8ywXLm09rFXlnDvqMO3h3kxxBGOMXH9wG0PqAo6SM6
-    factor: 1.78
-    portrait: 0
-    mInfo: 0qomG0tk3efFIuW
 message: "作為寵物;  
 不會掉毛、不必洗澡、不吵鬧、忘記餵食2個星期也沒問題，記得主人的腳步聲，記得主人起床回家的時間，壽命長達70年(好好照顧的話），每一隻花紋都不相同，依照個人喜歡搭配顏色跟風格。  
   
@@ -33,6 +20,4 @@ Ps. 影片播放時，輕觸螢幕，右下角會有一個"HD"選項，點上後
 Ps. 影片播放時，輕觸螢幕，右下角會有一個"HD"選項，點上後畫質會比較好哦^_^
 
 
-[//]: #media:  
-<a href="https://i.imgur.com/sdAG6aD.jpg"><img src="https://i.imgur.com/sdAG6aD.jpg" height="168" width="300" /></a> 
  
