@@ -1,0 +1,150 @@
+---
+layout: post
+title: "丸重養鯉場 Mar" 
+date: 2016-07-16T06:16:19+0000 
+categories: ["Marujyu","丸重","Koi "] 
+media:
+  - id: QVjIivL
+    name: zwyw41Z806uzM5YX6g1ZCo2K3g
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/QVjIivL.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP28V44q6KfmMynDvzBLfBXDK4EDyEFoJ2PRlQDLtg8XWAE03VSkjZ9lzvDZur7Zl5mY9QIo6n5grGPPu2B680OODASlnrAzLRREUo73rYom8PHNZ2kYmKXXc2rP5WKN49iKAzmjAXp0SDGGZELx8RIAr3Nwz6W5CNWmo7Amj5s3NNmBnv66
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.33
+    portrait: 1
+    mInfo: qXUgpZSauHU3z5Z
+  - id: iRzQsyB
+    name: ogkgnMLBEZHmrOVOvVw1hOM0Dk
+    description: ""   
+    height: 385
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/iRzQsyB.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDl4XLPrLxfo2QLZWrE2f13DproD4rcL88jN3v73hloyZlRgOwSP7y282ERNhN3ByAOOJ1ukw3lv5ErLsOKmg8ppRVsR2W8pOooVuklP5NkPNpf3kpzO6B5Dcy64nMk1GxT8gMnWOgn6sKM7jYpr15u9411wprlrIJ0DWQoDEzcnpBWDGGAB
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.87
+    portrait: 0
+    mInfo: pr68yaQrdhIKCCZ
+  - id: lJlH22p
+    name: m9g90KJzBqcqjg7NmA9QCQx98G
+    description: ""   
+    height: 720
+    width: 492
+    type: image/jpeg
+    link: https://i.imgur.com/lJlH22p.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvg1MDGwpRuxGLVmK9MZt2ByPVnJRguzLqZj3EyBsDV7O6KJKxCmgnqKLgKvIkPq3q5KpgSJ136m19QKhpNPyA55g0fXqQ58099vSY2nV4Yn5qfrAZN5y1NNIM7zY4KDDAIyzDzYLYE1SAMLxJEVwJcQ41LNLQo6hO1pDrRp9VSr7R8Y93MV
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.46
+    portrait: 1
+    mInfo: Om6aXmmjlBIkW53
+  - id: 20nErO8
+    name: qkmkpONEJQsv8E30r2MKhN2XMY
+    description: ""   
+    height: 460
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/20nErO8.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZX9DQVw5XUngoVPkGJ6fYOok2XQ3PfM1r0PygBKfQ3oPLpB76FLEq3Ap6jocYlGGoAo3BCXYmRpPkQJsj0XNkPPAzfD7mJL0nnXCzPZV7zkyjcWKozQ1qkYi9XONgX7PlTZWj2pmG2pUW486OrNvntq0Dgj9qvXSwjvgZWvYJs3ZEG1wLqz
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.57
+    portrait: 0
+    mInfo: T00bYqOuhkHsHVm
+  - id: ePa9AI2
+    name: N6y6KV4rPOHpM5PzErlYHrPR2x
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ePa9AI2.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgt8DvNz099QFomO9pKk0QUpW2Q3jVKAc9J3gW6EW3cQo7LKvWWPSNxjZoXBEzIk0BZA5Dx0UYvK95Z0lzs4Pr9BKKV1S7gxm2q55JT75pBN7pGrFAXoGYRQoLHQ8JvGxvr6CKp9l65EJxc9EOo5oPz0I0XpYrLzjYSYq30Gm3E6C2v3Yqn1vo
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.33
+    portrait: 0
+    mInfo: qA50u9u8beHtpj7
+  - id: gvvRbp7
+    name: g9N9DAzqvpcJY5wR9mY1tE45LW
+    description: ""   
+    height: 720
+    width: 570
+    type: image/jpeg
+    link: https://i.imgur.com/gvvRbp7.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWNy9Qp8oNcM5o32xyx3i80KDoLzqNiXMMEQvNn6IRBk0rn3zNcyZM9X77X0CZqVNzByABFQ4JPDL2WmIkozBX007QtnlN2Lorr5hnw2V7nvZ6UVr6gKok0JsY9VDM2O43sWDg39ENg0u8QPWnzLl7Igx24571yztZ6xDolxgGuP72rD5xGZ
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.26
+    portrait: 1
+    mInfo: sbMqcGz6KX2PteK
+  - id: iitWNgX
+    name: n9j9mLKADRcV6yyoz821tmj2Rv
+    description: ""   
+    height: 720
+    width: 550
+    type: image/jpeg
+    link: https://i.imgur.com/iitWNgX.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlAQY83YWH13k4y1pmVH4Yj8wP2OwUlnnADq2nrtRooMyROwwS4WrALzYR6CnDB8kVj37F7wE5xpkLxsRqV3xEEL2fO0r2pN66MhXyvWJXMZLcLE5rG58qjcOZmvrRKjwcLKEoq2yMYCrzpQOL1BviPg2njjLnyhxgML8WMZ0FA7ArJmqOv
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.31
+    portrait: 1
+    mInfo: mL8AG98BGrxZd6U
+  - id: fgnubTk
+    name: MVxVKR4q0ZiY6oNpZMNZCQYWxq
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/fgnubTk.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86Ijyzqy0wP7FRyGXQjgAPF78VPBBz4zsP504ww5M7UlRQ8q29gEuVng1jxwjpHLlZxjvnxzCnGgXKrJ0OsRlwwAM4L6Fp1N4XBlWQHD4r2RXXEqfqzN4Oo33WFRympWRmOgt6pv05D532cKkGqQlDXBUB3Okr6zM8u5EQNGq0yrs7ynEWDg5ZigM5NjJ5rpt5ElNlOAYZ
+    parentId: wqvqyXWNP0cnA6knBJQ0T13VYn
+    postId: LVlYpoX6OlU2YMwDnLjBs0JmlM7X1EHg7MOKjrKoF4Z8GnznlZs9B
+    factor: 1.33
+    portrait: 0
+    mInfo: Ci4hvU1GhDM61KE
+message: "丸重養鯉場 Marujyu Koi Farm  
+田中重嘉 Shigeyoshi Tanaka  
+田中先生是第三代養殖業者，繁殖有御三家、銀鱗、藍衣、丹頂等品種。  
+  
+Marujyu Koi Farm  
+Gosanke, Kinginrin, Goromo, Tancho."
+---
+
+丸重養鯉場 Marujyu Koi Farm  
+田中重嘉 Shigeyoshi Tanaka  
+田中先生是第三代養殖業者，繁殖有御三家、銀鱗、藍衣、丹頂等品種。  
+  
+Marujyu Koi Farm  
+Gosanke, Kinginrin, Goromo, Tancho.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/QVjIivL.jpg"><img src="https://i.imgur.com/QVjIivL.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/iRzQsyB.jpg"><img src="https://i.imgur.com/iRzQsyB.jpg" height="160" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/lJlH22p.jpg"><img src="https://i.imgur.com/lJlH22p.jpg" height="300" width="205" /></a> 
+  
+
+<a href="https://i.imgur.com/20nErO8.jpg"><img src="https://i.imgur.com/20nErO8.jpg" height="191" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ePa9AI2.jpg"><img src="https://i.imgur.com/ePa9AI2.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/gvvRbp7.jpg"><img src="https://i.imgur.com/gvvRbp7.jpg" height="300" width="237" /></a> 
+  
+
+<a href="https://i.imgur.com/iitWNgX.jpg"><img src="https://i.imgur.com/iitWNgX.jpg" height="300" width="229" /></a> 
+  
+
+<a href="https://i.imgur.com/fgnubTk.jpg"><img src="https://i.imgur.com/fgnubTk.jpg" height="225" width="300" /></a> 
+ 
