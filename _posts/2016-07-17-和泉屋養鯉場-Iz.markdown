@@ -1,0 +1,78 @@
+---
+layout: post
+title: "和泉屋養鯉場 Iz" 
+date: 2016-07-17T05:14:38+0000 
+categories: ["Koi "] 
+media:
+  - id: b8iN68U
+    name: KVvV7PPY0Zf1nvY0K23oTpNLV9
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/b8iN68U.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNEPNwQ1nu4EMy67QpLF1D4vxrJJVSw9J439vrJCvmkYjVEzEFgkgn4rw4qF677xyBxAXiWmozBA8QPfz3KzLKNrACo0LE9Y2lBFxLKo2669JHmwZBMGooJs3r91B3m78iVqlPzlVykIJ26WnvMKPiMl3zJ1OkKTl1q0xqZRpI9B5wMJDO2UwR5QVj5OWsNYy1z4NYJ
+    parentId: 0rPro552Q3HzEB3kqoZOfOVVLB
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0xmfE5LR7VoNEUYKP2Q20PQF0G
+    factor: 1.33
+    portrait: 0
+    mInfo: xUnscgRze2mEGyM
+  - id: Oo0NgWr
+    name: J9r9KOOYJqinY8oXoZGpIvWA5j
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Oo0NgWr.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGqNRJhvVJKz9mBYHJlAQYrEK1tKkvpk8PXYiEKno98AJqhgVgPw8OwytRoGg6gGvVu4WW6pAZ01inLAMPr08mF7ZRWOzY2AFRqV3xEEL2fO0r2pN66MhXyvWJXMZZHL7An6N940f02jVzY2ngfw42L09Lj1tW0B32oX4XsPOrRKL739FxgML8WMZ0FAXwJ1vOMQ
+    parentId: 0rPro552Q3HzEB3kqoZOfOVVLB
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0xmfE5LR7VoNEUYKP2Q20PQF0G
+    factor: 1.33
+    portrait: 0
+    mInfo: mvb8D9onci4xQ53
+  - id: oYONb5Y
+    name: X929Xgg71oi9YXp6KvGvumWpGJ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/oYONb5Y.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrgAr5kyluE398yPNKrCVo8vG0PkkFRQqXR452XTq3YZ0XPDpSwxwN2QX2zfzMG8yYEZgfZpoGRBgZKFNwMLL3AmRCPAolk5E7MsO3jryg2Q6fj1MYKLjQwu2g0mE5Q0xs38kMWrz3Pi9YLq3M9ggsAgkDR78MOT8lEN9pKonU9QE7BEJwwTDK4rM5Av1S3kRJy45Z
+    parentId: 0rPro552Q3HzEB3kqoZOfOVVLB
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0xmfE5LR7VoNEUYKP2Q20PQF0G
+    factor: 1.33
+    portrait: 0
+    mInfo: 5ch9Tw7xksIUMDP
+  - id: tH1AMOa
+    name: vprpxWWYNoHl67YKp5EjSorJnm
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/tH1AMOa.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWNy9xODx2fMQLLOkyMmfBn71YDrkMhy0yz57q55FRBEJ8wGJjtyWwALX6WyFZV4jlY3BzTQvLWm0yVxskozBX007QtnlN2Lorr5hnw2V7nJxzCrYM86xOw7cYDRW9q8ZqfWr8Q5NNxKIByAllVnLMtEnz3LnvNgCZ6xDolxgGuPwy2pPNx7
+    parentId: 0rPro552Q3HzEB3kqoZOfOVVLB
+    postId: pj6RD0Owp6fZxEO035M4sE6GNXL0xmfE5LR7VoNEUYKP2Q20PQF0G
+    factor: 1.33
+    portrait: 1
+    mInfo: vvqw0sSHJXgzxNW
+message: "和泉屋養鯉場 Izumiya Koi Farm  
+御三家、黃金 Gosanke, Yamabuki Ogon."
+---
+
+和泉屋養鯉場 Izumiya Koi Farm  
+御三家、黃金 Gosanke, Yamabuki Ogon.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/b8iN68U.jpg"><img src="https://i.imgur.com/b8iN68U.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Oo0NgWr.jpg"><img src="https://i.imgur.com/Oo0NgWr.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/oYONb5Y.jpg"><img src="https://i.imgur.com/oYONb5Y.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/tH1AMOa.jpg"><img src="https://i.imgur.com/tH1AMOa.jpg" height="300" width="225" /></a> 
+ 
