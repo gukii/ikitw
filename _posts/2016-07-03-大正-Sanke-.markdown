@@ -1,0 +1,101 @@
+---
+layout: post
+title: "大正 Sanke " 
+date: 2016-07-03T13:43:59+0000 
+categories: ["IKI","華錦"] 
+media:
+  - id: Mk6r5A9
+    name: 4yP3M8pmJqU8OZBoDYmqhVQAx0
+    description: ""   
+    height: 709
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Mk6r5A9.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAj4pQ3GnIxVxVO6XXKimWY3BwYmKcqRkkREyOnfj11pYROPKu4o3Q110rgTWNPRR3GENI7w7GWrnZkhMZ2kGRROwf89DXJ100pS6RVXo6YM0fQNz1loxQpcm5AZRY5KOCnJNEvWQDkUWPAmZpnvofpjx4lWMlES5ZBj8qB2Gc8Y8jE1lRK
+    parentId: yvxyL81lnDc4M720MNM5iNlBj9
+    postId: 5zElv5qnkEU1WYpPLAjktqL25nZB4XCjq5O2NwOQIOgDPAq660SZr
+    factor: 1.02
+    portrait: 0
+    mInfo: 6fp3gELZCo1zvIE
+  - id: LF0vI16
+    name: zwyzMm2PoETrZYLgRnPgHo2qgZ
+    description: ""   
+    height: 720
+    width: 719
+    type: image/jpeg
+    link: https://i.imgur.com/LF0vI16.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP28VQg4NnTmMjGLPMKvi7rGWo4GQkhvWLLWQk2VCg86AzpROLskGJxXr50wH9Y1ol1vBxIowww6MVYxh2B680OODASlnrAzLRREUo73rYoL0xc8qDpEwRWAHZ8Xk1OW93h9yrQJV8JPiomyDVO7rnfAWVkLlyj7uNWmo7Amj5s3WOpxrG0n
+    parentId: yvxyL81lnDc4M720MNM5iNlBj9
+    postId: 5zElv5qnkEU1WYpPLAjktqL25nZB4XCjq5O2NwOQIOgDPAq660SZr
+    factor: 1.00
+    portrait: 1
+    mInfo: xq9fvgrVHPG2Iia
+  - id: tuvRKr3
+    name: EVmp3lNOB2sq2jL42xq6SZXyQ1
+    description: ""   
+    height: 720
+    width: 718
+    type: image/jpeg
+    link: https://i.imgur.com/tuvRKr3.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2Sl3g2Eo7K3tRmXkOQGZyS4r16kn1DBF6JNNl2rxYukmOvKm2wDIzqQXmJJmztXWgqVBNr6iwxkNxVRq8Tn2EDN33ORfXBgEovllwS5XRwo5Z8NcRvgyM26VLF0qGNMpEO4HB2pjkrqNkswRz2Kx178CrQ3mRZmELUVNr9p6rqZTx9nAL0GPv
+    parentId: yvxyL81lnDc4M720MNM5iNlBj9
+    postId: 5zElv5qnkEU1WYpPLAjktqL25nZB4XCjq5O2NwOQIOgDPAq660SZr
+    factor: 1.00
+    portrait: 1
+    mInfo: cyc7S3V9hwAThIw
+  - id: acC7dQI
+    name: W9X03ngORlt4KrZ1m1lximMOVZ
+    description: ""   
+    height: 712
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/acC7dQI.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtG6xwJOL7KuvrpQJBlREcV6JZ8zJrQhO844P9kOpHQllXGYZrvFZMQyvZBDJfx6vq4jwpMt541ZjmXO3FKxBAy00XQFVBYQAvDD0F50j8q56jMcZgV4jYY8nFR2X2n3Vljc4BJvOw0L4iVk2y92gY7FzQBOV5lQqs4klEq9ljnI1PoVKqrXw
+    parentId: yvxyL81lnDc4M720MNM5iNlBj9
+    postId: 5zElv5qnkEU1WYpPLAjktqL25nZB4XCjq5O2NwOQIOgDPAq660SZr
+    factor: 1.01
+    portrait: 0
+    mInfo: h9J83mhOGep8rsm
+story: "華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan."  
+message: "大正 Sanke  
+墨是塊狀，一般不會包覆超過魚的身體側線。手鰭的黑色是線條狀。一般頭部跟嘴巴沒有墨。  
+  
+昭和 Showa  
+墨是片狀，連續，包覆超過側線。  
+手鰭的墨比較集中靠近身體。  
+頭部口部都有墨。  
+  
+昭和跟大正，主要是墨的風格不同。  
+昭和是潑墨畫，豪放、華麗。  
+大正是工筆畫，清秀、雅緻。"
+---
+
+大正 Sanke  
+墨是塊狀，一般不會包覆超過魚的身體側線。手鰭的黑色是線條狀。一般頭部跟嘴巴沒有墨。  
+  
+昭和 Showa  
+墨是片狀，連續，包覆超過側線。  
+手鰭的墨比較集中靠近身體。  
+頭部口部都有墨。  
+  
+昭和跟大正，主要是墨的風格不同。  
+昭和是潑墨畫，豪放、華麗。  
+大正是工筆畫，清秀、雅緻。
+ 
+ 
+[//]: #story:
+華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Mk6r5A9.jpg"><img src="https://i.imgur.com/Mk6r5A9.jpg" height="295" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/LF0vI16.jpg"><img src="https://i.imgur.com/LF0vI16.jpg" height="300" width="299" /></a> 
+  
+
+<a href="https://i.imgur.com/tuvRKr3.jpg"><img src="https://i.imgur.com/tuvRKr3.jpg" height="300" width="299" /></a> 
+  
+
+<a href="https://i.imgur.com/acC7dQI.jpg"><img src="https://i.imgur.com/acC7dQI.jpg" height="296" width="300" /></a> 
+ 
