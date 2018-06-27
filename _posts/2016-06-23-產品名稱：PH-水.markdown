@@ -1,0 +1,52 @@
+---
+layout: post
+title: "產品名稱：PH 水" 
+date: 2016-06-23T03:53:36+0000 
+categories: [] 
+media:
+  - id: 8ZfBRzE
+    name: 6A7mw5r5kwsWpJEG784GCxNRVw
+    description: ""   
+    height: 720
+    width: 630
+    type: image/jpeg
+    link: https://i.imgur.com/8ZfBRzE.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xkkY5hRG8PlpZvptZ89Y9yg52S40y1kXLw2U121x9yjyRiBYXn1ZDZOtgWzgrZDyAhkgjp7vL91cG5BVmDVx0Ivx3ypyrmZfLEXKBZNLEtLKmyL65QosVQQqwj7mzURlZQPP4w9iqM7VlzM9YskVzYZJ1OrSApqJpv7nmH1o0698nwNFpgLnGz2r5I1PoElBOEyujZoWgpyOESAv
+    parentId: yvO64E1ERBU3rxz9wqL8uNrN82
+    postId: 8D7oy5w8n7igw8P5p9vNtLxMNAvYMEfY97BkLJ2Ycj6ON7KN3AS7o
+    factor: 1.14
+    portrait: 1
+    mInfo: 3ilr4OAR2Z4Adjp
+  - id: 1jQ3kER
+    name: g9VxqgBgvquJA7OD98LEUEBm2B
+    description: ""   
+    height: 720
+    width: 550
+    type: image/jpeg
+    link: https://i.imgur.com/1jQ3kER.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6pp9ohzWKGEnZ8nUXn2j2MRvyI7z1oN6Jr4FXrONp2nXRiQ5Z219D0zTq8VQ19Kvws0w5ZMGlvRIA91JjQ3Yxtwxp70x4QXTY2G0O4L6QFzvV8zqw9YT0VVWEM4xpuAL2NDD7gKfzA5rRy6JVIplrO9yjRYiNLozL2W82iP3E03Yo5NIlM5xGD7yRF0EVV0O4r7S8V3X6JQoBUml
+    parentId: yvO64E1ERBU3rxz9wqL8uNrN82
+    postId: 8D7oy5w8n7igw8P5p9vNtLxMNAvYMEfY97BkLJ2Ycj6ON7KN3AS7o
+    factor: 1.31
+    portrait: 1
+    mInfo: 4Yh6MHYr3fctWKT
+message: "產品名稱;PH 水質檢測筆  
+廠商產地;TRANS 新加坡  
+產品規格;170mm*32mm*15mm  
+保固服務;1年保固  
+銷售定價;NTD2,800- (含運費，稅額)"
+---
+
+產品名稱：PH 水質檢測筆  
+廠商產地：TRANS 新加坡  
+產品規格：170mm*32mm*15mm  
+保固服務：1年保固  
+銷售定價：NTD2,800- (含運費，稅額)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/8ZfBRzE.jpg"><img src="https://i.imgur.com/8ZfBRzE.jpg" height="300" width="262" /></a> 
+  
+
+<a href="https://i.imgur.com/1jQ3kER.jpg"><img src="https://i.imgur.com/1jQ3kER.jpg" height="300" width="229" /></a> 
+ 
