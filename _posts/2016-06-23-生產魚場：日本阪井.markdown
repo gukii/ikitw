@@ -1,0 +1,46 @@
+---
+layout: post
+title: "生產魚場：日本阪井" 
+date: 2016-06-23T02:59:00+0000 
+categories: ["Sakai"] 
+media:
+  - id: GjseF8n
+    name: xrNV0DZDKEcjOx1VQvqZfRNK9N
+    description: "生產魚場;日本阪井 Sakai
+生產年份;2015.6
+品種類別;紅白Kohaku
+公母尺寸;未明 / 29cm
+鑑賞等級;AAA
+魚隻編號;160530014
+銷售定價;已售出"   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/GjseF8n.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgNY9NnPP0c23mkE1gA2cBJmn2Z1rgIZR6v9E1Gmt2rKXNLMAvIkPmBDlPBQsmBv6QNP9JT798p6g61zIJWJvkYp0gcDkrRQKGq5CQZ2Xo88GwhPEJ41kXXmUWX4RBW4V4I3oyZwoLEjt7DRXW7EKwfowyKRgEZ3UylvKK4J6GsGLrpJPvrwfovVjEYV1ktoYrQQZOOx
+    parentId: xrNV0DZDKEcjOx1VQvqZfRNK9N
+    postId: 3x0jq5oRg0ivRY9gzZADsR6D07BrDOiL2wzzWPNKFxGwjV90yrTjn
+    factor: 1.50
+    portrait: 1
+    mInfo: ZxEfhMpWelCutFF
+message: "生產魚場;日本阪井 Sakai  
+生產年份;2015.6  
+品種類別;紅白Kohaku  
+公母尺寸;未明 / 29cm  
+鑑賞等級;AAA  
+魚隻編號;160530014  
+銷售定價;已售出"
+---
+
+生產魚場：日本阪井 Sakai  
+生產年份：2015.6  
+品種類別：紅白Kohaku  
+公母尺寸：未明 / 29cm  
+鑑賞等級：AAA  
+魚隻編號：160530014  
+銷售定價：已售出
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/GjseF8n.jpg"><img src="https://i.imgur.com/GjseF8n.jpg" height="300" width="200" /></a> 
+ 
