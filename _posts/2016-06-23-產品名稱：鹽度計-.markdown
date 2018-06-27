@@ -1,0 +1,52 @@
+---
+layout: post
+title: "產品名稱：鹽度計 " 
+date: 2016-06-23T03:55:15+0000 
+categories: [] 
+media:
+  - id: AHXRwq7
+    name: 9E7pz5x5noFjYVKZYw3ltPwP4k
+    description: ""   
+    height: 720
+    width: 632
+    type: image/jpeg
+    link: https://i.imgur.com/AHXRwq7.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrAAP6IXR5WzEgKEtEoBxBzX1gIVwAmE9znZiPqpVXoWLmhqQ9pZMGQGUwglzQ7z3WIQXgJ2onnjs3LkyDrX8kFYlEGrK7Lqf2q1NlGqzmcO0jxOJ36XIj11A7QXqEhAQx1RRrJJfn4Y215q1pUmw2wG5DAPfxzr63Zxk9cDlvpADk5RH9k9Pz1kwPHBXXkzG314iMAjVLMBmQIzL
+    parentId: qkXVEvPvJqIv4jLNMgmOhN1NMl
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj90HNkEl5wMEoSLOXgQKg7XCW5
+    factor: 1.14
+    portrait: 1
+    mInfo: 7jPj2lXbi1CBrA0
+  - id: XiIz6xu
+    name: j9VvwlGlyjC0y1JKzGyWF1Ox7j
+    description: ""   
+    height: 720
+    width: 633
+    type: image/jpeg
+    link: https://i.imgur.com/XiIz6xu.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxWWPqhkOl5D93Z9IMy3r3OEJ7F3D6mQA4ovsLJ8lvR3JmTw26Z4mk2kux2rN95OPWUEB0A7ynY1S0J1428r8RCRonnKRnQKCk5wkgQq46IBrVpB748vI166o02pQWH0q8XnnV5WH3mNnAnZYPtkAr0zGpjGu91gkor0YRfPO7Rx6gyAcRKXYgQo9kirGXXr9xNOinGXOoZPoBuj2
+    parentId: qkXVEvPvJqIv4jLNMgmOhN1NMl
+    postId: k0VwxmJQkVCvq3XyzgW2sZx9B7Pj90HNkEl5wMEoSLOXgQKg7XCW5
+    factor: 1.14
+    portrait: 1
+    mInfo: VZ3VHhN7vRZMTu4
+message: "產品名稱;鹽度計 水質檢測筆  
+廠商產地;TRANS 新加坡  
+產品規格;170mm*32mm*15mm  
+保固服務;1年保固  
+銷售定價;NTD3,500- (含運費，稅額)"
+---
+
+產品名稱：鹽度計 水質檢測筆  
+廠商產地：TRANS 新加坡  
+產品規格：170mm*32mm*15mm  
+保固服務：1年保固  
+銷售定價：NTD3,500- (含運費，稅額)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/AHXRwq7.jpg"><img src="https://i.imgur.com/AHXRwq7.jpg" height="300" width="263" /></a> 
+  
+
+<a href="https://i.imgur.com/XiIz6xu.jpg"><img src="https://i.imgur.com/XiIz6xu.jpg" height="300" width="263" /></a> 
+ 
