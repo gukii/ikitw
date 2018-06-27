@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Koi Koi K" 
+date: 2016-07-17T05:21:44+0000 
+categories: ["華錦","Koi "] 
+media:
+  - id: vI1SYnD
+    name: KVvV7PPY0Oc1X6O76kklFpVNA4
+    description: ""   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/vI1SYnD.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmE1NnTNJq2z97yySNp24nQKKxSW8WAv76vgsMK40v0xwXU8kXO6xlQ6fXKnmXEpPGtVjKQDVyZvuyplM01LVjuZn74jpNo9IXZx79QyJjURGoP2yR1zTrZ4j75DPAU8wqpgDWzPuAqgrAV0KGT3187ZGBGnHn9kKOOqkVSp2r5pGz9mTo7znqO06wflv5A0KEY
+    parentId: KVvV7PPY0Oc1X6O76kklFpVNA4
+    postId: 9E7pz5x6o7SjYVNWE834iDnO5YgJGjU6RYAGngQgiQom1K11rQUPV
+    factor: 1.78
+    portrait: 1
+    mInfo: OnLfDzWXJkZBIda
+story: "華錦顧問股份有限公司 is feeling blissful."  
+message: "Koi Koi Koi xxx"
+---
+
+Koi Koi Koi xxx
+ 
+ 
+[//]: #story:
+華錦顧問股份有限公司 is feeling blissful.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/vI1SYnD.jpg"><img src="https://i.imgur.com/vI1SYnD.jpg" height="300" width="168" /></a> 
+ 
