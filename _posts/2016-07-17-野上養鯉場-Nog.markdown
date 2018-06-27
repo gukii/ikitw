@@ -1,0 +1,100 @@
+---
+layout: post
+title: "野上養鯉場 Nog" 
+date: 2016-07-17T02:21:56+0000 
+categories: ["大日","Koi ","錦鯉"] 
+media:
+  - id: nPwvSlr
+    name: EVmVXJY2W1SjY8GzDxMBtZ0ERZ
+    description: ""   
+    height: 531
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/nPwvSlr.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FkKEgLOJJGC9OV6O4842f2gQBOJ32lcjypwmGQmLSkXX2mMrJ3fPpO8xmZvycwyw4j0DX0S7yADlrOE9s5OMjyDDnWhK80gMBXXzF36LB73L7vHWOPLrkE27FGVP3xnkpxiJ4PkLBxpVfxyoBZOv2pSj9nBZl6v1H93ARvVAlLHzXQYRR9Jx
+    parentId: Q8B8KYo22WiL3VVYRYyztrKxyg
+    postId: MVmEqpYDPmUY6Vky4jOBf0XWEM62OgHVnJr4jqMVFX7OBJXK1VIQ1
+    factor: 1.36
+    portrait: 0
+    mInfo: 9lHsSt2Gtxt2OD4
+  - id: xoMwp7G
+    name: qkmkpOgrL6ivVg426W2lUNgPZD
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/xoMwp7G.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81ArZXtxAgz2q3jrul5XPyW432fv9Wn3kZ8rIvG3BWZqABSKW2mJyLKpSzZpWQzXzNF5Vo2MmP7LH3lEEzVW4NI3x3kw1qrVupKmNPDDOYfXjlm6N11gS7GxX47PNJUDp43jYVnrHxykNnp5xQCkMW74PrGNfZg6J3VJYBfwK32YV7lpfozw6mMwW8tLKNJOzzjN
+    parentId: Q8B8KYo22WiL3VVYRYyztrKxyg
+    postId: MVmEqpYDPmUY6Vky4jOBf0XWEM62OgHVnJr4jqMVFX7OBJXK1VIQ1
+    factor: 1.33
+    portrait: 0
+    mInfo: 9HGzOO1OFdWiaLF
+  - id: gwr7zAT
+    name: 8D0DzpGxKWHgEDkmYQQNfolknv
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/gwr7zAT.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0rG0KM7pfYwn2DZLo8f1Jqj53Z7xC4lGB3JL1BTBGKM5L1k3S5qnXYxL5BH8wzEqA9vRu2xv5lOw34hpgnOnKgn3fqJkyxXOlrFrOG6xNNnjHx7YwNGVVOuYRNM7Yx6EhvAELjjRWVs892ygApA8s45g7QroMNfjPw8pW82ZSz1n8j22OpUMvOPKyOYqSNkPMZGp4B
+    parentId: Q8B8KYo22WiL3VVYRYyztrKxyg
+    postId: MVmEqpYDPmUY6Vky4jOBf0XWEM62OgHVnJr4jqMVFX7OBJXK1VIQ1
+    factor: 1.33
+    portrait: 0
+    mInfo: RtAso90RDfLPC8b
+  - id: QxGCtBD
+    name: yvxvAZqD22u4w37o8j89HN695O
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/QxGCtBD.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVo8vGJ64wFRQjMBnqRMIqymk7W06vFop47O3wORFzMvMrAZPPU3rYEELGxoIN4X7yKWvGT2K84qxBkmTOQ7XPMMJ9sj58V47DDNcA4W9PAW8NFnRAE3Kry6HmrQRw60V9FxYrMmRX6mF8XMY3EzmMhoV1nNKXmkTrOjLgkj8AIMwkjyYW9g
+    parentId: Q8B8KYo22WiL3VVYRYyztrKxyg
+    postId: MVmEqpYDPmUY6Vky4jOBf0XWEM62OgHVnJr4jqMVFX7OBJXK1VIQ1
+    factor: 1.33
+    portrait: 1
+    mInfo: dsgG4k2QoEoMbje
+  - id: 1kjfsRU
+    name: xrwrzYpBLLuXVE83N42ntRqoD5
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1kjfsRU.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkPjVfRwGkyXoQVFw5j9gP7WDcRx9zxjkjWSkwnp1JMkkHpoLg48G4QtgRR8NpMAASoQNNnrAm2fMmxx9AzQjsKjJyGXk52ukxo7zqqZVtEpl7Xm22McZWOG4ZR9rsLOENG4PngcLB0xz35nOtx9n69Q918c7kp2YEX45CN1l5PMXmBS4EAGxDAZmIjrKP3DLJL
+    parentId: Q8B8KYo22WiL3VVYRYyztrKxyg
+    postId: MVmEqpYDPmUY6Vky4jOBf0XWEM62OgHVnJr4jqMVFX7OBJXK1VIQ1
+    factor: 1.33
+    portrait: 0
+    mInfo: ENVlcYFRCC5Z2CV
+message: "野上養鯉場 Nogami Koi Farm  
+主要生產高級紅白，親鯉血統源自於大日錦鯉場。  
+  
+Nogami Koi Farm  
+Gosanke, hight quality Kohaku"
+---
+
+野上養鯉場 Nogami Koi Farm  
+主要生產高級紅白，親鯉血統源自於大日錦鯉場。  
+  
+Nogami Koi Farm  
+Gosanke, hight quality Kohaku
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/nPwvSlr.jpg"><img src="https://i.imgur.com/nPwvSlr.jpg" height="221" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/xoMwp7G.jpg"><img src="https://i.imgur.com/xoMwp7G.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/gwr7zAT.jpg"><img src="https://i.imgur.com/gwr7zAT.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/QxGCtBD.jpg"><img src="https://i.imgur.com/QxGCtBD.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/1kjfsRU.jpg"><img src="https://i.imgur.com/1kjfsRU.jpg" height="225" width="300" /></a> 
+ 
