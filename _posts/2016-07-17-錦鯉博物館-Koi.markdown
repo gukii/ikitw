@@ -1,0 +1,81 @@
+---
+layout: post
+title: "錦鯉博物館 Koi" 
+date: 2016-07-17T03:47:43+0000 
+categories: ["華錦","Koi ","錦鯉"] 
+media:
+  - id: rgWe8A6
+    name: 0rPro5wmKWCy7pV3DKOZiO4Z76
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rgWe8A6.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkX3KXl7M1fMXAklQPLoC3ZjrWm9WRH97P6kLqnWiwDZPOq9Y5hxBN030xYvinZZvPDA16F91Vl5jkDxfBzAD6Ygj8hk4Lpk0BjwIBR3v9DD7Xt1q9mO0EEgI0329O0BQOCx2DJw2qnzT2n87mpRq8iZvy122DL4uPMZ6qN8AlcoBAWMJNmjCkpLYD6LVncnPL2Wq4zk
+    parentId: 7B2ByoEwRgHYQM2VZvjyUqymAA
+    postId: l9VvynKQlVslzqPwNLnRs7QqoW3mjZUNrlYlNW1gSv8QK9PB7zSxn
+    factor: 1.33
+    portrait: 0
+    mInfo: DPNzfJPS60PM2VL
+  - id: eqMUaDp
+    name: qkmkpOgr1KT2E2ng0WlKSNjyyR
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/eqMUaDp.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3MEQxnDxAF8rLZNm0GvuAR07mk32xIVNV98lKzKiAzZM0KjEGCRk7rno71wiYQ18gxq13F8ZXrVr4MMiYVJm8ggRxfNMrx6J00wSgv7pGgA8vc1QlvRyvJBuXNwJppQ3BUnwmXmkqvxcplQg5J1m9c3l3z26GGJtxpVqPQV1AFzDLxEn0xL
+    parentId: 7B2ByoEwRgHYQM2VZvjyUqymAA
+    postId: l9VvynKQlVslzqPwNLnRs7QqoW3mjZUNrlYlNW1gSv8QK9PB7zSxn
+    factor: 1.33
+    portrait: 1
+    mInfo: TvBqKJ8QUyQ0H3m
+  - id: F5EUSJK
+    name: 0rPro5wmKWCy7z8wY4kxhOJzlO
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/F5EUSJK.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAzg1m5WQBHKrZ57w9r5fyR9E8G320tN5NWj0m7wTZQQvw8BgqCyE68vrPN8UK2Qz7W4z4UKA9PvxMj8s7pwJRPPlYfE4yRPkggOc6WvqA6pwyf190Zy08MrS26pj6grxEsQ64ywkDV7u5NQX7rnr7sw3239qjQKSrAzn04z3OI4nNZJOBpV
+    parentId: 7B2ByoEwRgHYQM2VZvjyUqymAA
+    postId: l9VvynKQlVslzqPwNLnRs7QqoW3mjZUNrlYlNW1gSv8QK9PB7zSxn
+    factor: 1.33
+    portrait: 1
+    mInfo: kooAnt0jDohBNdJ
+  - id: RgAu7fD
+    name: AYgYXBR2pvSRwRzjM6MpiQ1pG3
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/RgAu7fD.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRmrRBMg9c3ARx8l4L2HlAqDVvZZrsZNQOn9VWEck0yzWL30ZcJqQDvvl5nUO2xrGYQLJh8gJE4oG2mFvq4wO138jtD524YRKmPFQA8OnWWVjhozyQJN44muO5DqvODo1il8YR9g2YnFp41gwA3xOIGDRWj3rgMC97oR0KoRAFz3ZOPP2K8FkKYNAmYjMcZ00POz0Vl
+    parentId: 7B2ByoEwRgHYQM2VZvjyUqymAA
+    postId: l9VvynKQlVslzqPwNLnRs7QqoW3mjZUNrlYlNW1gSv8QK9PB7zSxn
+    factor: 1.33
+    portrait: 0
+    mInfo: UZ4ObMuVxpmemSI
+story: "華錦顧問股份有限公司 is at 小千谷市総合産業会館サンプラザ."  
+message: "錦鯉博物館 Koi Museum"
+---
+
+錦鯉博物館 Koi Museum
+ 
+ 
+[//]: #story:
+華錦顧問股份有限公司 is at 小千谷市総合産業会館サンプラザ.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/rgWe8A6.jpg"><img src="https://i.imgur.com/rgWe8A6.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/eqMUaDp.jpg"><img src="https://i.imgur.com/eqMUaDp.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/F5EUSJK.jpg"><img src="https://i.imgur.com/F5EUSJK.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/RgAu7fD.jpg"><img src="https://i.imgur.com/RgAu7fD.jpg" height="225" width="300" /></a> 
+ 
