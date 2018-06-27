@@ -1,0 +1,46 @@
+---
+layout: post
+title: "生產魚場：日本阪井" 
+date: 2016-06-26T23:20:41+0000 
+categories: ["Sakai"] 
+media:
+  - id: keg7KlH
+    name: N6nErZZErQtpowXkV1K0frXVqz
+    description: "生產魚場;日本阪井 Sakai
+生產年份;2013.06
+品種類別;昭和 Showa
+公母尺寸;公魚 / 50cm
+鑑賞等級;AAA
+魚隻編號;20160229-070
+銷售定價;已售出"   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/keg7KlH.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmL4qLOJJliqxL27vBpqiW1LqAknKzio34E3N6NlUEgE0RVJLJiKvm80rkPofDPY0r55VpSlZ31V1xPXS8Yg8kkE9MSG7OZEQ1GXuA1wp5xxOMhKl17LQ44xFL2gVKLY89UYRVNE692Qh7l7G72B4oSvyoq1RomRFml2LJgzYwc6YRrWnEpMimNPoW4PROcgRwrQwqnB
+    parentId: N6nErZZErQtpowXkV1K0frXVqz
+    postId: W9zwEDgOrzs8ywXLm09rFXlnDvqMnOS31VDM3YBpc4A92oLDOws0P
+    factor: 1.50
+    portrait: 1
+    mInfo: jlHwUuHuykw9Rtp
+message: "生產魚場;日本阪井 Sakai  
+生產年份;2013.06  
+品種類別;昭和 Showa  
+公母尺寸;公魚 / 50cm  
+鑑賞等級;AAA  
+魚隻編號;20160229-070  
+銷售定價;已售出"
+---
+
+生產魚場：日本阪井 Sakai  
+生產年份：2013.06  
+品種類別：昭和 Showa  
+公母尺寸：公魚 / 50cm  
+鑑賞等級：AAA  
+魚隻編號：20160229-070  
+銷售定價：已售出
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/keg7KlH.jpg"><img src="https://i.imgur.com/keg7KlH.jpg" height="300" width="200" /></a> 
+ 
