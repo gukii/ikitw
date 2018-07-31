@@ -7,244 +7,391 @@ layout: simplehome
 
 
 <style>
-/*
-  .cards {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    max-height: 100vh;
-
-    justify-content: space-around;
-    align-content: stretch;
-
-  }
 
 
 
-  .cards img {
-    margin: 10px;
-    border: 3px solid #000;
-    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3);
-    max-width: 23vw;
-  }
+        .pagination a, .pagination span {
+              padding: 7px 18px;
+              border: 1px solid #eee;
+              margin-left: -2px;
+              margin-right: -2px;
+              background-color: #ffffff;
+              display: inline-block;
+            }
 
-*/
+          .pagination a {
+              &:hover {
+                  background-color: #f1f1f1;
+                  color: #333;
+              }
+          }
+
+          .pagination {
+              text-align: center;
+          }
 
 
-  .pagination a, .pagination span {
-      padding: 7px 18px;
-      border: 1px solid #eee;
-      margin-left: -2px;
-      margin-right: -2px;
-      background-color: #ffffff;
-      display: inline-block;
-    }
 
-  .pagination a {    
-      &:hover {
-          background-color: #f1f1f1;
-          color: #333;
+
+
+
+     .dateContainer {
+       color: grey;
+     }
+
+     .stats {
+        color: grey;
+        font-size: small;
       }
-  }
-
-  .pagination {
-      text-align: center;
-  }
-
-  
 
 
+       a {
+           text-decoration: none;
+       }
 
-  .textContentStyle {
-      /*flexDirection: 'column';*/
-      /*justifyContent: 'space-around';*/
-      /*justify-content: center;*/
-
-      /*flex-shrink: 1;*/
-
-      align-items: center;
-      align-content: stretch;
-      margin-left: 30px;
-
-      font-size: large;
+       a:link, a:visited, a:hover {
+           color: black;
+           text-decoration: none;
+       }
 
 
+       .postContainerStyle {
+          margin: auto;
+         width: 80%;
+         align-items: center;
+         margin-bottom: 2.5em;
+       }
+
+       .outerContainerStyle {
+          width: 100%;
+          height: 100%;
+        	margin-bottom: 0.01em;
+           margin: 0 auto;
+           align-items: center;
+       }
 
 
-      /*white-space: nowrap;*/
-  /*
-      overflow: hidden;
-      text-overflow: ellipsis;
-      max-width: 120ch;
-      */
-  }
+       .textContentStyle {
+           /*flexDirection: 'column';*/
+           /*justifyContent: 'space-around';*/
+           /*justify-content: center;*/
 
-  .thumbnailContainerStyle {
-      /*flex-shrink: 1;
-      flex-grow: 1;*/
-      /*flex-wrap: wrap;*/
-      /*justifyContent: 'center';
-      alignItems: 'center';*/
-      marginLeft: 10;
-      marginRight: 10;
-      /*flex-direction: row;*/
+           /*flex-shrink: 1;*/
 
-  }
+           align-items: center;
+           align-content: center;
+           margin-left: 0.5em;
 
-  .imageStyle {
-      /*height: 300;*/
-      width: null;
-      /*flex-direction: row;*/
-      align-items: 'center';
-  }
+           font-size: medium;
 
+           overflow-x: hidden;
+           /*text-align: center;*/
+
+           width: 100%;
+         }
+
+
+       .thumbnailContainerStyle {
+         overflow: hidden;
+         width: 100%;
+         display: flex;
+         align-items: flex-start;
+         /*flex-wrap: wrap;*/
+         justify-content:center;
+         align-items: center;
+       }
+
+
+
+       img {
+
+         border: 4px solid #fff;
+
+       }
+
+       /* one item */
+       img:first-child:nth-last-child(1) {
+       /* -or- li:only-child { */
+
+          /*height: 22em;*/
+          height: 100%;
+          object-fit: contain;
+          justify-content: center;
+       }
+
+       /* two items */
+       img:first-child:nth-last-child(2),
+       img:first-child:nth-last-child(2) ~ img {
+
+            justify-content: center;
+            max-height: 22em;
+
+            object-fit: contain;
+            height: 100%;
+
+
+       }
 /*
-
-1 image
-  - portrait
-  - landscape
-
-2 images
-  - portrait    II
-  - portrait
-
-  - portrait    I--  
-  - landscape
-
-  - landscape   --
-  - landscape   --
-
-3 images  
-  - portrait
-  - portrait
-  - portrait
-
-  - portrait
-  - landscape
-  - portrait
-
-  - portrait
-  - landscape
-  - landscape
-
-  - landscape
-  - portrait
-  - portrait
-
-  - landscape 
-  - landscape
-  - portrait
-
-  - landscape
-  - landscape
-  - landscape
-
-*/
-
-  .imageStylePortrait1 {
-      /*height: 300;*/
-      width: null;
-      /*flex-direction: row;*/
-      align-items: 'center';
-  }
-
-    .imageStylePortrait2 {
-      /*height: 300;*/
-      width: null;
-      /*flex-direction: row;*/
-      align-items: 'center';
-  }
+       .tophalf .lowerhalf {
+         overflow: hidden;
+         width: 100%;
+         display: flex;
+         align-items: flex-start;
+         /*flex-wrap: wrap;*/
+         justify-content:center;
+         align-items: center;
+       }*/
 
 
-    a {
-        text-decoration: none;
-    }
-    a:link, a:visited {
-        color: black;
-    }
+
+       /* 4 items split, two items, top half */
+       .tophalf img:first-child:nth-last-child(2),
+       .tophalf img:first-child:nth-last-child(2) ~ img {
+
+            margin-left: auto;
+            height: 100%;
+            /*flex-basis: 100%; // forces this element to take up any remaining space */
+            /*height: 11em;*/
+       }
+
+        /* 4 items split, two items,lower half */
+        .lowerhalf img:first-child:nth-last-child(2),
+        .lowerhalf img:first-child:nth-last-child(2) ~ img {
+
+            justify-content: flex-start;
+             object-fit: cover;
+             height: 100%;
+             /*height: 11em;*/
+        }
 
 
-    .postContainerStyle {
-        /*flex-shrink: 1;
-        flex-grow: 1;*/
-        display: inline-flex;
-        borderBottomWidth: 1;
-        padding: 5;
-        backgroundColor: '#fff';
-        justifyContent: 'space-between';
-        align-items: center;
-        align-content: stretch;
-        /*flexDirection: 'column';*/
-        borderColor: '#ddd';
-        /*position: 'relative';*/
-        padding-bottom: 60px;
-    }
-
-    .outerContainerStyle {
-        display: "flex";
-        flex-direction: "column";
-    }
-
-    .dateContainer {
-      width: "300px";
-      color: grey;
-    }
-
-    .stats {
-      color: grey;
-      font-size: small;
-    }
+        .tophalf, .lowerhalf {
+          margin: 0 0 0 0;
+          padding: 0 0 0 0;
+          overflow: hidden;
+          /*margin-right: 0.2em;*/
+        }
 
 
+
+        /* 3 items split, one item, top half */
+        .tophalf3 img:first-child:nth-last-child(2),
+        .tophalf3 img:first-child:nth-last-child(2) ~ img {
+
+            object-fit: contain;
+            height: 100%
+            /*height: 22em;*/
+        }
+
+        /* 3 items split, two items,lower half */
+        .lowerhalf3 img:first-child:nth-last-child(2),
+        .lowerhalf3 img:first-child:nth-last-child(2) ~ img {
+            /*
+              object-fit: cover;
+              width: 99%;
+              height: 11em;
+              */
+              object-fit: contain;
+              height: 100%;
+        }
+
+
+
+       /* three items */
+       img:first-child:nth-last-child(3),
+       img:first-child:nth-last-child(3) ~ img {
+
+
+         object-fit: cover;
+         width: 100%;
+         height: 15em;
+         /*
+         width: 100%
+         max-width: 300px;
+         height: 200px;
+         */
+       }
+
+       /* four items */
+       img:first-child:nth-last-child(4),
+       img:first-child:nth-last-child(4) ~ img {
+
+         width: 100%;
+         max-width: 25em;
+         height: 100%;
+       }
+
+
+
+
+       .moreImages {
+         position: aboslute;
+         color: rgb(226, 21, 21);
+         bottom: 240px;
+         right: 216px;
+       }
+
+
+
+
+       /* ----------------------------------------------------------------------------*/
 
   @media only screen and (max-width: 600px) {
 
-    .postContainerStyle {
-        /*flex-shrink: 1;
-        flex-grow: 1;*/
-        display: block;
-    }
 
-    .textContentStyle {
+           .postContainerStyle {
+             width: 100%;
+             align-items: center;
+             margin-bottom: 1.5em;
+           }
 
+           .outerContainerStyle {
+              width: 100%;
+              height: 100%;
 
-        align-items: center;
-        align-content: stretch;
-        display: block;
-        margin-left: 0px;
-
-        font-size: medium;
-        width: 100%;
-    }
-
-    .outerContainerStyle {
-        display: "flex";
-        flex-direction: "column";
-        width: 100%;
-    }
+             	margin: 0 0 0 0;
+              margin-bottom: 1em;
+           }
 
 
-    .thumbnailContainerStyle {
-        /*flex-shrink: 1;
-        flex-grow: 1;*/
-        /*flex-wrap: wrap;*/
-        /*justifyContent: 'center';
-        alignItems: 'center';*/
-        marginLeft: 10;
-        marginRight: 10;
-        /*flex-direction: row;*/
-        width: 100%;
-        display: block;
+           .textContentStyle {
+               /*flexDirection: 'column';*/
+               /*justifyContent: 'space-around';*/
+               /*justify-content: center;*/
+
+               /*flex-shrink: 1;*/
+
+               align-items: center;
+               align-content: stretch;
+               margin-left: 0.2em;
+               margin-right: 0.2em;
+
+               font-size: large;
+
+               overflow-x: hidden;
+               width: 100%;
+               align-items: center;
+             }
 
 
-    }
+           .thumbnailContainerStyle {
+             overflow-x: hidden;
+             width: 100%;
+             height: 100%;
 
-    .imageStyle {
-        /*height: 300;*/
-        width: null;
-        /*flex-direction: row;*/
-        align-items: 'center';
-    }
+             display: flex;
+             align-items: flex-start;
+             /*flex-wrap: wrap;*/
+             justify-content: center;
+             align-items: center;
+           }
+
+
+
+           img {
+
+             border: 4px solid #fff;
+
+           }
+
+           /* one item */
+           img:first-child:nth-last-child(1) {
+           /* -or- li:only-child { */
+              height: 100%;
+              /*height: 100%;*/
+              object-fit: contain;
+              justify-content: center;
+
+           }
+
+           /* two items */
+           img:first-child:nth-last-child(2),
+           img:first-child:nth-last-child(2) ~ img {
+
+
+                justify-content: center;
+                max-height: 18em;
+
+                object-fit: contain;
+                width: 100%;
+                height: 100%;
+
+           }
+
+
+
+
+           /* 4 items split, two items, top half */
+           .tophalf img:first-child:nth-last-child(2),
+           .tophalf img:first-child:nth-last-child(2) ~ img {
+
+                justify-content: right;
+                object-fit: cover;
+                height: 100%;
+                /*height: 11em;*/
+           }
+
+            /* 4 items split, two items,lower half */
+            .lowerhalf img:first-child:nth-last-child(2),
+            .lowerhalf img:first-child:nth-last-child(2) ~ img {
+
+                justify-content: left;
+                 object-fit: cover;
+                 height: 100%;
+                 /*height: 11em;*/
+            }
+
+
+
+
+
+
+           /* 3 items split, one item, top half */
+           .tophalf3 img:first-child:nth-last-child(2),
+           .tophalf3 img:first-child:nth-last-child(2) ~ img {
+
+                object-fit: cover;
+                width: 99%;
+                height: 22em;
+           }
+
+            /* 3 items split, two items,lower half */
+            .lowerhalf3 img:first-child:nth-last-child(2),
+            .lowerhalf3 img:first-child:nth-last-child(2) ~ img {
+
+                 object-fit: cover;
+                 width: 99%;
+                 height: 11em;
+            }
+
+
+
+           /* three items not really used anymore */
+           img:first-child:nth-last-child(3),
+           img:first-child:nth-last-child(3) ~ img {
+
+
+             object-fit: cover;
+             width: 100%;
+             height: 15em;
+             /*
+             width: 100%
+             max-width: 300px;
+             height: 200px;
+             */
+           }
+
+
+           /* four items -- not really used anymore, cause i m using 2x2 for this now.. */
+           img:first-child:nth-last-child(4),
+           img:first-child:nth-last-child(4) ~ img {
+
+             width: 100%;
+             max-width: 25em;
+             height: 100%;
+           }
+
+
 
   }
 
@@ -255,53 +402,67 @@ layout: simplehome
 	{% for post in paginator.posts  %}
 	  <article>
 
-      <a href="{{ post.url }}" class="postLink">
-        <div class="dateContainer">
-          <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-        </div>
+
 
         <div class="postContainerStyle">
 
-          <div class="thumbnailContainerStyle">
-              {% for myImg in post.media limit:4 %}
+            <a href="{{ post.url }}" class="postLink">
+                  <div class="dateContainer">
+                    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+                  </div>
 
-                {% if post.media.size == 1 %}
-                  <img class="imageStyle" src="https://i.imgur.com/{{myImg['id']}}l.jpg" style="float:left;width:100%;max-height:22em;object-fit:contain;overflow:hidden"/>
-                
-                {% elsif post.media.size == 2 %}
-                  <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" style="float:left;width:50%;height:50%;object-fit:cover;overflow:hidden"/>
-                
-                {% elsif post.media.size == 3 %}
-                
-                  {% if myImg['height'] > myImg['width']  %}
-                    <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" style="float:left;width:33%;height:33%;object-fit:contain;overflow:hidden"/>
-                  {% else %}
-                    <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" style="float:left;width:33%;height:33%;object-fit:cover;overflow:hidden"/>
+
+                  {% if post.media.size == 1 %}
+                    <div class="thumbnailContainerStyle">
+                      <div class="singlePic">
+                        <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
+                      </div>
+                    </div>
+                  {% elsif post.media.size == 2 %}
+                    <div class="thumbnailContainerStyle">
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />
+                    </div>
+                  {% elsif post.media.size == 3 %}
+                  <div class="thumbnailContainerStyle">
+                    <div class="tophalf3">
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
+                    </div>
+
+                    <div class="lowerhalf3">
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[2].id}}m.jpg" />
+                    </div>
+                  </div>
+                  {% elsif post.media.size > 3 %}
+                    <div class="thumbnailContainerStyle">
+                      <div class="tophalf">
+                        <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
+                        <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />
+                      </div>
+
+                      <div class="lowerhalf">
+                        <img class="imageStyleX" src="https://i.imgur.com/{{post.media[2].id}}m.jpg" />
+                        <img class="imageStyleX" src="https://i.imgur.com/{{post.media[3].id}}m.jpg" />
+                      </div>
+
+                    </div>
                   {% endif %}
 
-                {% elsif post.media.size > 3 %}
-                
-                {% if myImg['height'] > myImg['width']  %}
-                  <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" style="float:left;width:50%;height:50%;object-fit:contain;overflow:hidden"/>
-                {% else %}
-                  <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" style="float:left;width:50%;height:50%;object-fit:cover;overflow:hidden"/>
-                {% endif %}
-              {% endif %}                
+
+                  <div class="textContentStyle">
+                      {% assign outputStr = post.content | strip_html | truncate: 80 %}
+                      {{ post.content | strip_html | truncate: 80 }}
+                      <br />
+                      <span class="stats">post size: {{ post.content.size }} characters, images: {{ post.media.size }}</span>
+                  </div>
 
 
-              {% endfor %}
-          </div>
 
-
-          <div class="textContentStyle">
-            {% assign outputStr = post.content | strip_html | truncate: 80 %}
-            {{ post.content | strip_html | truncate: 80 }}
-            <br />
-            <span class="stats">post size: {{ post.content.size }} characters, images: {{ post.media.size }}</span>
-          </div>
+            </a>
 
         </div>
-      </a>
+
 
 
 	  </article>
@@ -315,7 +476,7 @@ layout: simplehome
     {% else %}
       <span>&laquo; Prev</span>
     {% endif %}
-  
+
     {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
         <em>{{ page }}</em>
@@ -325,7 +486,7 @@ layout: simplehome
         <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
       {% endif %}
     {% endfor %}
-  
+
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
     {% else %}
@@ -337,6 +498,3 @@ layout: simplehome
 
 
 </main>
-
-
-

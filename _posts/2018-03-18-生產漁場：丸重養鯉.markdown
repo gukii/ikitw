@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "生產漁場：丸重養鯉" 
-date: 2018-03-18T05:09:11+0000 
-categories: ["IKI","華錦","Marujyu","丸重","Koi "] 
+title: "生產漁場：丸重養鯉"
+date: 2018-03-18T05:09:11+0000
+categories: ["IKI","華錦","Marujyu","丸重","Koi"] 
 media:
   - id: MmzQ249
     name: BmDBK3YM86INlB86Lkm4CRZYgrJ
@@ -77,14 +77,13 @@ message: "生產漁場;丸重養鯉場 Marujyu Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/MmzQ249.jpg"><img src="https://i.imgur.com/MmzQ249.jpg" height="300" width="225" /></a> 
-  
+<a href="https://i.imgur.com/MmzQ249.jpg"><img src="https://i.imgur.com/MmzQ249.jpg" height="300" width="225" /></a>
 
-<a href="https://i.imgur.com/xCi2Ctc.jpg"><img src="https://i.imgur.com/xCi2Ctc.jpg" height="300" width="225" /></a> 
-  
 
-<a href="https://i.imgur.com/EAUqr6F.jpg"><img src="https://i.imgur.com/EAUqr6F.jpg" height="211" width="300" /></a> 
-  
+<a href="https://i.imgur.com/xCi2Ctc.jpg"><img src="https://i.imgur.com/xCi2Ctc.jpg" height="300" width="225" /></a>
 
-<a href="https://i.imgur.com/b0PHSyE.jpg"><img src="https://i.imgur.com/b0PHSyE.jpg" height="168" width="300" /></a> 
- 
+
+<a href="https://i.imgur.com/EAUqr6F.jpg"><img src="https://i.imgur.com/EAUqr6F.jpg" height="211" width="300" /></a>
+
+
+<a href="https://i.imgur.com/b0PHSyE.jpg"><img src="https://i.imgur.com/b0PHSyE.jpg" height="168" width="300" /></a>

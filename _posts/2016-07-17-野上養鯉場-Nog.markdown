@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "野上養鯉場 Nog" 
-date: 2016-07-17T02:21:56+0000 
-categories: ["大日","Koi ","錦鯉"] 
+title: "野上養鯉場 Nog"
+date: 2016-07-17T02:21:56+0000
+categories: ["大日","Koi","錦鯉"] 
 media:
   - id: nPwvSlr
     name: EVmVXJY2W1SjY8GzDxMBtZ0ERZ
@@ -71,30 +71,29 @@ media:
     mInfo: ENVlcYFRCC5Z2CV
 message: "野上養鯉場 Nogami Koi Farm  
 主要生產高級紅白，親鯉血統源自於大日錦鯉場。  
-  
+
 Nogami Koi Farm  
 Gosanke, hight quality Kohaku"
 ---
 
 野上養鯉場 Nogami Koi Farm  
 主要生產高級紅白，親鯉血統源自於大日錦鯉場。  
-  
+
 Nogami Koi Farm  
 Gosanke, hight quality Kohaku
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/nPwvSlr.jpg"><img src="https://i.imgur.com/nPwvSlr.jpg" height="221" width="300" /></a> 
-  
+<a href="https://i.imgur.com/nPwvSlr.jpg"><img src="https://i.imgur.com/nPwvSlr.jpg" height="221" width="300" /></a>
 
-<a href="https://i.imgur.com/xoMwp7G.jpg"><img src="https://i.imgur.com/xoMwp7G.jpg" height="225" width="300" /></a> 
-  
 
-<a href="https://i.imgur.com/gwr7zAT.jpg"><img src="https://i.imgur.com/gwr7zAT.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/xoMwp7G.jpg"><img src="https://i.imgur.com/xoMwp7G.jpg" height="225" width="300" /></a>
 
-<a href="https://i.imgur.com/QxGCtBD.jpg"><img src="https://i.imgur.com/QxGCtBD.jpg" height="300" width="225" /></a> 
-  
 
-<a href="https://i.imgur.com/1kjfsRU.jpg"><img src="https://i.imgur.com/1kjfsRU.jpg" height="225" width="300" /></a> 
- 
+<a href="https://i.imgur.com/gwr7zAT.jpg"><img src="https://i.imgur.com/gwr7zAT.jpg" height="225" width="300" /></a>
+
+
+<a href="https://i.imgur.com/QxGCtBD.jpg"><img src="https://i.imgur.com/QxGCtBD.jpg" height="300" width="225" /></a>
+
+
+<a href="https://i.imgur.com/1kjfsRU.jpg"><img src="https://i.imgur.com/1kjfsRU.jpg" height="225" width="300" /></a>

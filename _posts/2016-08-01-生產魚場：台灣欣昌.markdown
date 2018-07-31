@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "生產魚場：台灣欣昌" 
-date: 2016-08-01T13:48:51+0000 
-categories: ["欣昌","華錦","Koi ","錦鯉"] 
+title: "生產魚場：台灣欣昌"
+date: 2016-08-01T13:48:51+0000
+categories: ["欣昌","華錦","Koi","錦鯉"] 
 media:
   - id: Q7teCMY
     name: 9EPExkAyN9SjklM4RZBVHPplW8
@@ -40,12 +40,11 @@ message: "生產魚場;台灣欣昌 Sing Chang Koi Farm
 鑑賞等級：AAA  
 魚隻編號：160802001  
 展售地點：雲林崙背欣昌
- 
- 
+
+
 [//]: #story:
 華錦顧問股份有限公司 is at 崙背鄉欣昌錦鯉魚養殖場.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Q7teCMY.jpg"><img src="https://i.imgur.com/Q7teCMY.jpg" height="300" width="216" /></a> 
- 
+<a href="https://i.imgur.com/Q7teCMY.jpg"><img src="https://i.imgur.com/Q7teCMY.jpg" height="300" width="216" /></a>

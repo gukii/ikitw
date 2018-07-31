@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "生產魚場：日本川上" 
-date: 2016-10-10T09:26:06+0000 
-categories: ["IKI","華錦","Koi "] 
+title: "生產魚場：日本川上"
+date: 2016-10-10T09:26:06+0000
+categories: ["IKI","華錦","Koi"] 
 media:
   - id: O7rayv2
     name: PVAkRqjxY8tnQZwl72w2U6J9Dq
@@ -10,7 +10,7 @@ media:
 生產年份;2015.6
 品種類別;五色 Goshiki
 尺寸公母;30-35cm / 不明
-鑑賞等級;AAAA級 
+鑑賞等級;AAAA級
 魚隻編號;Kawakami-20161010-003
 展售地點;屏東華錦
 銷售方式;現場交易或貨到付款
@@ -48,5 +48,4 @@ message: "生產魚場;日本川上 Kawakami Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/O7rayv2.jpg"><img src="https://i.imgur.com/O7rayv2.jpg" height="300" width="225" /></a> 
- 
+<a href="https://i.imgur.com/O7rayv2.jpg"><img src="https://i.imgur.com/O7rayv2.jpg" height="300" width="225" /></a>

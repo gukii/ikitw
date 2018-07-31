@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "五十嵐養鯉場 Ik" 
-date: 2016-07-18T03:13:50+0000 
-categories: ["Koi "] 
+title: "五十嵐養鯉場 Ik"
+date: 2016-07-18T03:13:50+0000
+categories: ["Koi"] 
 media:
   - id: hg1o454
     name: J9r91DlWv4SnvoZAYKBPfv3N3R
@@ -58,27 +58,26 @@ media:
     mInfo: ufB9fuM9ZtPoQmY
 message: "五十嵐養鯉場 Ikarashi Yorijo  
 德國鯉、變種鯉、金銀鱗。  
-  
+
 Ikarashi Koi Farm  
 Doitsu, Kawarimono, Kinginrin."
 ---
 
 五十嵐養鯉場 Ikarashi Yorijo  
 德國鯉、變種鯉、金銀鱗。  
-  
+
 Ikarashi Koi Farm  
 Doitsu, Kawarimono, Kinginrin.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/hg1o454.jpg"><img src="https://i.imgur.com/hg1o454.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/hg1o454.jpg"><img src="https://i.imgur.com/hg1o454.jpg" height="225" width="300" /></a>
 
-<a href="https://i.imgur.com/rxnoTmZ.jpg"><img src="https://i.imgur.com/rxnoTmZ.jpg" height="225" width="300" /></a> 
-  
 
-<a href="https://i.imgur.com/TNBFDvR.jpg"><img src="https://i.imgur.com/TNBFDvR.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/rxnoTmZ.jpg"><img src="https://i.imgur.com/rxnoTmZ.jpg" height="225" width="300" /></a>
 
-<a href="https://i.imgur.com/ijeBBhE.jpg"><img src="https://i.imgur.com/ijeBBhE.jpg" height="300" width="225" /></a> 
- 
+
+<a href="https://i.imgur.com/TNBFDvR.jpg"><img src="https://i.imgur.com/TNBFDvR.jpg" height="225" width="300" /></a>
+
+
+<a href="https://i.imgur.com/ijeBBhE.jpg"><img src="https://i.imgur.com/ijeBBhE.jpg" height="300" width="225" /></a>

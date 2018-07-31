@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "丸重養鯉場 Mar" 
-date: 2016-07-16T06:16:19+0000 
-categories: ["Marujyu","丸重","Koi "] 
+title: "丸重養鯉場 Mar"
+date: 2016-07-16T06:16:19+0000
+categories: ["Marujyu","丸重","Koi"] 
 media:
   - id: QVjIivL
     name: zwyw41Z806uzM5YX6g1ZCo2K3g
@@ -111,7 +111,7 @@ media:
 message: "丸重養鯉場 Marujyu Koi Farm  
 田中重嘉 Shigeyoshi Tanaka  
 田中先生是第三代養殖業者，繁殖有御三家、銀鱗、藍衣、丹頂等品種。  
-  
+
 Marujyu Koi Farm  
 Gosanke, Kinginrin, Goromo, Tancho."
 ---
@@ -119,32 +119,31 @@ Gosanke, Kinginrin, Goromo, Tancho."
 丸重養鯉場 Marujyu Koi Farm  
 田中重嘉 Shigeyoshi Tanaka  
 田中先生是第三代養殖業者，繁殖有御三家、銀鱗、藍衣、丹頂等品種。  
-  
+
 Marujyu Koi Farm  
 Gosanke, Kinginrin, Goromo, Tancho.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/QVjIivL.jpg"><img src="https://i.imgur.com/QVjIivL.jpg" height="300" width="225" /></a> 
-  
+<a href="https://i.imgur.com/QVjIivL.jpg"><img src="https://i.imgur.com/QVjIivL.jpg" height="300" width="225" /></a>
 
-<a href="https://i.imgur.com/iRzQsyB.jpg"><img src="https://i.imgur.com/iRzQsyB.jpg" height="160" width="300" /></a> 
-  
 
-<a href="https://i.imgur.com/lJlH22p.jpg"><img src="https://i.imgur.com/lJlH22p.jpg" height="300" width="205" /></a> 
-  
+<a href="https://i.imgur.com/iRzQsyB.jpg"><img src="https://i.imgur.com/iRzQsyB.jpg" height="160" width="300" /></a>
 
-<a href="https://i.imgur.com/20nErO8.jpg"><img src="https://i.imgur.com/20nErO8.jpg" height="191" width="300" /></a> 
-  
 
-<a href="https://i.imgur.com/ePa9AI2.jpg"><img src="https://i.imgur.com/ePa9AI2.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/lJlH22p.jpg"><img src="https://i.imgur.com/lJlH22p.jpg" height="300" width="205" /></a>
 
-<a href="https://i.imgur.com/gvvRbp7.jpg"><img src="https://i.imgur.com/gvvRbp7.jpg" height="300" width="237" /></a> 
-  
 
-<a href="https://i.imgur.com/iitWNgX.jpg"><img src="https://i.imgur.com/iitWNgX.jpg" height="300" width="229" /></a> 
-  
+<a href="https://i.imgur.com/20nErO8.jpg"><img src="https://i.imgur.com/20nErO8.jpg" height="191" width="300" /></a>
 
-<a href="https://i.imgur.com/fgnubTk.jpg"><img src="https://i.imgur.com/fgnubTk.jpg" height="225" width="300" /></a> 
- 
+
+<a href="https://i.imgur.com/ePa9AI2.jpg"><img src="https://i.imgur.com/ePa9AI2.jpg" height="225" width="300" /></a>
+
+
+<a href="https://i.imgur.com/gvvRbp7.jpg"><img src="https://i.imgur.com/gvvRbp7.jpg" height="300" width="237" /></a>
+
+
+<a href="https://i.imgur.com/iitWNgX.jpg"><img src="https://i.imgur.com/iitWNgX.jpg" height="300" width="229" /></a>
+
+
+<a href="https://i.imgur.com/fgnubTk.jpg"><img src="https://i.imgur.com/fgnubTk.jpg" height="225" width="300" /></a>

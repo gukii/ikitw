@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "心曠神怡～   總" 
-date: 2016-07-06T03:58:00+0000 
-categories: ["Hobby","Koi "] 
+title: "心曠神怡～   總"
+date: 2016-07-06T03:58:00+0000
+categories: ["Hobby","Koi"] 
 media:
   - id: e1Fh7Fb
     name: 6A4NOzPRwmsWvLk7NXLBTx1x9R
@@ -62,7 +62,7 @@ message: "心曠神怡～
 循環速率;1.5h( 1.5小時循環一次）  
 過濾材料;強制+傳統  
 飼養密度;20尾  
-  
+
 Taiwan koi hobby pond  
 Pond size; 10mLx5mWx1.6~2mD  
 20pcs koi in 100t water."
@@ -74,21 +74,20 @@ Pond size; 10mLx5mWx1.6~2mD
 循環速率：1.5h( 1.5小時循環一次）  
 過濾材料：強制+傳統  
 飼養密度：20尾  
-  
+
 Taiwan koi hobby pond  
 Pond size: 10mLx5mWx1.6~2mD  
 20pcs koi in 100t water.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/e1Fh7Fb.jpg"><img src="https://i.imgur.com/e1Fh7Fb.jpg" height="112" width="300" /></a> 
-  
+<a href="https://i.imgur.com/e1Fh7Fb.jpg"><img src="https://i.imgur.com/e1Fh7Fb.jpg" height="112" width="300" /></a>
 
-<a href="https://i.imgur.com/LeOtoSy.jpg"><img src="https://i.imgur.com/LeOtoSy.jpg" height="300" width="266" /></a> 
-  
 
-<a href="https://i.imgur.com/8rCrep1.jpg"><img src="https://i.imgur.com/8rCrep1.jpg" height="300" width="271" /></a> 
-  
+<a href="https://i.imgur.com/LeOtoSy.jpg"><img src="https://i.imgur.com/LeOtoSy.jpg" height="300" width="266" /></a>
 
-<a href="https://i.imgur.com/FzHBBcg.jpg"><img src="https://i.imgur.com/FzHBBcg.jpg" height="225" width="300" /></a> 
- 
+
+<a href="https://i.imgur.com/8rCrep1.jpg"><img src="https://i.imgur.com/8rCrep1.jpg" height="300" width="271" /></a>
+
+
+<a href="https://i.imgur.com/FzHBBcg.jpg"><img src="https://i.imgur.com/FzHBBcg.jpg" height="225" width="300" /></a>
