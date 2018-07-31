@@ -8,8 +8,13 @@ layout: simplehome
 
 <style>
 
+/*
+        .alter div:nth-child(even) {
+          color: yellow;
+          background-color: green;
+        }
 
-
+*/
         .pagination a, .pagination span {
               padding: 7px 18px;
               border: 1px solid #eee;
@@ -96,6 +101,7 @@ layout: simplehome
            align-items: center;
            align-content: stretch;
            margin-left: 30px;
+           max-width: 50%;
 
            font-size: large;
          }
@@ -428,18 +434,18 @@ layout: simplehome
               <div class="postContainerStyle">
 
                   {% if post.media.size == 1 %}
-                    <div class="thumbnailContainerStyle">
+                    <div class="thumbnailContainerStyle alter">
                       <div class="singlePic">
                         <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
                       </div>
                     </div>
                   {% elsif post.media.size == 2 %}
-                    <div class="thumbnailContainerStyle">
+                    <div class="thumbnailContainerStyle alter">
                       <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
                       <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />
                     </div>
                   {% elsif post.media.size == 3 %}
-                  <div class="thumbnailContainerStyle">
+                  <div class="thumbnailContainerStyle alter">
                     <div class="tophalf3">
                       <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
                     </div>
@@ -450,7 +456,7 @@ layout: simplehome
                     </div>
                   </div>
                   {% elsif post.media.size > 3 %}
-                    <div class="thumbnailContainerStyle">
+                    <div class="thumbnailContainerStyle alter">
                       <div class="tophalf">
                         <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
                         <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />
@@ -465,7 +471,7 @@ layout: simplehome
                   {% endif %}
 
 
-                  <div class="textContentStyle">
+                  <div class="textContentStyle alter">
                       {% assign outputStr = post.content | strip_html | truncate: 80 %}
                       {{ post.content | strip_html | truncate: 80 }}
                       <br />
